@@ -1,0 +1,23 @@
+# main links
+
+# format goes like this:
+  # - title: // name of link
+  #   url:   // link to page
+
+# note: format matters! as page gets smaller (tablets/phones,) right-most links are hidden.
+
+main:
+  - title: "Members"
+    url: /members/
+  - title: "Events"
+    url: /events/
+# - title: "Culture"
+#   url: /culture/
+  - title: "Scholarship"
+    url: /scholarship/
+  - title: "Officers"
+    url: /officers/
+  - title: "Constitution"
+    url: /constitution/
+  - title: "Store"
+    url: https://squareup.com/store/VTFASA
