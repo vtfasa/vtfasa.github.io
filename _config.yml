@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "VT FASA"
 title_separator          : "-"
-name                     : "Jonathan Lacson" # webmaster name goes here
+name                     : "JD Hernandez" # webmaster name goes here
 description              : "Filipino American Student Association at Virginia Tech"
-url                      : "http://www.vtfasa.org.vt.edu"
+url                      : "http://vtfasa.org"
 baseurl                  :
-repository               : #"vtfasa/vtfasa.github.io"
+repository               : "vtfasa/vtfasa.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
