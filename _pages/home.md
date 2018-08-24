@@ -56,7 +56,7 @@ e_board1:
   - image_path: /assets/images/home/eboard/aubrey.jpg
     alt: "Aubrey Medina"
     title: "Aubrey Medina"
-    excerpt: "***Vice President*** - I quote FRIENDS and and Harry Potter a lot
+    excerpt: "***Vice President*** - I quote FRIENDS and and Harry Potter a lot"
 "
   # secretary
   - image_path: /assets/images/home/eboard/timmy.jpg
