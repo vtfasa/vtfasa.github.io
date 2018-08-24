@@ -13,55 +13,57 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/aubrey.png" | absolute_url }}){: .align-left}
-## Aubrey Medina
+![image-left]({{ "/assets/images/officers/small/victoria.png" | absolute_url }}){: .align-left}
+## Victoria Grimmm
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="mailto:aubreym@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:vrgrimm@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**International Studies (Global Development) & Arabic Minor**
+**International Relations**
 
-> Hi! My name's Aubrey and I want Insomnia Cookies to cater my Disney-themed wedding one day.
+> From Fairfax, VA and one half of the team that puts the fun in fundraising! I love musical theatre as well as trivia games and I’m very excited to serve as an officer for FASA this year! :~)
 
 ### **What are some of your favorite hobbies?**
 
-> *Watching scary movies, taking naps, baking Nestle Toll House cookies, and laughing at Alex with Lexi*
+> *Singing, arts and crafts, trivia*
 
-### **What fictional character do you relate with the most and why?**
+### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
 
-> *Jim from The Office. If I'm ever annoyed I actually look to the side into an imaginary camera.*
+> *ihomac (International House of Macaroni and Cheese); would ONLY and EXCLUSIVELY sell Mac and cheese*
 
-### **If your life was a movie what would it be called and who would play you?**
+### **If you could live anywhere in the world, where would it be and why?**
 
-> *"I Just Woke Up" starring Me Everyday*
+> *Spain because*
+> *1). Cheetah girls 2*
+> *2). I’ve been taking spanish for almost 7 years and need something to show for it*
 
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
+### **What is your taste in music? (Favorite genres, artists, song)**
 
-> *100 DUCK SIZED HORSES?!?! HOW CUTE!!!!*
+> *Musical theatre, Taylor Swift, The Beatles*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/aldwin.png" | absolute_url }}){: .align-left}
-## Aldwin Pagulayan
+![image-left]({{ "/assets/images/officers/small/diego.png" | absolute_url }}){: .align-left}
+## Diego Almodiel
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/aldwinp/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:aldwinp@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:almodiel@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Mechanical Engineering**
+**Chemical Engineering**
 
-> "I'd like to thank not only God, but also Jesus."
+> Sabrina's Little.
 
 ### **What are some of your favorite hobbies?**
 
-> *Playing guitar, Netflix, Youtube videos*
+> *I like being active and also playing music.*
 
 ### **Favorite TV show?**
 
-> *Master of None, New Girl, Parks and Rec, Orange is the New Black, Black Mirror*
+> *I'm an expert on Greys Anatomy.*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
+### **What is your description of a perfect day?**
 
-> *God*
+> *On the beach somewhere, its partly cloudy, and like upper 70s.*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **Dream Job (and why)?**
 
-> *Spain so I could spend my time discovering my ancestors*
+> *I would like to be some sort of research engineer in the field of biomedical engineering.*

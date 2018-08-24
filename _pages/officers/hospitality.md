@@ -13,83 +13,83 @@ permalink: /officers/hospitality/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/sydney.png" | absolute_url }}){: .align-left}
-## Sydney Alfonso
+![image-left]({{ "/assets/images/officers/small/alex.png" | absolute_url }}){: .align-left}
+## Alex Chavez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shidney_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:sydneya9@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Senior</h3>
-**Business Information Technology & Marketing**   
+**Human Nutrition, Foods, and Exercise**   
 
-> mood: washed nintendog
+> hey guys! my name is alex, i looovvvveee playing sports especially lacrosse, or doing anything active, and watching my pinoy teleseryes :) I'm super outgoing and love meeting new people and being surrounded by friends
 
 ### **What are some of your favorite hobbies?**
 
 > *watching youtube videos, pretending I'm a youtuber, listening to music, shopping, drawing, swimming*
 
-### **Favorite TV shows?**
+### **Dream Job (and why)?**
 
-> *Fullmetal Alchemist, Hunter x Hunter, Saiki Kusuo no Sai Nan*
+> *Becoming a Physical Therapist and owning my own practice because I tore my ACL and my physical therapists impacted my life a lot and I want to make that same impact on someone else's life*
 
 ### **What is your biggest pet peeve and why?**
 
 > *Biggest pet peeve is when people leave their trash on the table at food courts*
 
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
+### **Favorite TV Show(s)? Movies?**
 
-> *100 duck sized horses because that would be so cute*
+> *i like to watch filipino teleseryes lol*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/miguel.png" | absolute_url }}){: .align-left}
-## Miguel Rillo
+![image-left]({{ "/assets/images/officers/small/katherine.png" | absolute_url }}){: .align-left}
+## Katherine Quion
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/champrillo" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/miguel_rillo/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:mrillo4@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Business Information Technology**  
+<a href="mailto:katquion@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**Biological Systems Engineering**  
 
 
-> “Maybe someday we could become friends. Friends who ride majestic, translucent steeds, shooting flaming arrows across the bridge of Hemdale.” - Brennan Huff
+> Hello! Katherine really loves dogs, family, and good friends. I love the outdoors, art, music, and laughing. Come talk to me about anything, so we can get to know each other better rather than through this mediocre bio about myself.
 
 ### **What are some of your favorite hobbies?**
 
-> *catch me outside how bout that?*
+> *Viola, photography, doodling*
 
-### **What fictional character do you relate with the most and why?**
+### **What is your taste in music? (Favorite genres, artists, song)**
 
-> *"I am McLovin"*
+> *Mitski, Hyukoh, Bread, Vampire Weekend, Amine, BTS, Day6, (and KPOP in general :) ), Tyler the Creator, Daniel Caesar, Paul Simon, 80s MUSIC, alt/indie pop rock stuff, R&B <3 (follow me on Spotify!)*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **Dream Job (and why)?**
 
-> *Costco -- name something that's NOT at Costco*
+> *Honestly, a farmer, but maybe in Japan. It's a bit disconnected, but it sounds peaceful compared to the hectic lifestyle of urban areas! I would get the great views and be close with nature!*
 
-### **Favorite song?**
+### **What is something that people flame you for?**
 
-> *Milkshake - Kelis*
+> *being flexitarian (semi-vegetarian but MOSTLY vegetarian)*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/jd.png" | absolute_url }}){: .align-left}
-## JD Hernandez
+![image-left]({{ "/assets/images/officers/small/sarah.png" | absolute_url }}){: .align-left}
+## Sarah Cruz
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/gerald_deeen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:hjd@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:scruz731@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Computer Engineering**  
+**Computational Modeling and Data Analytics**  
 
-> Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
+> Hey! I'm Sarah Cruz and I'm from Northern Virginia. I'm super excited to be one of the Hospitality chairs this year!! I was pretty active within my high school, so I'm ready to get more involved at Tech. In short, I love sleeping, eating, music, and laughing at literally...anything. If you ever need anyone to talk to or hang with, hit me up because I'm probably doing nothing (srsly) :)
 
 ### **What are some of your favorite hobbies?**
 
-> *Watching YouTube vids, playing frisbee, making Spotify playlists, jamming out, and binging animes*
+> *Playing piano, doing makeup, going to the gym, sleeping, and eating chicken wings*
 
-### **Dream job?**
+### **What is your taste in music? (Favorite genres, artists, song)**
 
-> *I wanna be Tadashi Hamada from Big Hero 6 when I grow up because robots are cool and helping people is cool so why not both? Also his robotics lab is sweet*
+> *I loveeeee SZA,  Kehlani, Ariana Grande, H.E.R, Rihanna, Drake, Khalid, Paolo Nutini, and Bryson Tiller. I can hear Let Me Love You by Mario at least 30 times in a row and not get tired of it :)))*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
+### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
 
-> *Thinking of something clever to say for this answer*
+> *Lil Egg's Wings and sell every flavor of wing known to man ;)*
 
-### **If your life was a movie what would it be called and who would play you?**
+### **If you could live anywhere in the world, where would it be and why?**
 
-> *"Am I Doing This Right?" played by Keanu Reeves idk haha*
+> *I just went to Maui and I LOVED IT so prob there. The atmosphere is so much more relaxed and calm compared to all the places I've been and the people are really nice*

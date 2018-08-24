@@ -13,55 +13,57 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/nikko.png" | absolute_url }}){: .align-left}
-## Nikko Tolentino  
+![image-left]({{ "/assets/images/officers/small/alyana.png" | absolute_url }}){: .align-left}
+## Alyana Alvarez  
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.linkedin.com/in/nikko-tolentino-924b18126/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
 <a href="https://www.instagram.com/nikkotolentino_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:nikkot98@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:alyana17@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Business Information Technology**  
+**Biology**  
 
-> Hey! How's it going? Good? That's great! I'm Nikko and I enjoy long walks on the beach while drinking Peach on the Beach from Owens. Haven't tried it? It's pretty good.. 10/10 would recommend lol jk but on a serious note, F#. Have a nice day! (Also, what Jan said.)
+> I like bubble tea wbu?
 
 ### **What are some of your favorite hobbies?**
 
-> *Listening to music, singing, YouTube, people watching, eating junk food then regretting my decisions later*
+> *playing volleyball, hiking(ish), sleeping*
 
-### **Favorite TV shows?**
+### **Favorite TV Show(s)? Movies?**
 
-> *How I Met Your Mother, Stranger Things, Riverdale, and almost every other show available on Netflix*
+> *KDRAMA! One Tree Hill, 90210, Pearl Harbor and any documentary*
 
-### **What is your biggest pet peeve and why?**
+### **Do you believe in ghosts (and why)?**
 
-> *When people mispronounce Haein's name .... it's "Hey - in"*
+> *Yeah. Since my dad's really into history, he ended up taking us to this haunted hotel in the Philippines when I was little. Long story short, I remember cuddling with my stuffed animal at night, but ended up seeing it sitting on the balcony facing me in the morning #itsmorefuninthephilippines*
 
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
+### **What is your spirit animal?**
 
-> *1 horse sized duck .. for obvious reasons.....*
+> *Corgis*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/jan.png" | absolute_url }}){: .align-left}
-## Jan Saraum
+![image-left]({{ "/assets/images/officers/small/roshan.png" | absolute_url }}){: .align-left}
+## Roshan Madurar
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/xi.xix.xcvii" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:jzsaraum@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:rmadurar@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Mechanical Engineering**
+**Biology**
 
-> Born in the Philippines and still tied to my roots, which makes me excited since I get to share Filipino culture with everyone! I am open to anything so tell me what interests you and I will be intrigued. Please send me pictures of dogs :)
+> Aloha! “My name, Roshan”
+“This is my family. I found it, all on my own. It’s little, and broken, but still good. Yeah. Still good.” (Lilo and Stitch)
+P.S. “How do you get a watermelon pregnant? You PAKWAN” Watermelon is my favorite summer fruit ~~ :D
 
 ### **What are some of your favorite hobbies?**
 
-> *I enjoy sleeping very much*
+> *Watching anime, draw, paint, cook, garden*
 
-### **Dream Job?**
+### **Dream Job and why?**
 
-> *Being a housewife. Lol jk. I wanna help people and make life easier and affordable for them in terms of healthcare! I was inspired when I visited a hospital in my hometown.*
+> *Fashion designer bc a lot of styles these days are terrible and I like to draw clothes ever since I was a kid*
 
-### **What fictional character do you relate with the most and why?**
+### **What is your taste in music? (Favorite genres, artists, song)**
 
-> *"Bella Swan. It's a hard life. Or maybe Hermione Granger. But, I'm not that smart. So I'll go with Margaery Tyrell because I'm dead 💀"*
+> *Classical rock, RnB, pop, kpop*
 
-### **If your life was a movie what would it be called and who would play you?**
+### **If you could live anywhere in the world, where would it be and why?**
 
-> *Game of Loans and I would play myself like I already do now.*
+> *Japan bc I love the atmosphere *
