@@ -74,27 +74,27 @@ permalink: /officers/promo_web/
 ## Web
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/jonathan.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/jd2.png" | absolute_url }}){: .align-left}
 ## JD Hernandez
 <a href="https://www.instagram.com/gerald_deeen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:hjd@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Junior</h3>
 **Computer Engineering & CS Minor**
 
-> *help i'm trapped in [an HTML factory]({{ "/wow/" | absolute_url }})*  
-> Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
+> *"hey friends"*  
+>  If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
 ### **What are some of your favorite hobbies?**
 
-> *Photography, fixing old gadgets, procrastination, coding, and more procrastination.*
+> *Anything sports related even though i don't have muscles, playing/making/listening to music, appreciating memes, and making friends!*
 
 ### **Favorite artists?**
 
-> *The Black Keys, Khalid, Lorde, Paramore, Calvin Harris, a mixture of everything (except country) really*
+> *follow me on spotify! My music taste is pretty broad, we probably have something in common*
 
 ### **Dream job?**
 
-> *TBH it would be a presenter on Top Gear so I can screw around with cars for half a year but realistically a cybersecurity engineer at a car company like Volvo or BMW*
+> *Being a roboticist that makes the robots you see that do backlips and lowkey plot to take revenge on the world*
 
-### **What fictional character do you relate with the most and why?**
+### **What is something that people flame you for?**
 
-> *Half Red Forman and Half Michael Scott, depending on the mood*
+> *For eating apples from the top to bottom (i promise i don't eat the stem)*

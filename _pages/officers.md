@@ -105,7 +105,7 @@ promo_web:
     image_path: /assets/images/officers/danielle.png
     alt: "Danielle Faust"
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/jonathan.png
+    image_path: /assets/images/officers/jd2.png
     alt: "JD Hernandez"
 ---
 
