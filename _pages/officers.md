@@ -115,7 +115,7 @@ promo_web:
 	layout!
   -->
 
-### 2017-18 School Year
+### 2018-19 School Year
 {: .text-center}
 
 ## Executive Board
