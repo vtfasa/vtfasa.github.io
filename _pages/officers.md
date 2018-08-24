@@ -15,98 +15,95 @@ header:
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/joey2.png
-    alt: "Joey Rivera, President"
+    image_path: /assets/images/officers/ilian.png
+    alt: "Ilian Burgos, President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/aubrey2.png
-    alt: "Aubrey Medina, Vice President"
+    image_path: /assets/images/officers/aj.png
+    alt: "AJ Campanilla, Vice President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/timmy2.png
-    alt: "Timmy Le, Secretary"
+    image_path: /assets/images/officers/raymark.png
+    alt: "Raymark Galman, Secretary"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/christa.png
-    alt: "Christa Ventura, Treasurer"
+    image_path: /assets/images/officers/elliot.png
+    alt: "Elliot Idio, Treasurer"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/shawn2.png
-    alt: "Shawn De Lopez", Historian"
+    image_path: /assets/images/officers/sarida.png
+    alt: "Sarida Pisarnpong, Historian"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/adrian.png
-    alt: "Adrian Talastas, Historian"
+    image_path: /assets/images/officers/will.png
+    alt: "William Sriros, Historian"
 # d7
 d7:
   - url: /officers/d7/
-    image_path: /assets/images/officers/teresa.png
-    alt: "Teresa Nguyen"
+    image_path: /assets/images/officers/giang.png
+    alt: "Giang Dieple"
   - url: /officers/d7/
-    image_path: /assets/images/officers/joy.png
-    alt: "Joy Villanueva"
+    image_path: /assets/images/officers/timmy.png
+    alt: "Timmy Le"
 # culture
 culture:
   - url: /officers/culture/
-    image_path: /assets/images/officers/alyana.png
-    alt: "Alyana Alvarez"
+    image_path: /assets/images/officers/nikko.png
+    alt: "Nikko Tolentino"
   - url: /officers/culture/
-    image_path: /assets/images/officers/roshan.png
-    alt: "Roshan Madurar"
+    image_path: /assets/images/officers/jan.png
+    alt: "Jan Saraum"
 # events
 events:
   - url: /officers/events/
-    image_path: /assets/images/officers/lexi2.png
+    image_path: /assets/images/officers/lexi.png
     alt: "Alexis-Elaine Lapid"
   - url: /officers/events/
-    image_path: /assets/images/officers/haein2.png
-    alt: "Haein Kim"
+    image_path: /assets/images/officers/joey.png
+    alt: "Joey Rivera"
 # fundraising
 fundraising:
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/diego.png
-    alt: "Diego Almodiel"
+    image_path: /assets/images/officers/aubrey.png
+    alt: "Aubrey Medina"
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/victoria.png
-    alt: "Victoria Grimm"
+    image_path: /assets/images/officers/aldwin.png
+    alt: "Aldwin Pagulayan"
 # hospitality
 hospitality:
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/sarah.png
-    alt: "Sarah Cruz"
+    image_path: /assets/images/officers/jd.png
+    alt: "JD Hernandez"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/katherine.png
-    alt: "Katherine Quion"
+    image_path: /assets/images/officers/sydney.png
+    alt: "Sydney Alfonso"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/alex.png
-    alt: "Alex Chavez"
+    image_path: /assets/images/officers/miguel.png
+    alt: "Miguel Rillo"
 # service
 service:
   - url: /officers/service/
-    image_path: /assets/images/officers/jeyein.png
-    alt: "JC Cepillo"
+    image_path: /assets/images/officers/haein.png
+    alt: "Haein Kim"
   - url: /officers/service/
-    image_path: /assets/images/officers/sharleen.png
-    alt: "Sharleen He"
-  - url: /officers/service/
-    image_path: /assets/images/officers/justin.png
-    alt: "Justin Nguyen"
+    image_path: /assets/images/officers/tristen.png
+    alt: "Tristen Nguyen"
 # sports
 sports:
   - url: /officers/sports/
-    image_path: /assets/images/officers/alan.png
-    alt: "Alan Do"
+    image_path: /assets/images/officers/alex.png
+    alt: "Alex Chavez"
   - url: /officers/sports/
-    image_path: /assets/images/officers/paolo.png
-    alt: "Paolo Gavino"
+    image_path: /assets/images/officers/david.png
+    alt: "David Buntua"
 # promo/web
 promo_web:
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/ingrid.png
-    alt: "Ingrid Brandares"
+    image_path: /assets/images/officers/shawn.png
+    alt: "Shawn de Lopez"
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/danielle.png
-    alt: "Danielle Faust"
+    image_path: /assets/images/officers/nikki.png
+    alt: "Nikki Cortez"
   - url: /officers/promo_web/
     image_path: /assets/images/officers/jonathan.png
-    alt: "JD Hernandez"
+    alt: "Jonathan Lacson"
 ---
 
 <!--

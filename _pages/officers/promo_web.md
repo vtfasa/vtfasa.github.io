@@ -16,58 +16,58 @@ permalink: /officers/promo_web/
 ## Promo
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/danielle.png" | absolute_url }}){: .align-left}
-## Danielle Faust
+![image-left]({{ "/assets/images/officers/small/shawn.png" | absolute_url }}){: .align-left}
+## Shawn de Lopez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:danieef@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:shawnd7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**International Relations; National Security and Foreign Affairs**
+**Creative Technology**
 
-> If you’re not sure whether you see me on campus, check for the following traits: sweatpants, slow walker, green tea smoothie in hand :)
+> Babe of all trades.
 
 ### **What are some of your favorite hobbies?**
 
-> *Singing, playing guitar, graphic design, & TRYING to learn new languages*
+> *Videography, photography, painting, graphics, beatboxing*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **What fictional character do you relate with the most and why?**
 
-> *JAZZ and R&B and ~Alternative! I LOVE Stevie Wonder, Nat King Cole, Bruno Mars, Maroon 5, Tori Kelly, and Bridgit Mendler :) My favorite songs right now are “Friends” by Ann Marie and “How Long” by Charlie Puth. I also have a special place in my heart for bachata :’)*
+> *Mr.Clean because I look good in a white T shirt.*
 
-### **Dream Job (and why)?**
+### **If your life was a movie what would it be called and who would play you?**
 
-> *My dream job is to be a diplomat. I believe that this world will be a better place if we connect by what makes us alike while making an open-minded effort to understand what makes us different from each other. I’d love to be able to act as the mediator between the US and other countries by establishing common ground and fostering positive relationships!*
+> *"Infatuation: The Game of Passion" starring Aldwin Pagulayan*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What is your biggest pet peeve and why?**
 
-> *I’d call it “Halo Hello” and it would be a Filipino food truck! There’d be  lumpia, pancit, tocino, longanisa, adobo, etc. There’d also be smoothie bowls and (of course) halo-halo!!*
+> *When people don't roll to a complete stop at red lights. If everyone rolled to a complete stop, no one would have to keep inching forward. Come on, society.*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/ingrid.png" | absolute_url }}){: .align-left}
-## Ingrid Brandares
+![image-left]({{ "/assets/images/officers/small/nikki.png" | absolute_url }}){: .align-left}
+## Nikki Cortez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/nortezx" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/nortezc/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:ijbrand@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:nikkic@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Architecture**
+**Packaging Systems and Design**
 
-> wanna start a streak? (haha... low key have a snapchat addiction)
+> I spend 86% of my time procrastinating, watching Buzzfeed Unsolved videos, and laying in bed.
 
 ### **What are some of your favorite hobbies?**
 
-> *Binge watching Boku No Hero (the only anime I watch, I swear I'm not a weeb) and kdramas, online shopping, organizing stuff*
+> *making vectors, eating*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Favorite TV shows?**
 
-> *Panic at the Disco, Twenty One Pilots, Logic, Paramore, Kpop, lofi hip hop (I listen to most genres except country lol)*
+> *the office, friends, stuff*
 
-### **Favorite spot to be at Tech?**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *Pylons during sunrise and sunset*
+> *submitting my assignment at 11:59pm*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
 
-> *Idk what I would name it but it would be a Korean-Japanese-Filipino fusion  restaurant*
+> *100 duck sized horses so i can make them a smol pasture.*
 
 ---
 
@@ -75,14 +75,16 @@ permalink: /officers/promo_web/
 {: .text-center}
 
 ![image-left]({{ "/assets/images/officers/small/jonathan.png" | absolute_url }}){: .align-left}
-## JD Hernandez
-<a href="https://www.instagram.com/gerald_deeen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:hjd@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+## Jonathan Lacson
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/lacson_lacsoff" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/jonfucius/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:lacson@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computer Engineering & CS Minor**
 
 > *help i'm trapped in [an HTML factory]({{ "/wow/" | absolute_url }})*  
-> Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
+> Just kidding! Hey FASA, it's Jonathan, your webmaster! My interests include photography (shameless plug for [Humans of Virginia Tech](https://www.facebook.com/humansofvirginiatech/)), spending my whole day looking at European cars for sale I can't afford, making Snapchat cutouts of Nikko, and coding. I also spend way too much money on food and my hobbies.
+
 ### **What are some of your favorite hobbies?**
 
 > *Photography, fixing old gadgets, procrastination, coding, and more procrastination.*

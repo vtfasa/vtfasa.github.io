@@ -15,55 +15,54 @@ permalink: /officers/sports/
 ---
 
 ![image-left]({{ "/assets/images/officers/small/alex.png" | absolute_url }}){: .align-left}
-## Paolo Gavino
+## Alex Chavez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:pmg416@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Computer Science**
+**Human Nutrition, Foods, and Exercise (HNFE)**
 
 > *"hey guys! its gatorade chavez and i'm writing my bio!" lol jk*  
-> Muscle Emoji
+> Hi guys! My name is Alex and I like to stay active, play sports, eat, and watch my teleseryes. Come join the FASA sports teams bc you'll have fun or your money back guaranteed! My Kung Fu Tea order is a large Taro slush with 0% sugar, and less boba.
 
 ### **What are some of your favorite hobbies?**
 
-> *Basketball, Eating, Sleeping*
+> *Lacrosse, or any other sport really and also watch my Filipino teleseryes*
 
-### **Favorite TV Show(s)? Movies?**
+### **Favorite artists?**
 
-> *Chuck, GOT, The Office*
+> *Bruno Mars (ANY SONG FROM HIS 24K ALBUM)*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell??**
+### **What fictional character do you relate with the most and why?**
 
-> *Pao's Pinata, selling candy*
+> *Wendy Wu in Wendy Wu Homecoming Warrior because she's Asian and an athlete...that is all LOL.*
 
-### **What would your rapper name be?**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *Childish Gavino*
+> *Korea, because who doesn't want to be surrounded by kbbq?*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/alan.png" | absolute_url }}){: .align-left}
-## Alan Do
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/_roll_thedicee" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.snapchat.com/add/alann_do" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-snapchat-square" style="color: #494e48"></i></a>
-<a href="mailto:alan.do2017@gmail.com" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Aerospace Engineering**
+![image-left]({{ "/assets/images/officers/small/david.png" | absolute_url }}){: .align-left}
+## David Buntua
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.snapchat.com/add/dbuntua" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-snapchat-square" style="color: #494e48"></i></a>
+<a href="mailto:dbuntua@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+**Packaging Systems & Design**
 
-> add me on twitter, insta, and sc
+> I am a huge fan of pizza, video games, basketball, and anime. I grew up a VT fan so I’m glad I get to go to Tech.
 
 ### **What are some of your favorite hobbies?**
 
-> *Putting in that work at the gym*
+> *Pretending that I am working hard.*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **If your life was a movie what would it be called and who would play you?**
 
-> *Rap (Travis Scott, Drake,  21 Savage, Shy Glizzy, Bryson Tiller), The Weeknd (if I'm in my feels)*
+> *John Cho would play me and the movie would be called: Asian Man Lives Life (gone wrong) (almost died)*
 
-### **Do you believe in ghosts (and why)?**
+### **What is your biggest pet peeve and why?**
 
-> *Have you ever seen Casper the Friendly Ghost? Exactly *
+> *When I get honked at to go half a second after the light turns green.*
 
-### **What would your rapper name be?**
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
 
-> *DOBOII*
+> *The 100 horses because I could domesticate them and then start a tiny horse racing league.*

@@ -15,168 +15,171 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/joey2.png" | absolute_url }}){: .align-left}
-## Joey Rivera
+![image-left]({{ "/assets/images/officers/small/ilian.png" | absolute_url }}){: .align-left}
+## Ilian Burgos
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/alienburgers" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/ilianfae/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:rjoseph5@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:iburg96@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
-**Mechanical Engineering**  
+**Computational Modeling & Data Analytics**  
 
-> “I thought we were ahead” -J.R. Smith
+> your mom
 
 ### **What are some of your favorite hobbies?**
 
-> *watching youtube, playing sports, singing in the shower*
+> *What I tell people I don't know: singing, playing guitar, art, Netflix*  
+> *What I tell people I do know: looking at pics of dogs on the internet, stalking strangers on social media, playing League of Legends until 3 am"*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Favorite TV shows?**
 
-> *genre: rap and indie/folk stuff is usually my go to*
-> *artists/song: kanye: lift yourself, indie/folk: mumford and sons: little lion man*
+> *New Girl, Parks and Rec, The Office... basically, shows with stupid humor*
 
-### **If you could live anywhere in the world, where would it be and why?**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *NJ so I can get a slice of pizza without getting a whole pie*
+> *I don't care. Anywhere with wifi and my dog*
 
-### **What is something that people flame you for?**
+### **If your life was a movie what would it be called and who would play you?**
 
-> *wearing vineyards vines and drinking too much starbucks*
+> *"Your Mom" played by your mom*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/aubrey2.png" | absolute_url }}){: .align-left}
-## Aubrey Medina
+![image-left]({{ "/assets/images/officers/small/aj.png" | absolute_url }}){: .align-left}
+## AJ Campanilla
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/YourKuyaAJ" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/YourKuyaAJ/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:andyjc63@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Vice President</em> | Junior</h3>
-**International Studies and Multimedia Journalism**
+<h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
+**Business Information Technology**
 
-> I quote FRIENDS and and Harry Potter a lot
-
-### **What are some of your favorite hobbies?**
-
-> *Crafty things and DIYs, thrifting, sewing, watching movies and baking Nestle Toll House cookies*
-
-### **Dream Job (and why)?**
-
-> *A host on Buzzfeed's "Worth It" - they're YouTubers, they get to travel, AND eat amazing (expensive) food!*
-
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
-
-> *I think I would own a cute little bakery/coffee shop with outlets so people can study and I'll play soothing music and draw things on the chalkboard menu akdjhfjakjf*
-
-### **If you could live anywhere in the world, where would it be and why?**
-
-> *On a Disney cruise - all you can eat buffets, its socially acceptable to wear a swimsuit all the time, and Disney*
-
----
-
-![image-left]({{ "/assets/images/officers/small/timmy2.png" | absolute_url }}){: .align-left}
-## Timmy Le
-<a href="https://www.instagram.com/letimmyq/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:letimmy@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Secretary</em> | Junior</h3>
-**Psychology**
-
-> I like to cook and clean. Follow me on ig
+> Oh hay whaddup. They call me VP, but you can call me AJ. I'm a proud Swiftie, Pretty Little Liar, eater of foods and drinker of drinks because my friendship with you might be tubig :)
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating, sleeping, cooking, minor to serious therapy counseling, oh singing, and playing with my son*
-
-### **What is your taste in music? (Favorite genres, artists, song)**
-
-> *Anything except acapella I’ll tell ya that much*
-
-### **Dream Job (and why)?**
-
-> *Therapist because you’re crazy and I like that*
-
-### **If you could live anywhere in the world, where would it be and why?**
-
-> *My apartment because such wholesome people live there*
-
----
-
-![image-left]({{ "/assets/images/officers/small/christa.png" | absolute_url }}){: .align-left}
-## Christa Ventura
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/elliotfi/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:vchris@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
-**Clinical Neuroscience**
-
-> Please pay your membership dues and I'll tell you anything you wanna know!
-
-### **What are some of your favorite hobbies?**
-
-> *Eating, sleeping, trying to learn how to cook food that I only end up burning, sitting in the dark and listening to hours of ASMR*
+> *Planning FASA's 30th annual culture show, organizing FASA's 30th annual culture show, stressing over FASA's 30th annual culture show, and crying over FASA's 30th annual culture show.*
 
 ### **Dream job?**
 
-> *The person behind a rapper that hypes them up and repeats the last phrase they say*
+> *To work in a Left Twix factory because I think i'm right.*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *If I could own a restaurant it would be named Bueno, Bonito y Barato, and I would sell Mexican food just so I would have a valid excuse to eat Mexican food everyday...*
+> *William*
 
-### **What is your spirit animal?**
+### **What fictional character do you relate with the most and why?**
 
-> *Garfield the Cat*
+> *Tito Genie from FASA's 29th annual culture show because I always wonder "where are all de babes?"*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/shawn2.png" | absolute_url }}){: .align-left}
-## Shawn De Lopez
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:shawnd7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-<h3 style="margin-top: 0"><em>Historian</em> | Junior</h3>
-**Creative Technology**
+![image-left]({{ "/assets/images/officers/small/raymark.png" | absolute_url }}){: .align-left}
+## Raymark Galman
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/R_Galman" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/R_Galman/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:raymark1@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Secretary</em> | Senior</h3>
+**Civil Engineering**
 
-> I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!
+> "Born in October  
+> Swam here from the Philippines  
+> Twenty-two years young"  
+> Haiku by Yours Truly
 
 ### **What are some of your favorite hobbies?**
 
-> *Videography, documentary photography, painting, and beatboxing.*
+> *Volleyball, tennis, watching mukbangs LMAO*
 
-### **Favorite TV Show(s)? Movies?**
+### **What is your biggest pet peeve and why?**
 
-> *I love watching nature documentaries (Planet Earth!) and I’m also a big Marvel guy.*
+> *When people don't do things right away cause $#!+ needs to get done! ja feel?*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *“HOME,” a Khmer-Korean fusion restaurant to pay hommage to my ethnicity and home-town!*
+> *moisturizing ( sorry I am cursed with sweaty hands D: )*
 
-### **Do you believe in ghosts (and why)?**
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
 
-> *No doubt I see dead people. There’s one behind you right now.*
+> *100 duck sized horse because I can probably just kick them all*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/adrian.png" | absolute_url }}){: .align-left}
-## Adrian Talastas
+![image-left]({{ "/assets/images/officers/small/elliot.png" | absolute_url }}){: .align-left}
+## Elliot Idio
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/elliotfi/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:elliotfi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
+**Civil Engineering**
+
+> pay your membership dues and then i'll tell you a little about me
+
+### **What are some of your favorite hobbies?**
+
+> *eating, singing, eating, sleeping, eating, pooping, eating while pooping, eating while singing, eating while sleeping*
+
+### **Dream job?**
+
+> *to be the guy at boxing matches who gets paid millions just to say "LET'S GET READY TO RUMBLLELLEELELELELELLEE" at the beginning*
+
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
+
+> *I got 99 problems, and I should probably see a therapist about how many problems I have*
+
+### **If your life was a movie what would it be called and who would play you?**
+
+> *my life is more like a 30 minute episode*
+
+---
+
+![image-left]({{ "/assets/images/officers/small/will.png" | absolute_url }}){: .align-left}
+## William Sriros
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/wsriros" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/wsriros/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:wsrir079@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Historian</em> | Senior</h3>
+**Computer Engineering**
+
+> Do you like bread?
+
+### **What are some of your favorite hobbies?**
+
+> *Basketball, eating peanut butter straight out of the jar, and taking Ls*
+
+### **Dream job?**
+
+> *To work in a Right Twix factory because AJ "left" me*
+
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
+
+> *AJ*
+
+### **What is your biggest pet peeve and why?**
+
+> *That Vine got deleted*
+
+---
+
+![image-left]({{ "/assets/images/officers/small/sarida.png" | absolute_url }}){: .align-left}
+## Sarida Pisarnpong
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/saridap/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:adrianpt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:saridap@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
-**Architecture**
+**Environmental Science**
 
-> current mood: hungry
+> Hey y'all, my name is Sarida and I like spending all my money on clothes and sushi. I love summer, the beach and music festivals/concerts. In my free time you'll catch me watching BuzzFeed Worth It videos or eating (or probably both). I'm a laid back person who just likes to take it easy and have a good time.
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating then regretting what I ate after vacuuming it all into my mouth, complaining about being in studio when I’m actually productive only 10% of the time, playing League of Legends then realizing how then realizing how little value my life really has*
+> *Taking photos, traveling, and online shopping*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Favorite TV shows?**
 
-> *Around other people: EDM, alternative, acoustic, and lo-fi*
-> *By myself: KPOP and the occasional anime music— yikes i’m exposing myself don’t judge*
+> *The Office, Parks and Rec, Walking Dead, Jane the Virgin, New Girl, Stranger Things, One Punch Man*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *trick question— i never produce food only consume*
+> *Hawaii because it's in the US but doesn't feel like it, it's by the beach, and has amazing landscapes.*
 
-### **What is your spirit animal?**
+### **What is your biggest pet peeve and why?**
 
-> *a gummy worm*
+> *People who chew with their mouth open because I hate the sound*
