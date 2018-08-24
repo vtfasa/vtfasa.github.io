@@ -14,12 +14,12 @@ permalink: /officers/events/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/lexi.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/lexi2.png" | absolute_url }}){: .align-left}
 ## Alexis Lapid
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/lexiilaine" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:alapid@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Junior</h3>
 **Cognitive and Behavioral Neuroscience**  
 
 > Frick. I'm not good at writing bios, but **EVENT**ually, I'll get better at it.
@@ -42,28 +42,28 @@ permalink: /officers/events/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/joey.png" | absolute_url }}){: .align-left}
-## Joey Rivera
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/joeyrivera42/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:rjoseph5@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+![image-left]({{ "/assets/images/officers/small/haein2.png" | absolute_url }}){: .align-left}
+## Haein Kim
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/haeink97/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:haeink1@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
-**Mechanical Engineering**  
+**International Relations**  
 
-> Hi everyone! I'm Joey and I'm from New Jersey (GTL amirite). If you meet me I'll probably tell you some terrible jokes or how bagels and pizza are only good in NJ. But other than that I like long walks on the beach and nature walks. Can't wait to meet you all!
+> Yo wassup, my name is Haein (like HEY-in). My license says I’m 4’11” but I’m actually 4’9”. Being short is a struggle when you can’t reach the 12-count nuggets at Hokie Grill.
 
 ### **What are some of your favorite hobbies?**
 
-> *drinking over priced coffee from starbucks, working out, streaming shows*
+> *Taking as many naps as I possibly can*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
+### **Favorite TV Show(s)? Movies?**
 
-> *student loans..oh wait nvm*
+> *Master of None, Parks and Rec, Black Mirror*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
 
-> *In the great state of New Jersey is that even a question?*
+> *The Trap House, comfort food from all around*
 
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck?**
+### **If you could live anywhere in the world, where would it be and why?**
 
-> *1 horse sized duck cuz i dont think i can take on 100 anythings lmao*
+> *Probably somewhere like Boston because I like cities but NYC would be too much for me to handle*

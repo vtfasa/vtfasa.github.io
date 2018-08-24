@@ -48,38 +48,39 @@ eboard_header:
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/home/eboard/ilian.jpg
-    alt: "Ilian Burgos"
-    title: "Ilian Burgos"
-    excerpt: "***President*** - Hi my name is \"Jillian without the J\", supreme ruler and divine majesty of FASA, and you're watching Disney Channel!"
+  - image_path: /assets/images/home/eboard/joey.jpg
+    alt: "Joey Rivera"
+    title: "Joey Rivera"
+    excerpt: "***President*** - \"I thought we were ahead\" -J.R. Smith"
   # vice president
-  - image_path: /assets/images/home/eboard/aj.jpg
-    alt: "AJ Campanilla"
-    title: "AJ Campanilla"
-    excerpt: "***Vice President*** - Hand of the Queen, Rightful Heir to William's Heart, Protector of the Pinoy Culture, and Father of Balut. Have you done Freshman dance yet?"
+  - image_path: /assets/images/home/eboard/aubrey.jpg
+    alt: "Aubrey Medina"
+    title: "Aubrey Medina"
+    excerpt: "***Vice President*** - I quote FRIENDS and and Harry Potter a lot
+"
   # secretary
-  - image_path: /assets/images/home/eboard/raymark.jpg
-    alt: "Raymark Galman"
-    title: "Raymark Galman"
-    excerpt: "***Secretary*** - Bothering people, one listserv at a time (seriously, please read them!) ~ Secmark"
+  - image_path: /assets/images/home/eboard/timmy.jpg
+    alt: "Timmy Le"
+    title: "Timmy Le"
+    excerpt: "***Secretary*** - I like to cook and clean. Follow me on ig"
 
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/home/eboard/elliot.jpg
-    alt: "Elliot Idio"
-    title: "Elliot Idio"
-    excerpt: "***Treasurer*** - pay your membership dues and then go to the officer page to learn more about me`"
+  - image_path: /assets/images/home/eboard/christa.jpg
+    alt: "Christa Ventura"
+    title: "Christa Ventura"
+    excerpt: "***Treasurer*** - Please pay your membership dues and I'll tell you anything you wanna know!"
   # historian 1
-  - image_path: /assets/images/home/eboard/will.jpg
-    alt: "William Sriros"
-    title: "William Sriros"
-    excerpt: "***Historian*** - My name's William (Lilliam) and I take pictures and videos for FASA sometimes and so you might see me. Have you done Mr. FASA yet? AJ hasn't"
+  - image_path: /assets/images/home/eboard/shawn.jpg
+    alt: "Shawn De Lopez"
+    title: "Shawn De Lopez"
+    excerpt: "***Historian*** - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
   # historian 2
-  - image_path: /assets/images/home/eboard/sarida.jpg
-    alt: "Sarida Pisarnpong"
-    title: "Sarida Pisarnpong"
-    excerpt: "***Historian*** - Hey y'all! My name is Sarida (Historida) and I'm one of the historians for FASA. My job is to take pictures and videos for everyone!"
+  - image_path: /assets/images/home/eboard/adrian.jpg
+    alt: "Adrian Talastas"
+    title: "Adrian Talastas"
+    excerpt: "***Historian*** - current mood: hungry"
 ---
 
 {% include feature_row id="intro" type="center" %}
