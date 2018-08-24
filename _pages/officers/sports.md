@@ -21,8 +21,7 @@ permalink: /officers/sports/
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computer Science**
 
-> *"hey guys! its gatorade chavez and i'm writing my bio!" lol jk*  
-> Muscle Emoji
+> *Muscle Emoji*
 
 ### **What are some of your favorite hobbies?**
 
