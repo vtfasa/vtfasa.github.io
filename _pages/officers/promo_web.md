@@ -81,15 +81,14 @@ permalink: /officers/promo_web/
 <h3 style="margin-top: 0">Junior</h3>
 **Computer Engineering & CS Minor**
 
-> *"hey friends"*  
->  If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
+>  Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
 ### **What are some of your favorite hobbies?**
 
 > *Anything sports related even though i don't have muscles, playing/making/listening to music, appreciating memes, and making friends!*
 
 ### **Favorite artists?**
 
-> *follow me on spotify! My music taste is pretty broad, we probably have something in common*
+> *Follow me on spotify! My music taste is pretty broad, we probably have something in common*
 
 ### **Dream job?**
 
