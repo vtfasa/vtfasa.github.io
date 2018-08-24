@@ -89,13 +89,13 @@ permalink: /officers/eboard/
 
 > *Anything except acapella I’ll tell ya that much*
 
-### **Dream Job (and why)?**
+### **What is your description of a perfect day?**
 
-> *Therapist because you’re crazy and I like that*
+> *One where it’s my turn to clean the courtyard after lunch at the prison*
 
-### **If you could live anywhere in the world, where would it be and why?**
+### **What is something that people flame you for?**
 
-> *My apartment because such wholesome people live there*
+> *My patchy beard, my hair is losing volume, my voice cracks, my eating habits, my study habits, my terrible gpa, my fat body, my self esteem, my life*
 
 ---
 

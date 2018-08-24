@@ -14,7 +14,7 @@ permalink: /officers/sports/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/alex.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/paolo.png" | absolute_url }}){: .align-left}
 ## Paolo Gavino
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:pmg416@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -44,9 +44,8 @@ permalink: /officers/sports/
 
 ![image-left]({{ "/assets/images/officers/small/alan.png" | absolute_url }}){: .align-left}
 ## Alan Do
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/_roll_thedicee" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.snapchat.com/add/alann_do" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-snapchat-square" style="color: #494e48"></i></a>
-<a href="mailto:alan.do2017@gmail.com" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:pmg416@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Aerospace Engineering**
 
