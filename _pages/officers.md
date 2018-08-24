@@ -30,7 +30,7 @@ e_board2:
     alt: "Christa Ventura, Treasurer"
   - url: /officers/eboard/
     image_path: /assets/images/officers/shawn2.png
-    alt: "Shawn De Lopez", Historian"
+    alt: "Shawn De Lopez, Historian"
   - url: /officers/eboard/
     image_path: /assets/images/officers/adrian.png
     alt: "Adrian Talastas, Historian"
