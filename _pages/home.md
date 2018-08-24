@@ -67,7 +67,7 @@ e_board1:
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/home/eboard/christa.jpg
+    image_path: /assets/images/officers/christa.png
     alt: "Christa Ventura"
     title: "Christa Ventura"
     excerpt: "***Treasurer*** - Please pay your membership dues and I'll tell you anything you wanna know!"
