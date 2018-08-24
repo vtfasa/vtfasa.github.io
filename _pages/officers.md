@@ -75,7 +75,7 @@ hospitality:
     image_path: /assets/images/officers/katherine.png
     alt: "Katherine Quion"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/alex.png
+    image_path: /assets/images/officers/alex2.png
     alt: "Alex Chavez"
 # service
 service:
