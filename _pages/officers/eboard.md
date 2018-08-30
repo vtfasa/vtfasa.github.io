@@ -166,7 +166,7 @@ permalink: /officers/eboard/
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating then regretting what I ate after vacuuming it all into my mouth, complaining about being in studio when I’m actually productive only 10% of the time, playing League of Legends then realizing how then realizing how little value my life really has*
+> *Eating then regretting what I ate after vacuuming it all into my mouth, complaining about being in studio when I’m actually productive only 10% of the time, playing League of Legends then realizing how little value my life really has*
 
 ### **What is your taste in music? (Favorite genres, artists, song)**
 
