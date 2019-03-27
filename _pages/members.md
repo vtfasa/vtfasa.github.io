@@ -9,7 +9,7 @@ permalink: /members/
 ## Weekly Spotlight
 
 Congratulations to **Shane Lee** for being FASA's this week's spotlight member!
-![image-center]({{ "/assets/images/motm/shane_2019,png" | absolute_url }}){: .align-center}
+![image-center]({{ "/assets/images/motm/shane-2019,png" | absolute_url }}){: .align-center}
 
 
 
