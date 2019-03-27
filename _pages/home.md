@@ -16,7 +16,7 @@ permalink: /
 
 # controls header
 header:
-  image: /assets/images/everybody.jpg
+  image: /assets/images/everybody2.jpg
   caption:
 
 # tagline under header
