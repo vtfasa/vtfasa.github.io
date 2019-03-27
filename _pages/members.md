@@ -3,13 +3,19 @@ title: "Our Members"
 permalink: /members/
 ---
 
-## Member of the Month
+##Senior Spotlight
 
-Congratulations to **Chloe Newsome** for being FASA's Member of the Month for *April!*
+
+## Weekly Spotlight
+
+Congratulations to **Shane Lee** for being FASA's this week's spotlight member!
+![image-center]({{ "/assets/images/motm/shane_2019,png" | absolute_url }}){: .align-center}
+
+
+
+## Spotlight Members
 
 ![image-center]({{ "/assets/images/motm/apr-chloe.png" | absolute_url }}){: .align-center}
-
-## Previous Members of the Month
 
 ![image-center]({{ "/assets/images/motm/mar-ronny.png" | absolute_url }}){: .align-center}
 
