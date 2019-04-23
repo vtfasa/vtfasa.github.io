@@ -15,7 +15,7 @@ permalink: /officers/hospitality/
 
 ![image-left]({{ "/assets/images/officers/small/alex2.png" | absolute_url }}){: .align-left}
 ## Alex Chavez
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shidney_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Senior</h3>
 **Human Nutrition, Foods, and Exercise**   
@@ -42,7 +42,7 @@ permalink: /officers/hospitality/
 
 ![image-left]({{ "/assets/images/officers/small/katherine.png" | absolute_url }}){: .align-left}
 ## Katherine Quion
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/champrillo" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/katquion" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/miguel_rillo/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:katquion@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
@@ -71,7 +71,7 @@ permalink: /officers/hospitality/
 
 ![image-left]({{ "/assets/images/officers/small/sarah.png" | absolute_url }}){: .align-left}
 ## Sarah Cruz
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/gerald_deeen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/sarahcruz__/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:scruz731@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computational Modeling and Data Analytics**  
