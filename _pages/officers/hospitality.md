@@ -13,7 +13,7 @@ permalink: /officers/hospitality/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/alex2.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/alex.png" | absolute_url }}){: .align-left}
 ## Alex Chavez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
