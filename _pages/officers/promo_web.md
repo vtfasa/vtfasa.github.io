@@ -21,7 +21,7 @@ permalink: /officers/promo_web/
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:danieef@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**International Relations; National Security and Foreign Affairs**
+**International Relation; National Security and Foreign Affairs**
 
 > If you’re not sure whether you see me on campus, check for the following traits: sweatpants, slow walker, green tea smoothie in hand :)
 
