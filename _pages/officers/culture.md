@@ -25,7 +25,7 @@ permalink: /officers/culture/
 
 ### **What are some of your favorite hobbies?**
 
-> *playing volleyball, hiking(ish), sleeping*
+> *playing volleyball, hiking(ish), sleeping, and something else*
 
 ### **Favorite TV Show(s)? Movies?**
 
