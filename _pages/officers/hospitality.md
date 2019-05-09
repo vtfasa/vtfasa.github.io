@@ -24,7 +24,7 @@ permalink: /officers/hospitality/
 
 ### **What are some of your favorite hobbies?**
 
-> *watching youtube videos, pretending I'm a youtuber, listening to music, shopping, drawing, swimming test*
+> *watching youtube videos, pretending I'm a youtuber, listening to music, shopping, drawing, swimming *
 
 ### **Dream Job (and why)?**
 
