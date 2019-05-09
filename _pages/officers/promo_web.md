@@ -67,7 +67,7 @@ permalink: /officers/promo_web/
 
 ### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
 
-> *Idk what I would name it but it would be a Korean-Japanese-Filipino fusion  restaurant named Lorenzo*
+> *Idk what I would name it but it would be a Korean-Japanese-Filipino fusion  restaurant named Lorenzo Flores*
 
 ---
 
