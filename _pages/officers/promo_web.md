@@ -43,7 +43,7 @@ permalink: /officers/promo_web/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/ingrid.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/zach1.png" | absolute_url }}){: .align-left}
 ## Ingrid Brandares
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/nortezx" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/nortezc/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
