@@ -74,7 +74,7 @@ permalink: /officers/promo_web/
 ## Web
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/zach.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/zach.png" | absolute_url }}){: .align-left}
 ## JD Hernandez
 <a href="https://www.instagram.com/gerald_deeen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:hjd@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
