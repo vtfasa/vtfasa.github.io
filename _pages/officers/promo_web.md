@@ -98,6 +98,6 @@ permalink: /officers/promo_web/
 
 > *Considering the fact that I am in college working to achieve an education, my life motto is: Work every single day to achieve that $100,000 salary.*
 
-### **What is something that people flame you for?**
+### **What is your biggest pet peeve and why?**
 
-> *For eating apples from the top to bottom (i promise i don't eat the stem)*
+> *My biggest pet peeve is when people throw away food. Why throw away a gift that was given to you that others would give to achieve?*
