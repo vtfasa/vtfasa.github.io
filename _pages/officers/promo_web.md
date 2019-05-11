@@ -78,8 +78,8 @@ permalink: /officers/promo_web/
 ## Zach Amados
 <a href="https://www.instagram.com/i_z_a_c_h_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Computer Engineering & CS Minor**
+<h3 style="margin-top: 0">Sophomore</h3>
+**Computer Science Major**
 
 >  Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
 ### **What are some of your favorite hobbies?**
