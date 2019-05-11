@@ -94,9 +94,9 @@ permalink: /officers/promo_web/
 
 > *I have always looked forward to being a Software Engineer at Buzzfeed Studios because Buzzfeed seems to offer a chill and welcoming environment towards all of its employees.*
 
-### **Dream job?**
+### **What is your life motto?**
 
-> *Being a roboticist that makes the robots you see that do backlips and lowkey plot to take revenge on the world*
+> *Considering the fact that I am in college working to achieve an education, my life motto is: Work every single day to achieve that $100,000 salary.*
 
 ### **What is something that people flame you for?**
 
