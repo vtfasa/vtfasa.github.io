@@ -81,7 +81,7 @@ permalink: /officers/promo_web/
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computer Science Major**
 
->  Hey friends! If you need anyone to talk to, feel free to hmu, I swear I don't bite! You'll probably see me playing ultimate frisbee on the drillfield, making Spotify playlists, or taking care of friends who have had way too much of that apple juice
+>  What's up guys. I am so excited to be an officer for FASA this year. I am so excited to meet all of the new members that the 2019-2020 school year has to offer. Do not be afraid to hmu regarding any mystery that life may give you.
 ### **What are some of your favorite hobbies?**
 
 > *Anything sports related even though i don't have muscles, playing/making/listening to music, appreciating memes, and making friends!*
