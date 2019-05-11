@@ -90,9 +90,9 @@ permalink: /officers/promo_web/
 
 > *I am a huge fan of Big Brother, How to Get Away With Murder, and Black Mirror. I could go on for hours about how I love these TV Shows and more.*
 
-### **Favorite artists?**
+### **Dream Job (and why)?**
 
-> *Follow me on spotify! My music taste is pretty broad, we probably have something in common*
+> *I have always looked forward to being a Software Engineer at Buzzfeed Studios because Buzzfeed seems to offer a chill and welcoming environment towards all of its employees.*
 
 ### **Dream job?**
 
