@@ -82,6 +82,10 @@ permalink: /officers/promo_web/
 **Computer Science Major**
 
 >  What's up guys. I am so excited to be an officer for FASA this year. I am so excited to meet all of the new members that the 2019-2020 school year has to offer. Do not be afraid to hmu regarding any mystery that life may give you.
+
+### **Where are you from?**
+> *Born in Fairfax, VA, raised in Woodbridge, VA. #nova>vb*
+
 ### **What are some of your favorite hobbies?**
 
 > *Anything sports related even though i don't have muscles, playing/making/listening to music, appreciating memes, and making friends!*
