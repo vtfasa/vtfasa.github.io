@@ -79,7 +79,7 @@ permalink: /officers/promo_web/
 <a href="https://www.instagram.com/i_z_a_c_h_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Computer Science Major**
+**Computer Science**
 
 >  What's up guys. I am so excited to be an officer for FASA this year. I am so excited to meet all of the new members that the 2019-2020 school year has to offer. Do not be afraid to hmu regarding any mystery that life may give you.
 
