@@ -86,9 +86,9 @@ permalink: /officers/promo_web/
 ### **Where are you from?**
 > *Born in Fairfax, VA, raised in Woodbridge, VA. #nova>vb*
 
-### **What are some of your favorite hobbies?**
+### **Favorite TV Show(s)?**
 
-> *Anything sports related even though i don't have muscles, playing/making/listening to music, appreciating memes, and making friends!*
+> *I am a huge fan of Big Brother, How to Get Away With Murder, and Black Mirror. I could go on for hours about how I love these TV Shows and more.*
 
 ### **Favorite artists?**
 
