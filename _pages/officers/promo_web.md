@@ -77,7 +77,7 @@ permalink: /officers/promo_web/
 ![image-left]({{ "/assets/images/officers/small/zach.png" | absolute_url }}){: .align-left}
 ## Zach Amados
 <a href="https://www.instagram.com/i_z_a_c_h_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computer Science**
 
