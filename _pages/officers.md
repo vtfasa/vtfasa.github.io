@@ -94,8 +94,8 @@ sports:
     image_path: /assets/images/officers/alan.png
     alt: "Alan Do"
   - url: /officers/sports/
-    image_path: /assets/images/officers/paolo.png
-    alt: "Paolo Gavino"
+    image_path: /assets/images/officers/nia.png
+    alt: "Nia Corpuz"
 # promo/web
 promo_web:
   - url: /officers/promo_web/
