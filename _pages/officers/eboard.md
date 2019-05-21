@@ -155,14 +155,16 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/adrian.png" | absolute_url }}){: .align-left}
-## Adrian Talastas
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/saridap/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:adrianpt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+![image-left]({{ "/assets/images/officers/small/bryant.png" | absolute_url }}){: .align-left}
+## Bryant Nguyen
+<a href="mailto:nguybr@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
-**Architecture**
+**Computer Science**
 
-> current mood: hungry
+> Hi! I’m Bryant, and I am Co-Historian for the upcoming school year.  I hope to make this a memorable year trough my pictures and videos!
+
+### **Where are you from?**
+> Annandale, VA
 
 ### **What are some of your favorite hobbies?**
 
