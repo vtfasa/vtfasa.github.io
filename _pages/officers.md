@@ -37,11 +37,11 @@ e_board2:
 # d7
 d7:
   - url: /officers/d7/
-    image_path: /assets/images/officers/teresa.png
-    alt: "Teresa Nguyen"
+    image_path: /assets/images/officers/josh.png
+    alt: "Joshua Protacio"
   - url: /officers/d7/
-    image_path: /assets/images/officers/joy.png
-    alt: "Joy Villanueva"
+    image_path: /assets/images/officers/josh.png
+    alt: "Joshua Protacio"
 # culture
 culture:
   - url: /officers/culture/
