@@ -14,14 +14,17 @@ permalink: /officers/sports/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/paolo.png" | absolute_url }}){: .align-left}
-## Paolo Gavino
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:pmg416@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Computer Science**
+![image-left]({{ "/assets/images/officers/small/nia.png" | absolute_url }}){: .align-left}
+## Nia Corpuz
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:njcorpuz@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+**Psychology and Criminology**
 
-> *Muscle Emoji*
+> *The smallest quarterback you'll ever see.*
+
+### **Where are you from?**
+> Fairfax, VA
 
 ### **What are some of your favorite hobbies?**
 
