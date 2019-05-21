@@ -72,14 +72,18 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/timmy2.png" | absolute_url }}){: .align-left}
-## Timmy Le
-<a href="https://www.instagram.com/letimmyq/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:letimmy@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+![image-left]({{ "/assets/images/officers/small/christa.png" | absolute_url }}){: .align-left}
+## Christa Ventura
+<a href="https://www.instagram.com/itsaceventura/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:vchris14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Secretary</em> | Junior</h3>
-**Psychology**
+**Clinical Neuroscience, Experimental Neuroscience, Psychology**
 
-> I like to cook and clean. Follow me on ig
+>Find me a better name than seCHRISTAry and I'll give you anything you want.
+
+### **Where are you from?**
+
+>*Chesapeake, VA*
 
 ### **What are some of your favorite hobbies?**
 

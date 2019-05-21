@@ -21,8 +21,8 @@ e_board1:
     image_path: /assets/images/officers/aubrey2.png
     alt: "Aubrey Medina, Vice President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/timmy2.png
-    alt: "Timmy Le, Secretary"
+    image_path: /assets/images/officers/christa.png
+    alt: "Christa Ventura, Secretary"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/
