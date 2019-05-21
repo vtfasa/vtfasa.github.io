@@ -157,7 +157,7 @@ permalink: /officers/eboard/
 
 ![image-left]({{ "/assets/images/officers/small/bryant.png" | absolute_url }}){: .align-left}
 ## Bryant Nguyen
-<a href="mailto:nguybr@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="mailto:nguybr@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
 **Computer Science**
 
