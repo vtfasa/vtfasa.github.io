@@ -102,8 +102,8 @@ promo_web:
     image_path: /assets/images/officers/ingrid.png
     alt: "Ingrid Brandares"
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/danielle.png
-    alt: "Danielle Faust"
+    image_path: /assets/images/officers/rachel.png
+    alt: "Rachel Joaquin"
   - url: /officers/promo_web/
     image_path: /assets/images/officers/zach.png
     alt: "Zach Amados"

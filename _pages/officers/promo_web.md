@@ -16,14 +16,17 @@ permalink: /officers/promo_web/
 ## Promo
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/danielle.png" | absolute_url }}){: .align-left}
-## Danielle Faust
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:danieef@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+![image-left]({{ "/assets/images/officers/small/rachel.png" | absolute_url }}){: .align-left}
+## Rachel Joaquin
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:rachelgj22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**International Relations; National Security and Foreign Affairs**
+**Graphic Design**
 
-> If you’re not sure whether you see me on campus, check for the following traits: sweatpants, slow walker, green tea smoothie in hand :)
+> lover of fun fonts, chai tea, and cats
+
+### **Where are you from?**
+> Portsmouth, VA
 
 ### **What are some of your favorite hobbies?**
 
