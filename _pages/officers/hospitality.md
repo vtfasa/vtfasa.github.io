@@ -23,7 +23,7 @@ permalink: /officers/hospitality/
 > Is it hot in here or is it just you?
 
 ### **Where are you from?**
-> Bristow, VA 
+> Bristow, VA
 
 ### **What are some of your favorite hobbies?**
 
@@ -72,14 +72,17 @@ permalink: /officers/hospitality/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/sarah.png" | absolute_url }}){: .align-left}
-## Sarah Cruz
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/sarahcruz__/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:scruz731@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Computational Modeling and Data Analytics**  
+![image-left]({{ "/assets/images/officers/small/justin2.png" | absolute_url }}){: .align-left}
+## Justin Nguyen
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/nguyening14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:justnn14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">/Junior</h3>
+**Computer Engineering**  
 
-> Hey! I'm Sarah Cruz and I'm from Northern Virginia. I'm super excited to be one of the Hospitality chairs this year!! I was pretty active within my high school, so I'm ready to get more involved at Tech. In short, I love sleeping, eating, music, and laughing at literally...anything. If you ever need anyone to talk to or hang with, hit me up because I'm probably doing nothing (srsly) :)
+> Yo what's up! Wow you actually want to read my bio that's lit! Too bad there's nothing going to be on it. If you wanna know me, come and talk to me. I don't bite, at least sometimes I don't.....
+
+### **Where are you from?**
+> Glen Allen, VA (Near Richmond)
 
 ### **What are some of your favorite hobbies?**
 

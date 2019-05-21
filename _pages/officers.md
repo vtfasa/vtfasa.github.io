@@ -69,8 +69,8 @@ fundraising:
 # hospitality
 hospitality:
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/sarah.png
-    alt: "Sarah Cruz"
+    image_path: /assets/images/officers/justin2.png
+    alt: "Justin Nguyen"
   - url: /officers/hospitality/
     image_path: /assets/images/officers/katherine.png
     alt: "Katherine Quion"
