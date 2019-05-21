@@ -43,7 +43,7 @@ feature_row:
 
 # eboard header
 eboard_header:
-  - title: 'Executive Board 2018-19'
+  - title: 'Executive Board 2019-20'
 
 # eboard part 1: president, vice, and secretary
 e_board1:
