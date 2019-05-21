@@ -23,7 +23,7 @@ permalink: /officers/hospitality/
 > Is it hot in here or is it just you?
 
 ### **Where are you from?**
-> *Bristow, VA *
+> Bristow, VA 
 
 ### **What are some of your favorite hobbies?**
 
