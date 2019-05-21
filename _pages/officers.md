@@ -80,8 +80,8 @@ hospitality:
 # service
 service:
   - url: /officers/service/
-    image_path: /assets/images/officers/jeyein.png
-    alt: "JC Cepillo"
+    image_path: /assets/images/officers/nic.png
+    alt: "Nic Alfonso"
   - url: /officers/service/
     image_path: /assets/images/officers/sharleen.png
     alt: "Sharleen He"

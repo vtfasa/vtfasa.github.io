@@ -13,15 +13,19 @@ permalink: /officers/service/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/jeyein.png" | absolute_url }}){: .align-left}
-## Jeyein Cepillo
+![image-left]({{ "/assets/images/officers/small/nic.png" | absolute_url }}){: .align-left}
+## Nic Alfonso
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/tristenngu" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/tristenngu/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-<h3 style="margin-top: 0">Industrial Systems and Business Management</h3>
+<a href="https://www.instagram.com/nic_alfonso/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:nica14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+<h3 style="margin-top: 0">Business Information Technology</h3>
 
-> I’m wild but I love helping people! Oh, and pugs hehe :)
+> I love long walks on the drill field. In my free time I serve my country. AKA “Best Service Chair”. I like meeting new people :))
+Must love FASA
+
+### **Where are you from?**
+> Leesburg, VA
 
 ### **What are some of your favorite hobbies?**
 
