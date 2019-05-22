@@ -48,7 +48,7 @@ eboard_header:
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/home/eboard/joey2.jpg
+  - image_path: /assets/images/home/eboard/joey.jpg
     alt: "Joey Rivera"
     title: "Joey Rivera"
     excerpt: "***President*** - \"I thought we were ahead\" -J.R. Smith"
