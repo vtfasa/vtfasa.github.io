@@ -15,8 +15,8 @@ header:
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/joey2.png
-    alt: "Joey Rivera, President"
+    image_path: /assets/images/officers/alex3.png
+    alt: "Alex Chavez, President"
   - url: /officers/eboard/
     image_path: /assets/images/officers/aubrey2.png
     alt: "Aubrey Medina, Vice President"
