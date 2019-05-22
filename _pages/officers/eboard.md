@@ -15,15 +15,18 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/joey2.png" | absolute_url }}){: .align-left}
-## Joey Rivera
+![image-left]({{ "/assets/images/officers/small/alex3.png" | absolute_url }}){: .align-left}
+## Alex Chavez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/alienburgers" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/ilianfae/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:rjoseph5@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
-**Mechanical Engineering**  
+**Human Nutrition, Foods, and Exercise**  
 
-> “I thought we were ahead” -J.R. Smith
+> whaddup ya'll!! it's alex, i LOVEEEE sports, shoes, being Filipino, and being surrounded by lotsa people!
+
+### **Where are you from?**
+> *Alexandria, VA
 
 ### **What are some of your favorite hobbies?**
 
