@@ -26,7 +26,7 @@ permalink: /officers/eboard/
 > whaddup ya'll!! it's alex, i LOVEEEE sports, shoes, being Filipino, and being surrounded by lotsa people!
 
 ### **Where are you from?**
-> *Alexandria, VA
+> *Alexandria, VA*
 
 ### **What are some of your favorite hobbies?**
 
