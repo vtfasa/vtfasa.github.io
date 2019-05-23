@@ -45,8 +45,8 @@ d7:
 # culture
 culture:
   - url: /officers/culture/
-    image_path: /assets/images/officers/alyana.png
-    alt: "Alyana Alvarez"
+    image_path: /assets/images/officers/diegoi.png
+    alt: "Diego Ignacio"
   - url: /officers/culture/
     image_path: /assets/images/officers/roshan.png
     alt: "Roshan Madurar"

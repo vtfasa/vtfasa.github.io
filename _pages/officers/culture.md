@@ -13,15 +13,18 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/alyana.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/diegoi.png" | absolute_url }}){: .align-left}
 ## Alyana Alvarez  
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.linkedin.com/in/nikko-tolentino-924b18126/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
-<a href="https://www.instagram.com/nikkotolentino_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:alyana17@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/diego.ignacio22/_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Biology**  
+**Economics**  
 
-> I like bubble tea wbu?
+> I am a Sophomore majoring in Economics. I grew up in the Philippines until I moved to NOVA in the 8th grade. I hate the cold.
+
+### **Where are you from?**
+> *Annandale, VA*
 
 ### **What are some of your favorite hobbies?**
 
