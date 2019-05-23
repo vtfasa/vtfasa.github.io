@@ -14,15 +14,18 @@ permalink: /officers/events/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/lexi2.png" | absolute_url }}){: .align-left}
-## Alexis Lapid
+![image-left]({{ "/assets/images/officers/small/betsa.png" | absolute_url }}){: .align-left}
+## Betsa Oropeza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/lexiilaine" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:alapid@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Cognitive and Behavioral Neuroscience**  
+<a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**International Relations and French**  
 
-> Frick. I'm not good at writing bios, but **EVENT**ually, I'll get better at it.
+>hi all! here is 1/2 of your event chairs! I am a sophomore double majoring in International Relations and French. I was born and raised in Venezuela but moved to the states at age 13, so Spanish is basically my second language as I am still mastering French. I am super outgoing, dedicated and responsible in my studies, but I also like to go on adventures, the gym, or just talking until 3 am while making cookies or watching a movie. Additionally, I dance in my free time and I am currently part of bamboom dance crew, fun :,). I cannot wait for a new year full of EVENTS and memories, feel free to follow me on my social media and to get to know me anytime!
+
+### **Where are you from?**
+> *Sterling, VA*
 
 ### **What are some of your favorite hobbies?**
 

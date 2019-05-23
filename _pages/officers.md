@@ -53,8 +53,8 @@ culture:
 # events
 events:
   - url: /officers/events/
-    image_path: /assets/images/officers/lexi2.png
-    alt: "Alexis-Elaine Lapid"
+    image_path: /assets/images/officers/betsa.png
+    alt: "Betsa Oropeza"
   - url: /officers/events/
     image_path: /assets/images/officers/haein2.png
     alt: "Haein Kim"
