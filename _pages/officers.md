@@ -61,8 +61,8 @@ events:
 # fundraising
 fundraising:
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/diego.png
-    alt: "Diego Almodiel"
+    image_path: /assets/images/officers/natalie.png
+    alt: "Natalie Calizon"
   - url: /officers/fundraising/
     image_path: /assets/images/officers/victoria.png
     alt: "Victoria Grimm"
