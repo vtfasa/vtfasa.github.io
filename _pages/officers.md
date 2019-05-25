@@ -91,8 +91,8 @@ service:
 # sports
 sports:
   - url: /officers/sports/
-    image_path: /assets/images/officers/alan.png
-    alt: "Alan Do"
+    image_path: /assets/images/officers/alexr.png
+    alt: "Alex Rumingan"
   - url: /officers/sports/
     image_path: /assets/images/officers/nia.png
     alt: "Nia Corpuz"
