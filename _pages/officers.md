@@ -37,8 +37,8 @@ e_board2:
 # d7
 d7:
   - url: /officers/d7/
-    image_path: /assets/images/officers/josh.png
-    alt: "Joshua Protacio"
+    image_path: /assets/images/officers/grace.png
+    alt: "Grace Patterson"
   - url: /officers/d7/
     image_path: /assets/images/officers/josh.png
     alt: "Joshua Protacio"
