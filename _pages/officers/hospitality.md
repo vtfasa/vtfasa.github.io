@@ -57,21 +57,21 @@ permalink: /officers/hospitality/
 ### **Where are you from?**
 > *Springfield, VA*
 
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
+
+> *sleep*
+
+### **What fictional character do you relate with the most and why?**
+
+> *Lena from The Sisterhood of the Travelling Pants because we're both pretty shy but love to try new things*
+
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)**
+
+> *1 horse sized duck because it's easier to run away from one thing than 100*
+
 ### **What are some of your favorite hobbies?**
 
-> *Viola, photography, doodling*
-
-### **What is your taste in music? (Favorite genres, artists, song)**
-
-> *Mitski, Hyukoh, Bread, Vampire Weekend, Amine, BTS, Day6, (and KPOP in general :) ), Tyler the Creator, Daniel Caesar, Paul Simon, 80s MUSIC, alt/indie pop rock stuff, R&B <3 (follow me on Spotify!)*
-
-### **Dream Job (and why)?**
-
-> *Honestly, a farmer, but maybe in Japan. It's a bit disconnected, but it sounds peaceful compared to the hectic lifestyle of urban areas! I would get the great views and be close with nature!*
-
-### **What is something that people flame you for?**
-
-> *being flexitarian (semi-vegetarian but MOSTLY vegetarian)*
+> *reading, sleeping, trying new foods, playing with my dog*
 
 ---
 
