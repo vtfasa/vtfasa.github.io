@@ -99,8 +99,8 @@ sports:
 # promo/web
 promo_web:
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/ingrid.png
-    alt: "Ingrid Brandares"
+    image_path: /assets/images/officers/kevin.png
+    alt: "Kevin Chan"
   - url: /officers/promo_web/
     image_path: /assets/images/officers/rachel.png
     alt: "Rachel Joaquin"
