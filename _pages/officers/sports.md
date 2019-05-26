@@ -56,18 +56,18 @@ permalink: /officers/sports/
 ### **Where are you from?**
 > *Falls Church, VA*
 
-### **What are some of your favorite hobbies?**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *Putting in that work at the gym*
+> *Playinwitme by KYLE and Kehlani *
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Favorite TV show(s)?**
 
-> *Rap (Travis Scott, Drake,  21 Savage, Shy Glizzy, Bryson Tiller), The Weeknd (if I'm in my feels)*
+> *How I Met Your Mother)*
 
-### **Do you believe in ghosts (and why)?**
+### **What is your life motto?**
 
-> *Have you ever seen Casper the Friendly Ghost? Exactly *
+> *We Hoopin Every Semester!!!*
 
-### **What would your rapper name be?**
+### **What are three adjectives that describe you? **
 
-> *DOBOII*
+> *Discipline, Adventurous, and Passionate*
