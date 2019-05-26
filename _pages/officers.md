@@ -18,8 +18,8 @@ e_board1:
     image_path: /assets/images/officers/alex3.png
     alt: "Alex Chavez, President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/aubrey2.png
-    alt: "Aubrey Medina, Vice President"
+    image_path: /assets/images/officers/lexi3.png
+    alt: "Alexis Lapid, Vice President"
   - url: /officers/eboard/
     image_path: /assets/images/officers/christa.png
     alt: "Christa Ventura, Secretary"

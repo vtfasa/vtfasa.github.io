@@ -47,15 +47,18 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/aubrey2.png" | absolute_url }}){: .align-left}
-## Aubrey Medina
+![image-left]({{ "/assets/images/officers/small/lexi3.png" | absolute_url }}){: .align-left}
+## Alexis Lapid
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/YourKuyaAJ" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/YourKuyaAJ/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:andyjc63@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:alapid@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Vice President</em> | Junior</h3>
-**International Studies and Multimedia Journalism**
+**Double Major in Cognitive and Behavioral Neuroscience & Psychology**
 
-> I quote FRIENDS and and Harry Potter a lot
+> I have PERFECT VISION for Culture Show 2020!
+
+### **Where are you from?**
+> *Virginia Beach, VA*
 
 ### **What are some of your favorite hobbies?**
 
