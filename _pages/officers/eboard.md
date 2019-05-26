@@ -52,7 +52,7 @@ permalink: /officers/eboard/
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/YourKuyaAJ" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:alapid@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Vice President</em> | Junior</h3>
+<h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
 **Double Major in Cognitive and Behavioral Neuroscience & Psychology**
 
 > I have PERFECT VISION for Culture Show 2020!
