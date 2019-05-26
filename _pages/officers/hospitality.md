@@ -43,16 +43,19 @@ permalink: /officers/hospitality/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/katherine.png" | absolute_url }}){: .align-left}
-## Katherine Quion
+![image-left]({{ "/assets/images/officers/small/hannah.png" | absolute_url }}){: .align-left}
+## Hannah De Guzman
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/katquion" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/miguel_rillo/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:katquion@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:hdeguzman3@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Biological Systems Engineering**  
+**Political Science**  
 
 
-> Hello! Katherine really loves dogs, family, and good friends. I love the outdoors, art, music, and laughing. Come talk to me about anything, so we can get to know each other better rather than through this mediocre bio about myself.
+> hi I'm Hannah and I love my dog.
+
+### **Where are you from?**
+> *Springfield, VA*
 
 ### **What are some of your favorite hobbies?**
 

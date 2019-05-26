@@ -72,8 +72,8 @@ hospitality:
     image_path: /assets/images/officers/justin2.png
     alt: "Justin Nguyen"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/katherine.png
-    alt: "Katherine Quion"
+    image_path: /assets/images/officers/hannah.png
+    alt: "Hannah De Guzman"
   - url: /officers/hospitality/
     image_path: /assets/images/officers/jc2.png
     alt: "Jeyein Cepillo"
@@ -83,8 +83,8 @@ service:
     image_path: /assets/images/officers/nic.png
     alt: "Nic Alfonso"
   - url: /officers/service/
-    image_path: /assets/images/officers/sharleen.png
-    alt: "Sharleen He"
+    image_path: /assets/images/officers/angie.png
+    alt: "Angie Nguyen"
   - url: /officers/service/
     image_path: /assets/images/officers/justin.png
     alt: "Justin Nguyen"
