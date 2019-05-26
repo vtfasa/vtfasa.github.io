@@ -45,15 +45,18 @@ permalink: /officers/events/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/haein2.png" | absolute_url }}){: .align-left}
-## Haein Kim
+![image-left]({{ "/assets/images/officers/small/jasmin.png" | absolute_url }}){: .align-left}
+## Jasmin Atienza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/haeink97/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:haeink1@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/jasminatienza_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:jasmina@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
-**International Relations**  
+**Marketing and Management**  
 
-> Yo wassup, my name is Haein (like HEY-in). My license says I’m 4’11” but I’m actually 4’9”. Being short is a struggle when you can’t reach the 12-count nuggets at Hokie Grill.
+> Add me on League for a fun time PixiePoodle.
+
+### **Where are you from?**
+> *Lorton, VA (NOVA)*
 
 ### **What are some of your favorite hobbies?**
 

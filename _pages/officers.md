@@ -56,8 +56,8 @@ events:
     image_path: /assets/images/officers/betsa.png
     alt: "Betsa Oropeza"
   - url: /officers/events/
-    image_path: /assets/images/officers/haein2.png
-    alt: "Haein Kim"
+    image_path: /assets/images/officers/jasmin.png
+    alt: "Jasmin Atienza"
 # fundraising
 fundraising:
   - url: /officers/fundraising/
