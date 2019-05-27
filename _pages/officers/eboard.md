@@ -119,21 +119,21 @@ permalink: /officers/eboard/
 
 > Please pay your membership dues and I'll tell you anything you wanna know!
 
+### **What fictional character do you relate with the most and why?**
+
+> *Chuck from the Goonies. I eat, I’m teased and then dragged on stupid adventures by my loving friends*
+
+### **What is your life motto?**
+
+> *All that you can take with you is that which you’ve given away*
+
+### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
+
+> *Avatar the last air bender. Best show in the world. End of story*
+
 ### **What are some of your favorite hobbies?**
 
-> *Eating, sleeping, trying to learn how to cook food that I only end up burning, sitting in the dark and listening to hours of ASMR*
-
-### **Dream job?**
-
-> *The person behind a rapper that hypes them up and repeats the last phrase they say*
-
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
-
-> *If I could own a restaurant it would be named Bueno, Bonito y Barato, and I would sell Mexican food just so I would have a valid excuse to eat Mexican food everyday...*
-
-### **What is your spirit animal?**
-
-> *Garfield the Cat*
+> *Lifting, outdoor sports, hanging out with friends*
 
 ---
 
