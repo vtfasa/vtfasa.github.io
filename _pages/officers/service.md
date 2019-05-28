@@ -90,18 +90,18 @@ Must love FASA
 ### **Where are you from?**
 > *Virginia Beach, VA*
 
-### **What are some of your favorite hobbies?**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *Basketball*
+> *hmmm Ariana Grande? no, doesn't ring a bell. definitely not listening to her while I answer this question..*
 
-### **Dream Job (and why)?**
+### **Favorite TV show(s)?**
 
-> *To one day be a professional food taster/tester. This allows me to get paid by eating food.*
+> *Teen Wolf (Dylan O'Brien <3), The 100, Gossip Girl, The Vampire Diaries, and The Fosters*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What fictional character do you relate with the most and why?**
 
-> *Justin's Food Adventure, it will sell all sorts of food that I like.*
+> *Garfield because he's lazy, hates Mondays and exercise, sleeps a bunch, and loves eating lasagna :P*
 
-### **What would your rapper name be?**
+### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
 
-> *J Money*
+> *Wizards of Waverly Place because that cast was everything. *
