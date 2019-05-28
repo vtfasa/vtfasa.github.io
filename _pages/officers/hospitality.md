@@ -79,6 +79,7 @@ permalink: /officers/hospitality/
 ![image-left]({{ "/assets/images/officers/small/justin2Circle.png" | absolute_url }}){: .align-left}
 ## Justin Nguyen
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/nguyening14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://www.linkedin.com/in/justin-nguyen-077150149/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
 <a href="mailto:justnn14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
 **Computer Engineering**  
