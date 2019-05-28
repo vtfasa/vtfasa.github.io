@@ -56,18 +56,18 @@ permalink: /officers/culture/
 ### **Where are you from?**
 > *Virginia Beach, VA*
 
+### **Dream Job (and why)?**
+
+> *An actress! I used to do theater and I love watching movie bloopers and actors' interviews. It'd be cool to be on the big screen one day!*
+
 ### **What are some of your favorite hobbies?**
 
-> *Watching anime, draw, paint, cook, garden*
+> *eating out, DIY, arts and crafts, vlogging, and happy hour*
 
-### **Dream Job and why?**
+### **If you could live anywhere in the world where would it be and why? **
 
-> *Fashion designer bc a lot of styles these days are terrible and I like to draw clothes ever since I was a kid*
+> *A Disney Cruise! I'd get to eat food, walk around in the sun with a swimsuit on 24/7, I'd get to stop at different countries, and DISNEY!*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **What is your life motto?**
 
-> *Classical rock, RnB, pop, kpop*
-
-### **If you could live anywhere in the world, where would it be and why?**
-
-> *Japan bc I love the atmosphere *
+> *We exist to better others and be bettered by others *
