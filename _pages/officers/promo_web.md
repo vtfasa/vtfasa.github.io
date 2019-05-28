@@ -19,6 +19,7 @@ permalink: /officers/promo_web/
 ![image-left]({{ "/assets/images/officers/small/rachelCircle.png" | absolute_url }}){: .align-left}
 ## Rachel Joaquin
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/rachelgj22" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:rachelgj22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Graphic Design**
