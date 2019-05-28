@@ -13,7 +13,7 @@ permalink: /officers/service/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/nic.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/nicCircle.png" | absolute_url }}){: .align-left}
 ## Nic Alfonso
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/tristenngu" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/nic_alfonso/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -45,7 +45,7 @@ Must love FASA
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/angie.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/angieCircle.png" | absolute_url }}){: .align-left}
 ## Angie Nguyen
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/haeink97/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -77,7 +77,7 @@ Must love FASA
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/justin.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/isabelCircle.png" | absolute_url }}){: .align-left}
 ## Justin Nguyen
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/haeink97/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
