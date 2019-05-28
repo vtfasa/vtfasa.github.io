@@ -13,32 +13,35 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/victoria.png" | absolute_url }}){: .align-left}
-## Victoria Grimmm
+![image-left]({{ "/assets/images/officers/small/kalistaCircle.PNG" | absolute_url }}){: .align-left}
+## Kalista Fon
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="mailto:vrgrimm@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/kalistaafonn/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="mailto:kalistafon@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**International Relations**
+**Business Information Technology**
 
-> From Fairfax, VA and one half of the team that puts the fun in fundraising! I love musical theatre as well as trivia games and I’m very excited to serve as an officer for FASA this year! :~)
+> Hey! I'm Kalista and I love boba :) catch me putting the FUN in fundraising this year!!
+
+### **Where are you from?**
+> *Chantilly, VA*
 
 ### **What are some of your favorite hobbies?**
 
-> *Singing, arts and crafts, trivia*
+> *Eating, sleeping, shopping, playing the piano, drinking boba, and listening to music*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists) **
 
-> *ihomac (International House of Macaroni and Cheese); would ONLY and EXCLUSIVELY sell Mac and cheese*
+> *I like all types of music but my end of the year Spotify rewind told me my favorite genre is dance pop?¿ not sure if that’s true but I really like Ed Sheeran, James Arthur, Niki, Ariana Grande, etc. and ofc BLACKPINK*
 
 ### **If you could live anywhere in the world, where would it be and why?**
 
-> *Spain because*
-> *1). Cheetah girls 2*
-> *2). I’ve been taking spanish for almost 7 years and need something to show for it*
+> *Taiwan because most of my family is there :’)*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **What is your biggest pet peeve and why?**
 
-> *Musical theatre, Taylor Swift, The Beatles*
+> *Lying because it’s bad*
 
 ---
 

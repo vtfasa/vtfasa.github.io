@@ -64,7 +64,7 @@ fundraising:
     image_path: /assets/images/officers/natalie.png
     alt: "Natalie Calizon"
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/victoria.png
+    image_path: /assets/images/officers/kalista.png
     alt: "Victoria Grimm"
 # hospitality
 hospitality:
