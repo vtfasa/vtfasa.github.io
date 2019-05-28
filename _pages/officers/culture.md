@@ -13,7 +13,7 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/diegoi.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/diegoCircle.png" | absolute_url }}){: .align-left}
 ## Alyana Alvarez  
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.linkedin.com/in/nikko-tolentino-924b18126/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
 <a href="https://www.instagram.com/diego.ignacio22/_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/culture/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/roshan.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/aubrey3Circle.png" | absolute_url }}){: .align-left}
 ## Roshan Madurar
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/xi.xix.xcvii" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:rmadurar@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
