@@ -16,7 +16,7 @@ permalink: /officers/promo_web/
 ## Promo
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/rachel.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/rachelCircle.png" | absolute_url }}){: .align-left}
 ## Rachel Joaquin
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:rachelgj22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -46,7 +46,7 @@ permalink: /officers/promo_web/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/kevin.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/kevinCircle.png" | absolute_url }}){: .align-left}
 ## Kevin Chan
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/nortezx" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/kevinchan14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -81,7 +81,7 @@ p.s. lowkey have rbf, but I’m really nice I promise 🥺
 ## Web
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/zach.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/zachCircle.png" | absolute_url }}){: .align-left}
 ## Zach Amados
 <a href="https://www.instagram.com/i_z_a_c_h_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
