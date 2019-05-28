@@ -48,10 +48,13 @@ permalink: /officers/culture/
 ## Aubrey Medina
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/aubreykadaubrey/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:aubreym@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Senior</h3>
 **Double Major in International Studies and Multimedia Journalism**
 
 >I always call small things "cute", I love flowers and one day I want them tattooed all over me, if I could I'd live on the beach I would, I'm a sucker for nice packaging, and I'll probably ask you your sign eventually (I'm a Capricorn sun, Scorpio moon, and Aries rising thanks).
+
+### **Where are you from?**
+> *Virginia Beach, VA*
 
 ### **What are some of your favorite hobbies?**
 

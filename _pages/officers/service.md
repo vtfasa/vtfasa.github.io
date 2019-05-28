@@ -78,14 +78,17 @@ Must love FASA
 ---
 
 ![image-left]({{ "/assets/images/officers/small/isabelCircle.png" | absolute_url }}){: .align-left}
-## Justin Nguyen
+## Isabel Jordan
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/haeink97/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:justnn14@vt.edu.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/_isabeljordan/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:isabelsjordan@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Computer Engineering**
+**Animal & Poultry Sciences**
 
-> Yo, I'm a G. Hard to describe myself, so talk to me in person and get to know me!
+> a binge watching, lacrosse-playing, disney-loving foodie who loves serving the community :P
+
+### **Where are you from?**
+> *Virginia Beach, VA*
 
 ### **What are some of your favorite hobbies?**
 
