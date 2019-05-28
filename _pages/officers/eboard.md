@@ -141,7 +141,6 @@ permalink: /officers/eboard/
 ## Shawn De Lopez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:shawnd7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
 <h3 style="margin-top: 0"><em>Historian</em> | Senior</h3>
 **Creative Technology**
 
