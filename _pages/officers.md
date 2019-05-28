@@ -48,8 +48,8 @@ culture:
     image_path: /assets/images/officers/diegoi.png
     alt: "Diego Ignacio"
   - url: /officers/culture/
-    image_path: /assets/images/officers/roshan.png
-    alt: "Roshan Madurar"
+    image_path: /assets/images/officers/aubrey3.png
+    alt: "Aubrey Medina"
 # events
 events:
   - url: /officers/events/
@@ -86,8 +86,8 @@ service:
     image_path: /assets/images/officers/angie.png
     alt: "Angie Nguyen"
   - url: /officers/service/
-    image_path: /assets/images/officers/justin.png
-    alt: "Justin Nguyen"
+    image_path: /assets/images/officers/isabel.png
+    alt: "Isabel Jordan"
 # sports
 sports:
   - url: /officers/sports/
