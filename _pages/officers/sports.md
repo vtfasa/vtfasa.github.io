@@ -28,19 +28,19 @@ permalink: /officers/sports/
 
 ### **What are some of your favorite hobbies?**
 
-> *Basketball, Eating, Sleeping*
+> *Football, soccer, online shopping, watching movies, Sims 4, and Diego*
 
-### **Favorite TV Show(s)? Movies?**
+### **Dream Job (and why)?**
 
-> *Chuck, GOT, The Office*
+> *Special Agent in the FBI because I want to catch bad guys hehe*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell??**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *Pao's Pinata, selling candy*
+> *Hawaii because my parents are from Oahu and most of my family lives there.*
 
-### **What would your rapper name be?**
+### **What is your biggest pet peeve and why?**
 
-> *Childish Gavino*
+> *When I'm behind people who walk slow because I feel like I'm always in a rush.*
 
 ---
 
