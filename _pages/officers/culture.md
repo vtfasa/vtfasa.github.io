@@ -15,7 +15,7 @@ permalink: /officers/culture/
 
 ![image-left]({{ "/assets/images/officers/small/diegoCircle.png" | absolute_url }}){: .align-left}
 ## Diego Ignacio
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.linkedin.com/in/nikko-tolentino-924b18126/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/diego.ignacio22/_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
