@@ -81,6 +81,7 @@ permalink: /officers/eboard/
 ![image-left]({{ "/assets/images/officers/small/christaCircle.png" | absolute_url }}){: .align-left}
 ## Christa Ventura
 <a href="https://www.instagram.com/itsaceventura/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/ChristaVentura" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:vchris14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Secretary</em> | Junior</h3>
 **Clinical Neuroscience, Experimental Neuroscience, Psychology**
