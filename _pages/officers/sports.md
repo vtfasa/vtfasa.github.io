@@ -48,6 +48,7 @@ permalink: /officers/sports/
 ![image-left]({{ "/assets/images/officers/small/alexRCircle.png" | absolute_url }}){: .align-left}
 ## Alex Rumingan
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/DJRumi33" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:rumi33@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Senior</h3>
 **Chemistry**
