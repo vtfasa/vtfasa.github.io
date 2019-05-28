@@ -26,8 +26,8 @@ e_board1:
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/christa.png
-    alt: "Christa Ventura, Treasurer"
+    image_path: /assets/images/officers/david.png
+    alt: "David Brighton, Treasurer"
   - url: /officers/eboard/
     image_path: /assets/images/officers/shawn2.png
     alt: "Shawn De Lopez, Historian"
