@@ -113,11 +113,14 @@ permalink: /officers/eboard/
 ## David Brighton
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/davidbright0n/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:vchris@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
-**Computer Modeling and Data Analytics**
+<a href="mailto:davidb@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Treasurer</em> | Junior</h3>
+**Statistics**
 
-> Please pay your membership dues and I'll tell you anything you wanna know!
+> Hey everyone my name is David Brighton and I  will be your Treasurer for this school year. I am a junior here at VT majoring in Statistics with a minor in Public Health. We have a lot planned this year for FASA so hopefully you come out! I'm super excited for this school year and I hope you are too!
+
+### **Where are you from?**
+> *Alexandria, VA
 
 ### **What fictional character do you relate with the most and why?**
 
