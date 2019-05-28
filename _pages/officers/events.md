@@ -14,7 +14,7 @@ permalink: /officers/events/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/betsa.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/betsaCircle.png" | absolute_url }}){: .align-left}
 ## Betsa Oropeza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/lexiilaine" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -45,7 +45,7 @@ permalink: /officers/events/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/jasmin.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/jasminCircle.png" | absolute_url }}){: .align-left}
 ## Jasmin Atienza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/haeink97" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/jasminatienza_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
