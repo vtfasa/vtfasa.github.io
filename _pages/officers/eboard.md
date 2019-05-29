@@ -110,7 +110,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/davidCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/david2Circle.PNG" | absolute_url }}){: .align-left}
 ## David Brighton
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/davidbright0n/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
