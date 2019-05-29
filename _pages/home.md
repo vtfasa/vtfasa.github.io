@@ -58,9 +58,9 @@ e_board1:
     title: "Aubrey Medina"
     excerpt: "***Vice President*** - I quote FRIENDS and and Harry Potter a lot"
   # secretary
-  - image_path: /assets/images/home/eboard/timmy.jpg
-    alt: "Timmy Le"
-    title: "Timmy Le"
+  - image_path: /assets/images/home/eboard/christa.png
+    alt: "Christa Ventura"
+    title: "Christa Ventura"
     excerpt: "***Secretary*** - I like to cook and clean. Follow me on ig"
 
 # eboard part 2: treasurer and historians
