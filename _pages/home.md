@@ -48,14 +48,14 @@ eboard_header:
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/home/eboard/joey.jpg
-    alt: "Joey Rivera"
-    title: "Joey Rivera"
+  - image_path: /assets/images/home/eboard/alex.jpg
+    alt: "Alex Chavez"
+    title: "Alex Chavez"
     excerpt: "***President*** - \"I thought we were ahead\" -J.R. Smith"
   # vice president
-  - image_path: /assets/images/home/eboard/aubrey.jpg
-    alt: "Aubrey Medina"
-    title: "Aubrey Medina"
+  - image_path: /assets/images/home/eboard/lexi.jpeg
+    alt: "Alexis Lapid"
+    title: "Alexis Lapid"
     excerpt: "***Vice President*** - I quote FRIENDS and and Harry Potter a lot"
   # secretary
   - image_path: /assets/images/home/eboard/christa.png
@@ -66,9 +66,9 @@ e_board1:
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/home/eboard/christa.png
-    alt: "Christa Ventura"
-    title: "Christa Ventura"
+  - image_path: /assets/images/home/eboard/david.png
+    alt: "David Brighton"
+    title: "David Brighton"
     excerpt: "***Treasurer*** - Please pay your membership dues and I'll tell you anything you wanna know!"
   # historian 1
   - image_path: /assets/images/home/eboard/shawn.jpg
@@ -76,9 +76,9 @@ e_board2:
     title: "Shawn De Lopez"
     excerpt: "***Historian*** - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
   # historian 2
-  - image_path: /assets/images/home/eboard/adrian.jpg
-    alt: "Adrian Talastas"
-    title: "Adrian Talastas"
+  - image_path: /assets/images/home/eboard/bryant.jpeg
+    alt: "Bryant Nguyen"
+    title: "Bryant Nguyen"
     excerpt: "***Historian*** - current mood: hungry"
 ---
 
