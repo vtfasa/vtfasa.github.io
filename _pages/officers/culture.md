@@ -26,21 +26,21 @@ permalink: /officers/culture/
 ### **Where are you from?**
 > *Annandale, VA*
 
-### **What are some of your favorite hobbies?**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *playing volleyball, hiking(ish), sleeping, and this is a test*
+> *Khalid, Billie Eilish, NIKI*
 
-### **Favorite TV Show(s)? Movies?**
+### **Favorite TV Show(s)?**
 
-> *KDRAMA! One Tree Hill, 90210, Pearl Harbor and any documentary*
+> *The Office, New Girl, How I Met Your Mother*
 
-### **Do you believe in ghosts (and why)?**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *Yeah. Since my dad's really into history, he ended up taking us to this haunted hotel in the Philippines when I was little. Long story short, I remember cuddling with my stuffed animal at night, but ended up seeing it sitting on the balcony facing me in the morning #itsmorefuninthephilippines*
+> *Being late*
 
-### **What is your spirit animal?**
+### **What fictional character do you relate with the most and why?**
 
-> *Corgis*
+> *Winston from New Girl because I’m also color blind and funny in a different way.*
 
 ---
 
