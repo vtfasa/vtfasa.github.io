@@ -26,21 +26,21 @@ permalink: /officers/hospitality/
 ### **Where are you from?**
 > Bristow, VA
 
-### **What are some of your favorite hobbies?**
+### **Complete the sentence: I got 99 problems but _______ ain't one?**
 
-> *watching youtube videos, pretending I'm a youtuber, listening to music, shopping, drawing, swimming *
+> *Being sexy*
 
-### **Dream Job (and why)?**
+### **What is your life motto?**
 
-> *Becoming a Physical Therapist and owning my own practice because I tore my ACL and my physical therapists impacted my life a lot and I want to make that same impact on someone else's life*
+> *Love yourself first*
 
 ### **What is your biggest pet peeve and why?**
 
-> *Biggest pet peeve is when people leave their trash on the table at food courts*
+> *When people are mean to others, life is too short to not be kind ya feel*
 
-### **Favorite TV Show(s)? Movies?**
+### **What are three adjectives that describe you?**
 
-> *i like to watch filipino teleseryes lol*
+> *Sexy, sexy, and sexy*
 
 ---
 
