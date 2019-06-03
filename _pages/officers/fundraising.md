@@ -57,18 +57,18 @@ permalink: /officers/fundraising/
 ### **Where are you from?**
 > *Chantilly, VA*
 
-### **What are some of your favorite hobbies?**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *I like being active and also playing music.*
+> *Peru, so I could happily live with all the alpacas*
 
-### **Favorite TV show?**
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)?**
 
-> *I'm an expert on Greys Anatomy.*
+> *One horse sized duck because 100 little horses would overwhelm and easily topple me.*
 
-### **What is your description of a perfect day?**
+### **What would your rapper name be?**
 
-> *On the beach somewhere, its partly cloudy, and like upper 70s.*
+> *n@*
 
 ### **Dream Job (and why)?**
 
-> *I would like to be some sort of research engineer in the field of biomedical engineering.*
+> *I would want to be one of those people that have a show where they travel around the world eating all kinds of food. It's like you're getting paid to travel and eat. *
