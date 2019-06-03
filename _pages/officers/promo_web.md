@@ -62,21 +62,21 @@ p.s. lowkey have rbf, but I’m really nice I promise 🥺
 ### **Where are you from?**
 >*Springfield, VA*
 
-### **What are some of your favorite hobbies?**
+### **If your life was a movie what would it be called and who would play you?**
 
-> *Binge watching Boku No Hero (the only anime I watch, I swear I'm not a weeb) and kdramas, online shopping, organizing stuff*
+> *Frozen and Alex Landi*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **What is your life motto?**
 
-> *Panic at the Disco, Twenty One Pilots, Logic, Paramore, Kpop, lofi hip hop (I listen to most genres except country lol)*
+> *Always try your best regardless of the situation. Eat if you are hungry and sleep if you are tired.*
 
-### **Favorite spot to be at Tech?**
+### **What are three adjectives that describe you?**
 
-> *Pylons during sunrise and sunset*
+> *sleepy, problematic, hangry*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What would your rapper name be?**
 
-> *Idk what I would name it but it would be a Korean-Japanese-Filipino fusion  restaurant named Zach because I love my little*
+> *Kevin C like Cardi B*
 
 ---
 
