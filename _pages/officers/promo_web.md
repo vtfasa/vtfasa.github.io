@@ -31,19 +31,19 @@ permalink: /officers/promo_web/
 
 ### **What are some of your favorite hobbies?**
 
-> *Singing, playing guitar, graphic design, & TRYING to learn new languages*
+> *playing ukulele, shopping, sketching*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *JAZZ and R&B and ~Alternative! I LOVE Stevie Wonder, Nat King Cole, Bruno Mars, Maroon 5, Tori Kelly, and Bridgit Mendler :) My favorite songs right now are “Friends” by Ann Marie and “How Long” by Charlie Puth. I also have a special place in my heart for bachata :’)*
+> *Somewhere in Southern California. I love warm, sunny days at the beach.*
 
 ### **Dream Job (and why)?**
 
-> *My dream job is to be a diplomat. I believe that this world will be a better place if we connect by what makes us alike while making an open-minded effort to understand what makes us different from each other. I’d love to be able to act as the mediator between the US and other countries by establishing common ground and fostering positive relationships!*
+> *I'd love to work for a graphic design firm or ad agency. I love the idea of having a stable job in a creative workplace.*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What is your life motto?**
 
-> *I’d call it “Halo Hello” and it would be a Filipino food truck! There’d be  lumpia, pancit, tocino, longanisa, adobo, etc. There’d also be smoothie bowls and (of course) halo-halo!!*
+> *I am a work in progress.*
 
 ---
 
