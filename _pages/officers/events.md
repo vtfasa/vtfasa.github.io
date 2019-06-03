@@ -60,16 +60,16 @@ permalink: /officers/events/
 
 ### **What are some of your favorite hobbies?**
 
-> *Taking as many naps as I possibly can*
+> *Dancing, Field Hockey, Lacrosse, DIY's, League, Organizing, Making Powerpoints*
 
-### **Favorite TV Show(s)? Movies?**
+### **Dream Job (and why)?**
 
-> *Master of None, Parks and Rec, Black Mirror*
+> *Event Planner (specifically weddings hehe) because I love planning things and being able to be creative.*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *The Trap House, comfort food from all around*
+> *reaching the bottom shelf*
 
-### **If you could live anywhere in the world, where would it be and why?**
+### **What would your rapper name be?**
 
-> *Probably somewhere like Boston because I like cities but NYC would be too much for me to handle*
+> *$hort$tack*
