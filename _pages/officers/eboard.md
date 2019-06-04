@@ -30,20 +30,19 @@ permalink: /officers/eboard/
 
 ### **What are some of your favorite hobbies?**
 
-> *watching youtube, playing sports, singing in the shower*
+> *sports, FASA, looking at the next adidas or nike shoe drop, working out, traveling, hangin out with friends, eating a lot, watching NBA *
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Dream Job (and why)?**
 
-> *genre: rap and indie/folk stuff is usually my go to*
-> *artists/song: kanye: lift yourself, indie/folk: mumford and sons: little lion man*
+> *Physical Therapist! I tore my ACL senior year of high school and I had to go to PT for awhile and it was there that I realized that I wanted to make the same impact on someone else's life and help them get better, just as my physical therapists did for me!**
 
-### **If you could live anywhere in the world, where would it be and why?**
+### **What is your biggest pet peeve and why?**
 
-> *NJ so I can get a slice of pizza without getting a whole pie*
+> *slow drivers in the left lane & uncleanliness. Slow drivers in the left lane bc if you're slow, you should be on the right. There's nothing wrong with being slow, but sometimes if I'm on a rush to get somewhere, pls help me get there and have the left lane open lol. Uncleanliness bc i'm a huge germaphobe :( *
 
-### **What is something that people flame you for?**
+### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
 
-> *wearing vineyards vines and drinking too much starbucks*
+> *iCarly, because that show was the bomb and it was the only thing keeping Nickelodeon alive, tbh lol. It was so funny and I would love for it to be back again.*
 
 ---
 
