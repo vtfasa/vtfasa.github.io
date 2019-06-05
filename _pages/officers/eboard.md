@@ -93,19 +93,19 @@ permalink: /officers/eboard/
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating, sleeping, cooking, minor to serious therapy counseling, oh singing, and playing with my son*
+> *Binge watching Grey's Anatomy, drinking a lot of water, peeing as a result from drinking too much water, hours and hours and HOURS of ASMR*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
 
-> *Anything except acapella I’ll tell ya that much*
+> *Writing ListServs*
 
-### **What is your description of a perfect day?**
+### **What is your biggest pet peeve and why?**
 
-> *One where it’s my turn to clean the courtyard after lunch at the prison*
+> *Slow walkers because I got places to go and people to see*
 
-### **What is something that people flame you for?**
+### **What is your life motto?**
 
-> *My patchy beard, my hair is losing volume, my voice cracks, my eating habits, my study habits, my terrible gpa, my fat body, my self esteem, my life*
+> *Vienna waits for you. -Billy Joel*
 
 ---
 
