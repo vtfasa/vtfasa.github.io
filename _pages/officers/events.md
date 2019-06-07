@@ -29,19 +29,19 @@ permalink: /officers/events/
 
 ### **What are some of your favorite hobbies?**
 
-> *Telling cheesy puns and being the only one to laugh at them; Singing at the top of my lungs during car rides; Going straight to the sale section of any store; Laughing at Alex with Aubrey*
+> *i love dancing, a bit of video editing, going on adventures!!*
 
 ### **Favorite artist?**
 
-> *US the Duo*
+> *favorite artists hands down are billie eilish, ariana grande, khalid, and one direction :(*
 
-### **Dream job?**
+### **Favorite TV show(s)?**
 
-> *Child Speech Pathologist - I wanna help children find their voice.*
+> *the great british baking show, FRIENDS, the carrie diaries*
 
-### **If your life was a movie what would it be called and who would play you?**
+### **What is your life motto?**
 
-> *"What the Frick" Starring Jan Saraum*
+> *"stay hungry, stay humble"*
 
 ---
 
