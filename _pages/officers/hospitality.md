@@ -14,7 +14,7 @@ permalink: /officers/hospitality/
 ---
 
 ![image-left]({{ "/assets/images/officers/small/jc2Circle.png" | absolute_url }}){: .align-left}
-## Jeyein Cepillo
+## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/JC_Smiles" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -89,18 +89,18 @@ permalink: /officers/hospitality/
 ### **Where are you from?**
 > Glen Allen, VA (Near Richmond)
 
-### **What are some of your favorite hobbies?**
+### **Dream Job (and why)?**
 
-> *Playing piano, doing makeup, going to the gym, sleeping, and eating chicken wings*
+> *Amazon Web Services, cause I like to code.*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *I loveeeee SZA,  Kehlani, Ariana Grande, H.E.R, Rihanna, Drake, Khalid, Paolo Nutini, and Bryson Tiller. I can hear Let Me Love You by Mario at least 30 times in a row and not get tired of it :)))*
+> *Seattle, cause it's nice and windy*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What is your biggest pet peeve and why?**
 
-> *Lil Egg's Wings and sell every flavor of wing known to man ;)*
+> *People wasting my time, time is money*
 
-### **If you could live anywhere in the world, where would it be and why?**
+### **What is your life motto?**
 
-> *I just went to Maui and I LOVED IT so prob there. The atmosphere is so much more relaxed and calm compared to all the places I've been and the people are really nice*
+> *Do it*
