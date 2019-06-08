@@ -61,19 +61,19 @@ permalink: /officers/eboard/
 
 ### **What are some of your favorite hobbies?**
 
-> *Crafty things and DIYs, thrifting, sewing, watching movies and baking Nestle Toll House cookies*
+> *Singing like I'm having my own concert, laughing at my own jokes, pulling flags during flag football, & pushing people around in basketball!*
+
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+
+> *"No Scrubs" by TLC*
+
+### **Favorite TV show(s)?**
+
+> *Jane the Virgin*
 
 ### **Dream Job (and why)?**
 
-> *A host on Buzzfeed's "Worth It" - they're YouTubers, they get to travel, AND eat amazing (expensive) food!*
-
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
-
-> *I think I would own a cute little bakery/coffee shop with outlets so people can study and I'll play soothing music and draw things on the chalkboard menu akdjhfjakjf*
-
-### **If you could live anywhere in the world, where would it be and why?**
-
-> *On a Disney cruise - all you can eat buffets, its socially acceptable to wear a swimsuit all the time, and Disney*
+> *Speech-Language Pathologist because I would like to help people find their voice!*
 
 ---
 
