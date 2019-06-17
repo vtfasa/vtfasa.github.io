@@ -26,7 +26,7 @@ e_board1:
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/david2.PNG
+    image_path: /assets/images/officers/davidNew.png
     alt: "David Brighton, Treasurer"
   - url: /officers/eboard/
     image_path: /assets/images/officers/shawn2.png
