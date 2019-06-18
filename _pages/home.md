@@ -66,7 +66,7 @@ e_board1:
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/home/eboard/david.png
+  - image_path: /assets/images/home/eboard/davidNew.png
     alt: "David Brighton"
     title: "David Brighton"
     excerpt: "***Treasurer*** - Please pay your membership dues and I'll tell you anything you wanna know!"
