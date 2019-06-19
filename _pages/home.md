@@ -61,7 +61,7 @@ e_board1:
   - image_path: /assets/images/home/eboard/christa.png
     alt: "Christa Ventura"
     title: "Christa Ventura"
-    excerpt: "***Secretary*** - HI"
+    excerpt: "***Secretary*** - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
 
 # eboard part 2: treasurer and historians
 e_board2:
