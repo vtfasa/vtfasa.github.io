@@ -60,19 +60,19 @@ Must love FASA
 
 ### **What are some of your favorite hobbies?**
 
-> *Dancing, singing in the shower, eating, sleeping, working out *
+> *Im super into soccer and the  Tottenham Hotspurs is my team. Also if you know who Son is I will love you forever :)*
 
-### **Favorite TV shows?**
+### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)**
 
-> *How I met your mother, friends, lilo and stitch ((:*
+> *a horse sized duck because why not.*
 
-### **What is your dream job and why?**
+### **What is your life motto?**
 
-> *Dealing drugs ((: (aka pharmacist)*
+> *life’s hard*
 
-### **What is your spirit animal?**
+### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
 
-> *Centaur*
+> *drake and josh because I aspired to be megan when i was younger haha.*
 
 
 ---
