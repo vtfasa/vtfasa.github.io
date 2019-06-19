@@ -61,7 +61,7 @@ e_board1:
   - image_path: /assets/images/home/eboard/christa.png
     alt: "Christa Ventura"
     title: "Christa Ventura"
-    excerpt: "***Secretary*** - HI"
+    excerpt: "***Secretary*** - I like to cook and clean. Follow me on ig"
 
 # eboard part 2: treasurer and historians
 e_board2:
