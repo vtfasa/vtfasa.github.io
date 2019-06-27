@@ -17,7 +17,6 @@ a. To enhance interaction between Filipinos and other students, faculty, and sta
 b. To promote the Filipinos through cultural, educational, and social activities.  
 c. To foster asense of unity and pride within the organization.  
 d. To encourage the growth of the talents and intellect of Filipino Americans.
- 
 ## ARTICLE II
 
 ### SECTION 1. MEMBERSHIP
