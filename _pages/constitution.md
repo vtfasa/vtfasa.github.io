@@ -10,7 +10,6 @@ permalink: /constitution/
 ### SECTION 1. NAME
 
 The name of this organization shall be formally known as the Filipino American Student Association.
- 
 ### SECTION 2. PURPOSE
 
 This organization shall have several purposes:
