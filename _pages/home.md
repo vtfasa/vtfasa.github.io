@@ -69,7 +69,7 @@ e_board2:
   - image_path: /assets/images/home/eboard/davidNew.png
     alt: "David Brighton"
     title: "David Brighton"
-    excerpt: "***Treasurer*** - Please pay your membership dues and I'll tell you anything you wanna know!"
+    excerpt: "***Treasurer*** - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
   # historian 1
   - image_path: /assets/images/home/eboard/shawn.jpg
     alt: "Shawn De Lopez"
