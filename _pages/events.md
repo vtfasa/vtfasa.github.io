@@ -8,7 +8,7 @@ permalink: /events/
 ## This Week in FASA
 
 FASA Tea Do Fundraiser
-July 13, 2018
+July 13, 2019
 1PM - 7PM
 7031 Little River Turnpike,
 Annandale, VA 22003
