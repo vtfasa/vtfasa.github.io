@@ -29,14 +29,14 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
+
 ```
-No language indicated, so no syntax highlighting. 
+No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
@@ -66,5 +66,5 @@ Email Address: lacson@vt.edu
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/{{ site.twitter.username }}" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/jonfucius/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:lacson@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3> 
+<h3 style="margin-top: 0">Sophomore</h3>
 **Computer Engineering & CS Minor**  

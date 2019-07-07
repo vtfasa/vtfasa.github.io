@@ -10,6 +10,7 @@ permalink: /constitution/
 ### SECTION 1. NAME
 
 The name of this organization shall be formally known as the Filipino American Student Association.
+
 ### SECTION 2. PURPOSE
 
 This organization shall have several purposes:
@@ -17,6 +18,7 @@ a. To enhance interaction between Filipinos and other students, faculty, and sta
 b. To promote the Filipinos through cultural, educational, and social activities.  
 c. To foster asense of unity and pride within the organization.  
 d. To encourage the growth of the talents and intellect of Filipino Americans.
+
 ## ARTICLE II
 
 ### SECTION 1. MEMBERSHIP
@@ -29,15 +31,15 @@ All students, faculty, and staff of Virginia Tech who are regular members, curre
 
 c. Associate Members  
 Those not involved with the Virginia Tech system such as students, faculty, staff of different universities, citizens of the Blacksburg area, or area in the near vicinity current with dues and has voting rights. If members have been with the group for a one-year academic term, they may hold office.
- 
+
 ### SECTION 2. NON-DISCRIMINATORY STATEMENT
 
 Membership to this organization shall not be discriminatory towards any person on the basis of race, sex, age, handicap, national origin, sexual orientation, religion, or political affiliation.
- 
+
 ### SECTION 3. MEMBERSHIP DUES
 
 An amount for dues shall be proposed by the officers at the beginning of the academic year. Dates for the collection of dues and payments shall be set by the treasurer.
- 
+
 ## ARTICLE III (EXECUTIVE BOARD OFFICERS)
 
 ### SECTION 1. EXECUTIVE BOARD OFFICERS
@@ -45,20 +47,20 @@ An amount for dues shall be proposed by the officers at the beginning of the aca
 The officers of this organization shall include: president, vice president, treasurer, secretary, and historian(s).  
 
 The specific powers and duties of each officer are outlined in the By Laws of this constitution.
- 
+
 ### SECTION 2. TERMS OF OFFICE
 
 a. Executive Board Officers elect will undergo a training period for the remainder of the semester and hold office for one year from the date of their installation, which will be the last general meeting of the Spring semester.  
 b. Executive Board Officers may not hold the same office for more than two years, but may hold a different office.
- 
+
 ### SECTION 3. NOMINATIONS AND ELECTIONS
 
 The date of nominations and elections shall be held at the discretion of the Executive Board late spring semester. However, additional candidates for office may be nominated before the election process, which will take place at the next general meeting following nominations. During election candidates for office may only be nominated for two offices. Candidates may only run for 1 office. Candidates for the position of President and/or Vice President should have held a position as an officer for 1 year at anytime prior to candidacy.
- 
+
 ### SECTION 4. VOTING
 
 Voting shall be by secret ballot. Candidates must receive a simple majority of the votes cast. Rules for the voting process (i.e. Question and Answer, Pros and Cons, and etc.) are held at the digression of the President and must be approved by 3/4s of the Executive Board. In the case of a tie, the results shall be decided upon by the Executive Board. In the event where the majority abstains for a position, nominations for that position occurs the same day, and elections will be rescheduled to the discretion of the Executive Board.
- 
+
 ### SECTION 5. QUALIFICATIONS OF OFFICERS AND REPLACEMENT
 
 a. Only active members or associative members who have been a member of the Virginia Tech FASA organization for at least one full academic semester may become officers.
@@ -66,7 +68,7 @@ a. Only active members or associative members who have been a member of the Virg
 b. Should there be a vacancy in the Presidency during the year, the Vice President shall act as President until a new president is elected. Open nominations shall be held at the next general meeting. The Executive Council will then elect the new president by a simple majority vote at the next Council meeting.  
 
 c. Should there be a vacancy in any office during the year, open nominations shall be held at the next officer meeting and shall be decided by the officer board. The Executive Council will then elect the new officer by a simple majority vote at the next Council meeting.
- 
+
 ## ARTICLE IV (OFFICERS)
 
 ### SECTION 1. EXECUTIVE COUNCIL
@@ -74,7 +76,7 @@ c. Should there be a vacancy in any office during the year, open nominations sha
 a. This council shall consist of the President, Vice President, Treasurer, Secretary, Historian(s), and all standing committee chairpersons.  
 
 b. The duties and responsibilities of the council shall be outlined in the By Laws of this constitution.
- 
+
 ### SECTION 2. COMMITTEES
 
 a. There shall be the following standing committees:  
@@ -88,7 +90,7 @@ a. There shall be the following standing committees:
  * Sports Committee  
  * Website Committee
 
-b. Special committees may be formed for any special events and tasks that the organization will be undertaking. 
+b. Special committees may be formed for any special events and tasks that the organization will be undertaking.
 
 c. Committees shall be organized only through the consent of the President and Vice President.  
 
@@ -97,33 +99,33 @@ d. Committee chairpersons will serve on a voluntary basis and will be selected b
 e. Should there be a vacancy in any committee chairperson position, the Executive Council will decide on a replacement accordingly.  
 
 f. Each committee will be overseen by an Executive Council member at the discretion of the President and Vice President.  
- 
+
 ### SECTION 3. ADVISOR
 
 a. The organization’s advisor will be a member of the Virginia Tech faculty or staff and is voted in by the officers yearly.  
 b. The advisor may hold his or her position indefinitely.  
- 
+
 ## ARTICLE V (MEETINGS)
 
 ### SECTION 1. GENERAL MEETINGS
 
 A general meeting of all members shall be held every other week of each month. The date and time of the meetings shall be decided by the Executive Council.
- 
+
 ### SECTION 2. OFFICERS MEETINGS
 
 An officers meeting of all officers shall be held every other week of each month. The date and time of the meetings shall be decided by the Executive Council.
- 
+
 ### SECTION 3. EXECUTIVE COUNCIL MEETINGS
 
 Under the call of any officer, a council meeting may be organized at a convenient time and place.
- 
+
 ## ARTICLE VI (IMPEACHMENT)
 
 ### SECTION 1. GROUNDS FOR IMPEACHMENT
 
 a. Any elected officer may be removed from office for failure to fulfill their duties and obligations outlined in the By Laws of this constitution.  
 b. Charges against any officer must be brought up in writing to the Executive Council. If the Council finds the charges reasonable for dismissal, it shall proceed with impeachment procedures.
- 
+
 ### SECTION 2. IMPEACHMENT PROCEDURES
 
 a. A special meeting will be called in which officers shall be informed of the charges brought out against the officer in question.  
@@ -139,7 +141,7 @@ iii. Rebuttal: The accused officer has the floor to defend his/herself using wha
 iv. Voting: All present non-accused officers may vote on impeachment.  
 
 c. A 2/3 majority vote of all present officers must be made for the officer in question to be removed from his/her position.  
- 
+
 ## ARTICLE VII (RHONYLL SEBALLOS SCHOLARSHIP)
 
 ### SECTION 1. SCHOLARSHIP ELIGIBILITY REQUIREMENTS
@@ -166,7 +168,7 @@ c. Applicant must sign a pledge to use the scholarship funds for educational pur
 d. FASA will recognize the awardee with a plaque at Cultural Night.  
 
 e. The University will issue the money to the student’s university account at the beginning of the following Fall semester.
- 
+
 ## ARTICLE VIII
 
 ### SECTION 1. AMENDMENTS
@@ -180,18 +182,18 @@ b. Amendments may be brought up by officers at anytime. Amendments brought up in
 a. Amendments to the Constitution and By Laws of the organization will be made with a majority vote of the officer board.
 
 b. Any changes in the Constitution or By Laws must be approved by at least two-thirds of the Executive Council.
- 
+
 ## ARTICLE IX (ALLEGIANCE)
 
 This organization shall abide by all applicable policies contained in the Pylon.
- 
+
 ## ARTICLE X
 
 This version of the constitution is dated April 17, 2018 and ratified by the Filipino American Student Association on April 18, 2018. This version is superior to all prior or updated versions. Any new changes must be made according to Article VIII of this Constitution.
 
 **THE BY LAWS OF THE FILIPINO AMERICAN STUDENT ASSOCIATION ARTICLE I POWERS AND DUTIES OF OFFICERS**
 
- 
+
 **SECTION 1. PRESIDENT**
 
 The duties and powers of the President shall be:
@@ -208,7 +210,7 @@ i. To call special meetings at their discretion.
 j. To make sure all officer are on task.  
 k. To inform the office of the Student Organizations on any changes in the Constitution at their discretion.
 l. To update the Executive Council of their progress.  
- 
+
 **SECTION 2. VICE PRESIDENT**
 
 The powers and duties of the Vice President shall be:
@@ -230,7 +232,7 @@ Culture Night Committees include:
 d. To make sure all standing and special committees are on task.   
 e. To update the President on the progress of the Cultural Night committee.  
 f. To update the Executive Council of their progress.  
- 
+
 **SECTION 3. SECRETARY**
 
 The powers and duties of the Secretary shall be:
@@ -243,8 +245,8 @@ e. To maintain a file of all committee reports, projects, and evaluations.
 f. To update the Executive Council of their progress.
 g. To update the President on the progress of their assigned committees.  
 h. To maintain a master copy of the calendar for the year of events and the most recently updated Constitution.  
- 
- 
+
+
 **SECTION 4. TREASURER**
 
 The powers and duties of the Treasurer shall be:
@@ -261,7 +263,7 @@ i. To prepare, submit, and present an annual budget request to the appropriate f
 j. To hold a cash manager position with Lane Stadium during Virginia Tech Football Concessions.  
 k. To update the President on the progress of their assigned committees.  
 
- 
+
 **SECTION 5. HISTORIANS**
 
 The powers and duties of the Historians shall be:
@@ -275,7 +277,7 @@ c. To maintain and create a display about the organization during:
     - ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
 d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
 e. To update the President of the progress of their assigned committees.  
- 
+
 ## ARTICLE XI *(THE EXECUTIVE COUNCIL AND STANDING COMMITTEES)*
 
 **SECTION 1. EXECUTIVE COUNCIL**
@@ -285,7 +287,7 @@ a. It shall be the governing body of the organization.
 b. It shall determine and carry out the goals of the organization.  
 c. It shall plan and coordinate all activities of the organization.  
 d. It shall make any decisions concerning replacement of officers and committee chairpersons, progressing with impeachment procedures, and consider all matters of vital importance concerning the organization.  
- 
+
 **SECTION 2. D7 REPRESENTATIVE**
 
 The powers and duties of the D7 Representative shall be:  
@@ -294,7 +296,7 @@ b. To organize transportation, lodging, and registration fees for intercollegiat
 c. To work out financial details with the Treasurer.  
 d. To update the overseeing Executive Board member of the committee’s progress.    
 f. To inform the Promotions Chairperson if publicity is needed.  
- 
+
 **SECTION 3. CULTURE COMMITTEE**
 
 The powers and duties of the Culture shall be:  
@@ -305,7 +307,7 @@ d. To be held responsible for selecting the honorary candidate of the FASA schol
 e. To work out financial details with the Treasurer.  
 f. To update the overseeing Executive Board member of the committee’s progress.    
 g. To inform the Promotions Chairperson if publicity is needed.  
- 
+
 **SECTION 4. EVENTS COMMITTEE**
 
 The duties and powers of the coordinator shall be:  
@@ -322,7 +324,7 @@ The major events include (but are not limited to):
     - TAILGATE  
     - MR. FASA  
     - ROAD TRIP  
- 
+
 **SECTION 5. FUNDRAISING COMMITTEE**
 
 a. To organize and control fundraisers. They include (but are not limited to):  
@@ -337,7 +339,7 @@ e. To update the overseeing Executive Board member of the committee’s progress
 f. To do reports and evaluations of all projects and activities.  
 g. To inform the Promotions Chairperson if publicity is needed.  
 h. To hold an inventory manager position with Lane Stadium during Virginia Tech Football Concessions.  
- 
+
 **SECTION 6. HOSPITALITY COMMITTEE**
 
 The Hospitality Committee will be arranged as a team as each committee member heads and organizes specific tasks pertaining to their strengths.  
@@ -357,7 +359,7 @@ g. To unite old and new FASA members both.
 h. To coordinate and organize the Culture Night Brunch and hotel reservations.  
 i. To inform the Promotions Chairperson if publicity is needed.  
 j. To appoint family heads.
- 
+
 **SECTION 7. PROMOTIONS COMMITTEE**
 
 The powers and duties of the Promotions Committee shall be:  
@@ -369,7 +371,7 @@ e. To update the overseeing Executive Board member of the committee’s progress
 f. To do reports and evaluations of all projects and activities.  
 g. To create and organize the Culture Night program.  
 h. To handle all FASA merchandise and apparel, including the designing, ordering, and managing of the FASA shirt-design contest.  
- 
+
 **SECTION 8. SERVICE COMMITTEE**
 
 The powers and duties of the Service Committee shall be:  
@@ -386,7 +388,7 @@ e. To update the overseeing Executive Board member of the committee’s progress
 f. To work out financial details with the Treasurer.  
 g. To inform the Promotions Chairperson if publicity is needed.  
 h. To keep relations with philanthropy.  
- 
+
 **SECTION 9. SPORTS COMMITTEE**
 
 The powers and duties of the Sports Committee shall be:  
@@ -401,7 +403,7 @@ h. To organize the collection and distribution of tickets for Virginia Tech foot
 i. To organize and plan out FASA Fun Day.  
 j. To organize all pertinent logistics of Winter Classic in collaboration with the University of Virginia [(OYFA - Organization of Young Filipino Americans)](http://www.oyfaatuva.com).  
 k. To inform the Promotions Chairperson if publicity is needed.  
- 
+
 **SECTION 10. WEBSITE COMMITTEE**
 
 The powers and duties of the Website Committee shall be:  
