@@ -91,3 +91,8 @@ Commonwealth Ballroom B*
 TBD*
 ## 11/24-11/30
 *No Events :(*
+## 12/01-12/07
+### Christmas General Body meeting
+*December 4, 2019 |
+7PM - 9PM |
+TBD*
