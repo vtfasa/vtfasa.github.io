@@ -29,3 +29,13 @@ Owen's Quad*
 *September 11, 2019 |
 7PM - 9PM |
 GLC Multipurpose Room*
+
+## 09/15-09/21
+*No Events :(*
+
+## 09/22-09/28
+
+### 2nd General Body Meeting- Ate/Kuya
+*September 25, 2019 |
+7PM - 9PM |
+TBD*
