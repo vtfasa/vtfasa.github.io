@@ -40,10 +40,19 @@ GLC Multipurpose Room*
 7PM - 9PM |
 TBD*
 
-## 09/29-10/5
+## 09/29-10/05
 ### Fall Picnic
 *September 29, 2019 |
 12PM - 3PM |
 Turner's Shelter 1*
 ### Ate Kuya Mingle Week
-*September 30, 2019 - October 2, 2019*
+*September 30, 2019 - October 2, 2019 |
+Various Times |
+Various Locations*
+## 10/06-10/12
+### Ate/Kuya Clue Week
+*October 6, 2019 - October 12, 2019*
+### Filipino American History Month General Body meeting
+*October 9, 2019 |
+7PM - 9PM |
+TBD* 
