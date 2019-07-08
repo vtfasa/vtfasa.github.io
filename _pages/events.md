@@ -8,9 +8,9 @@ permalink: /events/
 ## Summer
 
 ### Event: FASA Tea Do Fundraiser
-*July 13, 2019 | *
-*1PM - 7PM | *
-*7031 Little River Turnpike, Annandale, VA 22003 | *
-*Remember to say you're with FASA at the register! |*
+*July 13, 2019 |
+1PM - 7PM |
+7031 Little River Turnpike, Annandale, VA 22003 |
+Remember to say you're with FASA at the register! |*
 
 ## 08/25-08/31
