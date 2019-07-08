@@ -55,4 +55,39 @@ Various Locations*
 ### Filipino American History Month General Body meeting
 *October 9, 2019 |
 7PM - 9PM |
-TBD* 
+TBD*
+## 10/13-10/19
+### Ate/Kuya Reveal
+*October 13, 2019 |
+4PM - 8PM |
+Old Dominion Ballroom*
+## 10/20-10/26
+### Your Webmaster's Birthday
+*October 21, 2019*
+### Halloween X CAS General Body Meeting
+*October 23, 2019 |
+7PM - 9PM |
+TBD*
+## 10/27-11/02
+### Pig Event
+*October 27, 2019 |
+4PM - 8PM |
+Old Dominion Ballroom*
+## 11/03-11/09
+### General Body Meeting
+*November 6, 2019 |
+7PM - 9PM |
+TBD*
+## 11/10-11/16
+*No Events :(*
+## 11/17-11/23
+### Thanksgiving Dinner
+*November 17, 2019 |
+4PM - 9PM |
+Commonwealth Ballroom B*
+### Culture Night Interest Meeting
+*November 20, 2019 |
+7PM - 9PM |
+TBD*
+## 11/24-11/30
+*No Events :(*
