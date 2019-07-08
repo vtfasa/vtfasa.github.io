@@ -39,3 +39,11 @@ GLC Multipurpose Room*
 *September 25, 2019 |
 7PM - 9PM |
 TBD*
+
+## 09/29-10/5
+### Fall Picnic
+*September 29, 2019 |
+12PM - 3PM |
+Turner's Shelter 1*
+### Ate Kuya Mingle Week
+*September 30, 2019 - October 2, 2019*
