@@ -41,8 +41,6 @@ feature_row:
     btn_label: "Officers"
     btn_class: "btn--inverse"
 
-
-
 # eboard header
 eboard_header:
   - title: 'Executive Board 2019-20'
