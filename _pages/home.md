@@ -41,6 +41,9 @@ feature_row:
     btn_label: "Officers"
     btn_class: "btn--inverse"
 
+This Week's Events:
+none :(
+  
 # eboard header
 eboard_header:
   - title: 'Executive Board 2019-20'
