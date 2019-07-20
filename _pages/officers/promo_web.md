@@ -85,7 +85,7 @@ p.s. lowkey have rbf, but I’m really nice I promise 🥺
 
 ![image-left]({{ "/assets/images/officers/small/zachCircle.png" | absolute_url }}){: .align-left}
 ## Zach Amados
-<a href="https://www.instagram.com/i_z_a_c_h_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://www.instagram.com/zach_amados/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0">Sophomore</h3>
 **Computer Science**
