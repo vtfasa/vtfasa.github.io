@@ -51,7 +51,7 @@ e_board1:
   - image_path: /assets/images/home/eboard/alex.jpg
     alt: "Alex Chavez"
     title: "Alex Chavez"
-    excerpt: "***President*** - \"I thought we were ahead\" -J.R. Smith"
+    excerpt: "***President*** - \"I have sensitive eyes so catch me wearing my sunglasses even when it’s cloudy"
   # vice president
   - image_path: /assets/images/home/eboard/lexi.jpeg
     alt: "Alexis Lapid"
