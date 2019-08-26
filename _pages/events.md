@@ -19,7 +19,7 @@ Remember to say you're with FASA at the register!*
 ## 09/01-09/07
 
 ### Welcome Back Picnic
-*September 2, 2019 |
+*September 1, 2019 |
 12PM - 3PM |
 Owen's Quad*
 
