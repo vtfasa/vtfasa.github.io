@@ -8,20 +8,17 @@ permalink: /events/
 ## 2019-2020 Events
 
 
-
-## 09/01-09/07
-
-### Welcome Back Picnic
-*September 1, 2019 |
-12PM - 3PM |
-Owen's Quad*
-
 ## 09/08-09/14
 
 ### First General Body Meeting
 *September 11, 2019 |
 7PM - 9PM |
 GLC Multipurpose Room*
+### Sushi Factory Fundraiser
+*September 11, 2019 |
+2:30PM - 10PM|
+University Mall|
+Mention FASA at the Register!*
 
 ## 09/15-09/21
 *No Events :(*
@@ -31,20 +28,40 @@ GLC Multipurpose Room*
 ### 2nd General Body Meeting- Ate/Kuya
 *September 25, 2019 |
 7PM - 9PM |
-TBD*
+Lavery 350*
+
+### Bonfire
+*September 28, 2019 |
+5PM - 8PM |
+New River Junction, 2591 Big Falls Rd*
 
 ## 09/29-10/05
 ### Fall Picnic
 *September 29, 2019 |
-12PM - 3PM |
+11AM - 2PM |
 Turner's Shelter 1*
-### Ate Kuya Mingle Week
-*September 30, 2019 - October 2, 2019 |
-Various Times |
-Various Locations*
+
+### Deets Night
+*September 30, 2019 |
+7PM - 8PM |
+Deet's Place*
+
+### Speed Dating
+*October 1, 2019 |
+7PM - 8PM |
+Torg 3100*
+
+### Game Night
+*October 2, 2019 |
+7PM - 8PM |
+Surge 104C*
+
 ## 10/06-10/12
 ### Ate/Kuya Clue Week
 *October 6, 2019 - October 12, 2019*
+### OPASS Fundraiser
+*October 9, 2019*
+
 ### Filipino American History Month General Body meeting
 *October 9, 2019 |
 7PM - 9PM |
