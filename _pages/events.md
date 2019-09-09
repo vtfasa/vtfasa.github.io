@@ -66,28 +66,74 @@ Surge 104C*
 *October 9, 2019 |
 7PM - 9PM |
 TBD*
+### Thrift Shop
+*October 10, 2019*
+
 ## 10/13-10/19
+### BDubs
+*October 13, 2019*
+
 ### Ate/Kuya Reveal
 *October 13, 2019 |
 4PM - 8PM |
 Old Dominion Ballroom*
+
+### FAM Friday
+*October 18, 2019*
+
 ## 10/20-10/26
+### Cascades Hike
+*October 20, 2019*
+
 ### Your Webmaster's Birthday
 *October 21, 2019*
+
+### Tagalog Lessons
+*October 21, 2019 |
+7PM - 8PM*
+
+### Tinikling Tuesday
+*October 22, 2019 |
+7PM - 8PM*
+
+### Chipotle Fundraiser
+*October 23, 2019*
+
 ### Halloween X CAS General Body Meeting
 *October 23, 2019 |
 7PM - 9PM |
-TBD*
+Surge 104B*
+
+### Ube Ice Cream Night
+*October 24, 2019 |
+7PM - 8PM*
+
+### Haunted Corn Maze
+*October 25, 2019 |
+6:30PM - 7:30PM*
+
 ## 10/27-11/02
 ### Pig Event
 *October 27, 2019 |
 4PM - 8PM |
 Old Dominion Ballroom*
+
+### Charity Ball
+*November 1, 2019 |
+Old Dominion Ballroom*
+
 ## 11/03-11/09
+### OPASS Fundraiser
+*November 6, 2019*
+
 ### General Body Meeting
 *November 6, 2019 |
 7PM - 9PM |
-TBD*
+Surge 104A*
+
+### D7 Olympics
+*November 9, 2019*
+
 ## 11/10-11/16
 *No Events :(*
 ## 11/17-11/23
