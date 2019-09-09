@@ -135,16 +135,21 @@ Surge 104A*
 *November 9, 2019*
 
 ## 11/10-11/16
-*No Events :(*
+
+### Jollibee Fundraiser
+*November 10, 2019*
+
 ## 11/17-11/23
 ### Thanksgiving Dinner
 *November 17, 2019 |
 4PM - 9PM |
 Commonwealth Ballroom B*
+
 ### Culture Night Interest Meeting
 *November 20, 2019 |
 7PM - 9PM |
-TBD*
+Surge 104B*
+
 ## 11/24-11/30
 *No Events :(*
 ## 12/01-12/07
@@ -152,3 +157,13 @@ TBD*
 *December 4, 2019 |
 7PM - 9PM |
 TBD*
+
+### Culture Show Script Auditions
+*December 5, 2019 |
+6PM - 7PM |
+McBryde 126*
+
+### Culture Show Script Auditions
+*December 6, 2019 |
+6PM - 7PM |
+McBryde 126*
