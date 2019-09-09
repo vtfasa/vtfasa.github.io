@@ -6,10 +6,7 @@ permalink: /members/
 ## Senior Spotlight
 
 
-## Weekly Spotlight
 
-Congratulations to **Shane Lee** for being this week's FASA spotlight member!
-![image-center]({{ "/assets/images/motm/shane-2019,png" | absolute_url }}){: .align-center}
 
 
 
