@@ -11,7 +11,7 @@ permalink: /members/
 
 
 ## Spotlight Members
-![image-center]({{ "/assets/images/motm/ayhamMOTMNEW.PNG" | absolute_url }}){: .align-center}
+![image-center]({{ "/assets/images/motm/feb-ayham.png" | absolute_url }}){: .align-center}
 
 
 
