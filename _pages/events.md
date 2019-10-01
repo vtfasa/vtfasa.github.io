@@ -48,12 +48,12 @@ Deet's Place*
 
 ### Speed Dating
 *October 1, 2019 |
-7PM - 8PM |
+6PM - 9PM |
 Torg 3100*
 
 ### Game Night
 *October 2, 2019 |
-7PM - 8PM |
+6PM - 8PM |
 Surge 104C*
 
 ## 10/06-10/12
