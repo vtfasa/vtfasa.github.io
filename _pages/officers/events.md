@@ -25,7 +25,7 @@ permalink: /officers/events/
 >hi all! here is 1/2 of your event chairs! I am a sophomore double majoring in International Relations and French. I was born and raised in Venezuela but moved to the states at age 13, so Spanish is basically my second language as I am still mastering French. I am super outgoing, dedicated and responsible in my studies, but I also like to go on adventures, the gym, or just talking until 3 am while making cookies or watching a movie. Additionally, I dance in my free time and I am currently part of bamboom dance crew, fun :,). I cannot wait for a new year full of EVENTS and memories, feel free to follow me on my social media and to get to know me anytime!
 
 ### **Where are you from?**
-> *Sterling, VA*
+> *Sterlling, VA*
 
 ### **What are some of your favorite hobbies?**
 
