@@ -5,69 +5,50 @@ permalink: /events/
 
 <iframe src="https://calendar.google.com/calendar/embed?src=vrkp4al2jrseetv1i3mf9rv0r0%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+
+## Announcements
+### Although the website does supply valuable information, this is not our primary means of communication. Please get a facebook to stay updated about all events
+
+### Nic Alfonso (Service)
+*AH HA HA! Whats up my FASA Tik Tok enthusiasts!
+
+1/3 of thank you for your Service chairs. We NEED you guys to rummage through your closets and get us some clothes for our upcoming FASA Thrift Shop October 24th! Steal from your Lolas Aunties and Uncles cause we want their clothes. They don’t need them.
+
+If you have any questions, please contact me, Isabel Jordan or Angie Nguyen!
+
+Thank you for your service!*
+
+### Angie Nguyen (Service)
+*hello FASA peeps!!
+
+1/3 of your service chairs here!! As of noon today, VT currently is in the lead with 466 participants for relay!!!! We’re still trying to reach our goal of 1500 participants by tomorrow night, so please be sure to register for relay under FASA’s team!!
+
+If you have any questions about registration, please contact me, Isabel Jordan or Nicholas Alfonso!
+
+VT has the biggest collegiate relay for life in the nation, so let’s come together in our fight against cancer👊*
+
+### Isabel Jordan (Service)
+*Hello! Hello!! 1/3 of your Service chairs here to tell you that it's that time of the year again! Yes, TRIFECTA!! From October 1st to October 3rd is our annual Relay For Life recruitment challenge against JMU and UVA. Register and help Relay For Life at Virginia Tech reach our goal of 1,500 participants in the next 3 days and win this competition.  Every new registration helps fund rides to treatment or an appointment, nights in an ACS Hope Lodge for cancer patients and their families, and personalized information kits for newly diagnosed patients. If you have any questions, feel free to ask me, Nicholas Alfonso, or Angie Nguyen. We have never lost and need to keep the streak going!
+How to sign up:
+1. Go to vtrelay.org
+2. Click on "Join this Relay"
+3. Create an account
+4. Join team "FASA"
+5. Recruit your friends and start fundraising!*
+
 ## 2019-2020 Events
-
-
-## 09/08-09/14
-
-### First General Body Meeting
-*September 11, 2019 |
-7PM - 9PM |
-GLC Multipurpose Room*
-### Sushi Factory Fundraiser
-*September 11, 2019 |
-2:30PM - 10PM|
-University Mall|
-Mention FASA at the Register!*
-
-## 09/15-09/21
-*No Events :(*
-
-## 09/22-09/28
-
-### 2nd General Body Meeting- Ate/Kuya
-*September 25, 2019 |
-7PM - 9PM |
-Lavery 350*
-
-### Bonfire
-*September 28, 2019 |
-5PM - 8PM |
-New River Junction, 2591 Big Falls Rd*
-
-## 09/29-10/05
-### Fall Picnic
-*September 29, 2019 |
-11AM - 2PM |
-Turner's Shelter 1*
-
-### Deets Night
-*September 30, 2019 |
-7PM - 8PM |
-Deet's Place*
-
-### Speed Dating
-*October 1, 2019 |
-6PM - 9PM |
-Torg 3100*
-
-### Game Night
-*October 2, 2019 |
-6PM - 8PM |
-Surge 104C*
-
 ## 10/06-10/12
 ### Ate/Kuya Clue Week
 *October 6, 2019 - October 12, 2019*
-### OPASS Fundraiser
-*October 9, 2019*
+### Sushi Factory Fundraiser
+*October 9, 2019 |
+University Mall |
+Cash Only*
 
 ### Filipino American History Month General Body meeting
 *October 9, 2019 |
 7PM - 9PM |
-TBD*
-### Thrift Shop
-*October 10, 2019*
+Torg 3100*
 
 ## 10/13-10/19
 ### BDubs
