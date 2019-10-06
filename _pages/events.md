@@ -9,6 +9,27 @@ permalink: /events/
 ## Announcements
 ### Although the website does supply valuable information, this is not our primary means of communication. Please get a facebook to stay updated about all events
 
+### Angie Nguyen (Service)
+
+*hello people of FASA!!
+1/3 of your service chairs here to announce some exciting news!!!!!
+
+I’m here to tell everyone the theme of Charity Ball this year😮 so drumroll pls ...... this year’s Charity Ball theme will be...... Enchanted Forest!! WHOOP WHOOP🤩🤩
+
+If you have never been to Charity Ball or have never heard of it before, it is a dance that FASA throws every year to raise money for our philanthropy. All proceeds that come from it will go to The PUSO Foundation which aims to bring hope to those living in underserved areas by providing basic necessities and facilitating extracurricular activities.
+
+Details about the event:
+When: November 1, 2019 from 7-10pm
+Where: Old Dominion Ballroom in Squires
+Theme: Enchanted Forest🌿
+Attire: Semi-formal
+
+So come on out and have an enchanting night!! There will be music, snacks, entertainment, and raffle prizes!! super duper exciting😫*
+
+### Grace Patterson (D7)
+
+*get hyped!!! going to the d7 olympics was one of my favorite events my freshman year, i hope you decide to come out!! it’s happening the weekend of nov 9/10 in VB at City View Park! if you live in the VB area and can house a few people please let me or Joshua Protacio know (but ask ur parents/who you live with first!!!) i will be sending out an official form soon so we can get actual numbers and information from you guys. ENJOY THE LAST DAY OF FALL BREAK LOVELIES!!!*
+
 ### Nic Alfonso (Service)
 *AH HA HA! Whats up my FASA Tik Tok enthusiasts!
 
