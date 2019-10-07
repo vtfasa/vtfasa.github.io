@@ -19,9 +19,9 @@ permalink: /officers/culture/
 <a href="https://www.instagram.com/diego.ignacio22/_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Economics**  
+**Environmental Informatics**  
 
-> I am a Sophomore majoring in Economics. I grew up in the Philippines until I moved to NOVA in the 8th grade. I hate the cold.
+> I am a Sophomore majoring in Environmental Informatics. I grew up in the Philippines until I moved to NOVA in the 8th grade. I hate the cold.
 
 ### **Where are you from?**
 > *Annandale, VA*
