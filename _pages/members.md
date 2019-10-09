@@ -11,6 +11,7 @@ permalink: /members/
 
 
 ## Spotlight Members
+![image-center]({{ "/assets/images/motm/shaneMOTM.PNG" | absolute_url }}){: .align-center}
 ![image-center]({{ "/assets/images/motm/ayhamMOTM.PNG" | absolute_url }}){: .align-center}
 
 
