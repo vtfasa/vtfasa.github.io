@@ -66,15 +66,7 @@ How to sign up:
 ## 10/06-10/12
 ### Ate/Kuya Clue Week
 *October 6, 2019 - October 12, 2019*
-### Sushi Factory Fundraiser
-*October 9, 2019 |
-University Mall |
-Cash Only*
 
-### Filipino American History Month General Body meeting
-*October 9, 2019 |
-7PM - 9PM |
-Torg 3100*
 
 ## 10/13-10/19
 ### BDubs
