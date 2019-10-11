@@ -9,6 +9,11 @@ permalink: /events/
 ## Announcements
 ### Although the website does supply valuable information, this is not our primary means of communication. Please get a facebook to stay updated about all events
 
+## Alexis-Elaine Lapid (Vice President)
+*Hello!! AASU is hosting their annual culture show on November 9th! If you are interested in representing FASA and dancing the Tinikling, sign up through the following form:  https://forms.gle/gPANJKd52fmH2gkF7
+
+*Please note that November 9th is the same day as our annual D7 Olympics as well as the Virginia Tech game against Wake Forest. Please only sign up if you do not plan on participating in D7 Olympics or going to the game!*
+
 ### Angie Nguyen (Service)
 
 *hello people of FASA!!
