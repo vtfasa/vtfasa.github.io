@@ -9,6 +9,18 @@ permalink: /events/
 ## Announcements
 ### Although the website does supply valuable information, this is not our primary means of communication. Please get a facebook to stay updated about all events
 
+## Grace Patterson (D7 Olympics)
+
+*It's that time of the year again FASA! 1/2 of your D7 Reps here to send out the D7 Olympics Interest and Housing forms!! It's less than one month away so start thinking of chant ideas and get HYPED!!
+
+I also made a doc with everything D7 related on it including all the links you will need for information on the Olympics as well as badge events at all the other D7 schools. Check it out!
+
+Interest: https://forms.gle/wpusSU48meu13Fqa6
+
+Housing: https://forms.gle/7Y6p3Uxa4UoUTMse8
+
+Everything D7: https://docs.google.com/…/165rKfxEzbrPQ56qqz5kQFpNxDh…/edit…*
+
 ## Alexis-Elaine Lapid (Vice President)
 *Hello!! AASU is hosting their annual culture show on November 9th! If you are interested in representing FASA and dancing the Tinikling, sign up through the following form:  https://forms.gle/gPANJKd52fmH2gkF7
 
