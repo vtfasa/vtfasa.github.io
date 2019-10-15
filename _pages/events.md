@@ -21,10 +21,7 @@ Housing: https://forms.gle/7Y6p3Uxa4UoUTMse8
 
 Everything D7: https://docs.google.com/…/165rKfxEzbrPQ56qqz5kQFpNxDh…/edit…*
 
-## Alexis-Elaine Lapid (Vice President)
-*Hello!! AASU is hosting their annual culture show on November 9th! If you are interested in representing FASA and dancing the Tinikling, sign up through the following form:  https://forms.gle/gPANJKd52fmH2gkF7
 
-*Please note that November 9th is the same day as our annual D7 Olympics as well as the Virginia Tech game against Wake Forest. Please only sign up if you do not plan on participating in D7 Olympics or going to the game!*
 
 ### Angie Nguyen (Service)
 
@@ -56,14 +53,7 @@ If you have any questions, please contact me, Isabel Jordan or Angie Nguyen!
 
 Thank you for your service!*
 
-### Angie Nguyen (Service)
-*hello FASA peeps!!
 
-1/3 of your service chairs here!! As of noon today, VT currently is in the lead with 466 participants for relay!!!! We’re still trying to reach our goal of 1500 participants by tomorrow night, so please be sure to register for relay under FASA’s team!!
-
-If you have any questions about registration, please contact me, Isabel Jordan or Nicholas Alfonso!
-
-VT has the biggest collegiate relay for life in the nation, so let’s come together in our fight against cancer👊*
 
 ### Isabel Jordan (Service)
 *Hello! Hello!! 1/3 of your Service chairs here to tell you that it's that time of the year again! Yes, TRIFECTA!! From October 1st to October 3rd is our annual Relay For Life recruitment challenge against JMU and UVA. Register and help Relay For Life at Virginia Tech reach our goal of 1,500 participants in the next 3 days and win this competition.  Every new registration helps fund rides to treatment or an appointment, nights in an ACS Hope Lodge for cancer patients and their families, and personalized information kits for newly diagnosed patients. If you have any questions, feel free to ask me, Nicholas Alfonso, or Angie Nguyen. We have never lost and need to keep the streak going!
@@ -81,13 +71,6 @@ How to sign up:
 
 
 ## 10/13-10/19
-### BDubs
-*October 13, 2019*
-
-### Ate/Kuya Reveal
-*October 13, 2019 |
-4PM - 8PM |
-Old Dominion Ballroom*
 
 ### FAM Friday
 *October 18, 2019*
