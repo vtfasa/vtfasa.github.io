@@ -9,26 +9,7 @@ permalink: /events/
 
 
 ## 2019-2020 Events
-## 10/06-10/12
 
-
-
-
-
-
-## 11/17-11/23
-### Thanksgiving Dinner
-*November 17, 2019 |
-4PM - 9PM |
-Commonwealth Ballroom B*
-
-### Culture Night Interest Meeting
-*November 20, 2019 |
-7PM - 9PM |
-Surge 104B*
-
-## 11/24-11/30
-*No Events :(*
 ## 12/01-12/07
 ### Christmas General Body meeting
 *December 4, 2019 |
