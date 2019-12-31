@@ -15,7 +15,7 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/alex3Circle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/alexcCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Alex Chavez
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -46,7 +46,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/lexi3Circle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/lexiCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Alexis Lapid
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -77,7 +77,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/christaCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/christaCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Christa Ventura
 <a href="https://www.instagram.com/itsaceventura/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/ChristaVentura" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -109,7 +109,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/davidNewCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/davidCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## David Brighton
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/davidbright0n/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -140,7 +140,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/shawn2Circle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/shawnCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Shawn De Lopez
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:shawnd7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -167,7 +167,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/bryantCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/bryantCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Bryant Nguyen
 <a href="mailto:nguybr@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
