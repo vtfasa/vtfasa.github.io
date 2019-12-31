@@ -16,7 +16,7 @@ permalink: /officers/promo_web/
 ## Promo
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/rachelCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/rachelCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Rachel Joaquin
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/rachelgj22" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -47,7 +47,7 @@ permalink: /officers/promo_web/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/kevinCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/kevinCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Kevin Chan
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://twitter.com/kevinchan16" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -83,7 +83,7 @@ p.s. lowkey have rbf, but I’m really nice I promise 🥺
 ## Web
 {: .text-center}
 
-![image-left]({{ "/assets/images/officers/small/zachCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/zachCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Zach Amados
 <a href="https://www.instagram.com/zach_amados/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
