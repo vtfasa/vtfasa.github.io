@@ -13,7 +13,7 @@ permalink: /officers/service/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/nicCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/nicCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Nic Alfonso
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/nic_alfonso/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -45,7 +45,7 @@ Must love FASA
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/angieCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/angieCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Angie Nguyen
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/haeink97/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -77,7 +77,7 @@ Must love FASA
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/isabelCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/isabelCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Isabel Jordan
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/_isabeljordan/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
