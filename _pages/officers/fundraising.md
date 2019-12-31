@@ -13,7 +13,7 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/kalistaCircle.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/kalistaCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Kalista Fon
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/kalistaafonn/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/fundraising/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/natalieCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/natalieCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Natalie Calizon
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/nawwtalie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
