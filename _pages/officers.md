@@ -15,7 +15,7 @@ header:
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/alexCircle2019.PNG
+    image_path: /assets/images/officers/alexcCircle2019.PNG
     alt: "Alex Chavez, President"
   - url: /officers/eboard/
     image_path: /assets/images/officers/lexi3.png
