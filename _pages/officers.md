@@ -26,13 +26,13 @@ e_board1:
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/
-    image_path: /assets/images/officers/davidNew.png
+    image_path: /assets/images/officers/davidCircle2019.PNG
     alt: "David Brighton, Treasurer"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/shawn2.png
+    image_path: /assets/images/officers/shawnCircle2019.PNG
     alt: "Shawn De Lopez, Historian"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/bryant.png
+    image_path: /assets/images/officers/bryantCircle2019.PNG
     alt: "Bryant Nguyen, Historian"
 # d7
 d7:
