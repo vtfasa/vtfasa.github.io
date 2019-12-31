@@ -37,18 +37,18 @@ e_board2:
 # d7
 d7:
   - url: /officers/d7/
-    image_path: /assets/images/officers/grace.png
+    image_path: /assets/images/officers/graceCircle2019.PNG
     alt: "Grace Patterson"
   - url: /officers/d7/
-    image_path: /assets/images/officers/josh.png
+    image_path: /assets/images/officers/joshCircle2019.PNG
     alt: "Joshua Protacio"
 # culture
 culture:
   - url: /officers/culture/
-    image_path: /assets/images/officers/diegoi.png
+    image_path: /assets/images/officers/diegoCircle2019.PNG
     alt: "Diego Ignacio"
   - url: /officers/culture/
-    image_path: /assets/images/officers/aubrey3.png
+    image_path: /assets/images/officers/aubreyCircle2019.PNG
     alt: "Aubrey Medina"
 # events
 events:
