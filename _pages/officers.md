@@ -18,10 +18,10 @@ e_board1:
     image_path: /assets/images/officers/alexcCircle2019.PNG
     alt: "Alex Chavez, President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/lexi3.png
+    image_path: /assets/images/officers/lexiCircle2019.PNG
     alt: "Alexis Lapid, Vice President"
   - url: /officers/eboard/
-    image_path: /assets/images/officers/christa.png
+    image_path: /assets/images/officers/christaCircle2019.PNG
     alt: "Christa Ventura, Secretary"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
