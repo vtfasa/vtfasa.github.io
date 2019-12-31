@@ -91,21 +91,21 @@ service:
 # sports
 sports:
   - url: /officers/sports/
-    image_path: /assets/images/officers/alexr.png
+    image_path: /assets/images/officers/alexrCircle2019.PNG
     alt: "Alex Rumingan"
   - url: /officers/sports/
-    image_path: /assets/images/officers/nia.png
+    image_path: /assets/images/officers/niaCircle2019.PNG
     alt: "Nia Corpuz"
 # promo/web
 promo_web:
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/kevin.png
+    image_path: /assets/images/officers/kevinCircle2019.PNG
     alt: "Kevin Chan"
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/rachel.png
+    image_path: /assets/images/officers/rachelCircle2019.PNG
     alt: "Rachel Joaquin"
   - url: /officers/promo_web/
-    image_path: /assets/images/officers/zach.png
+    image_path: /assets/images/officers/zachCircle2019.PNG
     alt: "Zach Amados"
 ---
 
