@@ -14,7 +14,7 @@ permalink: /officers/sports/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/niaCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/niaCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Nia Corpuz
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/nia_corpuz" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -45,7 +45,7 @@ permalink: /officers/sports/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/alexRCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/alexrCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Alex Rumingan
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/DJRumi33" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
