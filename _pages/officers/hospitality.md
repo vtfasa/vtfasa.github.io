@@ -13,7 +13,7 @@ permalink: /officers/hospitality/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/jc2Circle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/jcCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/JC_Smiles" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/hospitality/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/hannahCircle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/hannahCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Hannah De Guzman
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -76,7 +76,7 @@ permalink: /officers/hospitality/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/justin2Circle.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/justinCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Justin Nguyen
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/nguyening14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://www.linkedin.com/in/justin-nguyen-077150149/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
