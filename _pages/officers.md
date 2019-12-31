@@ -53,18 +53,18 @@ culture:
 # events
 events:
   - url: /officers/events/
-    image_path: /assets/images/officers/betsa.png
+    image_path: /assets/images/officers/betsaCircle2019.PNG
     alt: "Betsa Oropeza"
   - url: /officers/events/
-    image_path: /assets/images/officers/jasmin.png
+    image_path: /assets/images/officers/jasmineCircle2019.PNG
     alt: "Jasmin Atienza"
 # fundraising
 fundraising:
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/natalie.png
+    image_path: /assets/images/officers/natalieCircle2019.PNG
     alt: "Natalie Calizon"
   - url: /officers/fundraising/
-    image_path: /assets/images/officers/kalista.png
+    image_path: /assets/images/officers/kalistaCircle2019.PNG
     alt: "Victoria Grimm"
 # hospitality
 hospitality:
