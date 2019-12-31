@@ -69,24 +69,24 @@ fundraising:
 # hospitality
 hospitality:
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/justin2.png
+    image_path: /assets/images/officers/justinCircle2019.PNG
     alt: "Justin Nguyen"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/hannah.png
+    image_path: /assets/images/officers/hannahCircle2019.PNG
     alt: "Hannah De Guzman"
   - url: /officers/hospitality/
-    image_path: /assets/images/officers/jc2.png
+    image_path: /assets/images/officers/jcCircle2019.PNG
     alt: "Jeyein Cepillo"
 # service
 service:
   - url: /officers/service/
-    image_path: /assets/images/officers/nic.png
+    image_path: /assets/images/officers/nicCircle2019.PNG
     alt: "Nic Alfonso"
   - url: /officers/service/
-    image_path: /assets/images/officers/angie.png
+    image_path: /assets/images/officers/angieCircle2019.PNG
     alt: "Angie Nguyen"
   - url: /officers/service/
-    image_path: /assets/images/officers/isabel.png
+    image_path: /assets/images/officers/isabelCircle2019.PNG
     alt: "Isabel Jordan"
 # sports
 sports:
