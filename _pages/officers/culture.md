@@ -13,7 +13,7 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/diegoCircle2019.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/small/diegoCircle.png" | absolute_url }}){: .align-left}
 ## Diego Ignacio
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/diego.ignacio22/_" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
