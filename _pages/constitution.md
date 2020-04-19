@@ -347,6 +347,7 @@ g. To inform the Promotions Chairperson if publicity is needed.
 h. To hold an inventory manager position with Lane Stadium during Virginia Tech Football Concessions.  
 
 since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 **SECTION 6. HOSPITALITY COMMITTEE**
 
 The Hospitality Committee will be arranged as a team as each committee member heads and organizes specific tasks pertaining to their strengths.  
@@ -368,6 +369,7 @@ i. To inform the Promotions Chairperson if publicity is needed.
 j. To appoint family heads.
 
 since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 **SECTION 7. PROMOTIONS COMMITTEE**
 
 The powers and duties of the Promotions Committee shall be:  
@@ -378,8 +380,10 @@ d. To maintain FASA’s Facebook page in collaboration with the Website Committe
 e. To update the overseeing Executive Board member of the committee’s progress.  
 f. To do reports and evaluations of all projects and activities.  
 g. To create and organize the Culture Night program.  
-h. To handle all FASA merchandise and apparel, including the designing, ordering, and managing of the FASA shirt-design contest.  
+h. To handle all FASA merchandise and apparel, including the designing, ordering, and managing of the FASA shirt-design contest.
+
 since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 **SECTION 8. SERVICE COMMITTEE**
 
 The powers and duties of the Service Committee shall be:  
@@ -395,8 +399,10 @@ d. To relay any information to the general body of any progress.
 e. To update the overseeing Executive Board member of the committee’s progress.  
 f. To work out financial details with the Treasurer.  
 g. To inform the Promotions Chairperson if publicity is needed.  
-h. To keep relations with philanthropy.  
+h. To keep relations with philanthropy.
+
 since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 **SECTION 9. SPORTS COMMITTEE**
 
 The powers and duties of the Sports Committee shall be:  
@@ -411,7 +417,9 @@ h. To organize the collection and distribution of tickets for Virginia Tech foot
 i. To organize and plan out FASA Fun Day.  
 j. To organize all pertinent logistics of Winter Classic in collaboration with the University of Virginia [(OYFA - Organization of Young Filipino Americans)](http://www.oyfaatuva.com).  
 k. To inform the Promotions Chairperson if publicity is needed.  
+
 since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 **SECTION 10. WEBSITE COMMITTEE**
 
 The powers and duties of the Website Committee shall be:  
