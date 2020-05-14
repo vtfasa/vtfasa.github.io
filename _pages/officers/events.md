@@ -16,7 +16,7 @@ permalink: /officers/events/
 
 ![image-left]({{ "/assets/images/officers/small/betsaCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Betsa Oropeza
-<p style="margin-bottom: 0.45em; padding: 0" id="Betsa">
+<p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
@@ -47,7 +47,7 @@ permalink: /officers/events/
 
 ![image-left]({{ "/assets/images/officers/small/jasmineCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Jasmin Atienza
-<p style="margin-bottom: 0.45em; padding: 0" id="Jasmin"><a href="https://twitter.com/jasmin_net" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/jasmin_net" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/jasminatienza_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:jasmina@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
