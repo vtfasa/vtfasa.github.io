@@ -13,7 +13,7 @@ permalink: /officers/events/
 # (another empty line)
 # --- (this is a section break)
 ---
-
+<div id="Betsa"></div>
 ![image-left]({{ "/assets/images/officers/small/betsaCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Betsa Oropeza
 <p style="margin-bottom: 0.45em; padding: 0">
@@ -44,7 +44,7 @@ permalink: /officers/events/
 > *"stay hungry, stay humble"*
 
 ---
-
+<div id="Jasmin"></div>
 ![image-left]({{ "/assets/images/officers/small/jasmineCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Jasmin Atienza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/jasmin_net" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>

@@ -52,10 +52,10 @@ culture:
     alt: "Aubrey Medina"
 # events
 events:
-  - url: /officers/events/#betsa-oropeza
+  - url: /officers/events/#Betsa
     image_path: /assets/images/officers/betsaCircle2019.PNG
     alt: "Betsa Oropeza"
-  - url: /officers/events/#jasmin-atienza
+  - url: /officers/events/#Jasmin
     image_path: /assets/images/officers/jasmineCircle2019.PNG
     alt: "Jasmin Atienza"
 # fundraising
