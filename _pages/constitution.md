@@ -401,7 +401,7 @@ f. To work out financial details with the Treasurer.
 g. To inform the Promotions Chairperson if publicity is needed.  
 h. To keep relations with philanthropy.
 
-since this is the only period of time that people look at the constitution, YOUR WEBMASTER WISHES YOU ALL THE BEST OF LUCK IN YOUR INTERVIEW THIS APRIL/MAY!!!!!
+
 
 **SECTION 9. SPORTS COMMITTEE**
 
