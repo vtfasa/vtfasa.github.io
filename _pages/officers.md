@@ -55,7 +55,7 @@ events:
   - url: /officers/events/
     image_path: /assets/images/officers/betsaCircle2019.PNG
     alt: "Betsa Oropeza"
-  - url: /officers/events/
+  - url: /officers/events/#Betsa
     image_path: /assets/images/officers/jasmineCircle2019.PNG
     alt: "Jasmin Atienza"
 # fundraising
