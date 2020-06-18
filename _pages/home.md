@@ -89,7 +89,7 @@ e_board2:
     excerpt: "***Historian*** - current mood: hungry"
 ---
 
-{% include feature_row id="blm_header" type="center %}
+{% include feature_row id="blm_header" type="center" %}
 
 {% include feature_row id="blm_statement" %}
 
