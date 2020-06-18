@@ -15,13 +15,20 @@ layout: splash
 permalink: /
 
 # controls header
-header:
+header: 
   image: /assets/images/everybody2.jpg
   caption:
 
 # tagline under header
 intro:
   - excerpt: 'Founded in 1988, The Filipino American Student Association (FASA) is an organization formed to enhance interactions between Filipinos and other students, faculty, and staff of the Virginia Polytechnic Institute and State University through cultural, educational, and social activities.'
+
+blm_header: 
+  - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
+
+blm_row:
+  - image_path: /assets/images/misc/blmstatement1.png
+  - image_path: /assets/images/misc/blmstatement2.png
 
 # pages
 feature_row:
