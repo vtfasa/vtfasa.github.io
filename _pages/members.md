@@ -6,7 +6,7 @@ permalink: /members/
 ## Senior Spotlight
 
 
-
+<p>No Seniors to spotlight</p>
 
 
 
