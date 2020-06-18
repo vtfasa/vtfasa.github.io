@@ -29,6 +29,8 @@ blm_header:
 blm_statement:
   - image_path: /assets/images/misc/blmstatement1.png
   - image_path: /assets/images/misc/blmstatement2.png
+  - excerpt: "Click here to visit our Linktree page and learn about the BLM Movement and take action"
+    url: "https://linktr.ee/FASAatVT" 
 
 # pages
 feature_row:
