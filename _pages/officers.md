@@ -96,15 +96,17 @@ sports:
   - url: /officers/sports/
     image_path: /assets/images/officers/niaCircle2019.PNG
     alt: "Nia Corpuz"
-# promo/web
-promo_web:
-  - url: /officers/promo_web/
+# promo
+promo:
+  - url: /officers/promo/
     image_path: /assets/images/officers/kevinCircle2019.PNG
     alt: "Kevin Chan"
-  - url: /officers/promo_web/
+  - url: /officers/promo/
     image_path: /assets/images/officers/rachelCircle2019.PNG
     alt: "Rachel Joaquin"
-  - url: /officers/promo_web/
+# web
+web:
+  - url: /officers/web/
     image_path: /assets/images/officers/zachCircle2019.PNG
     alt: "Zach Amados"
 ---
@@ -152,6 +154,10 @@ promo_web:
 
 {% include gallery id="sports" type="center" %}
 
-## Promo/Web
+## Promo
 
-{% include gallery id="promo_web" type="center" %}
+{% include gallery id="promo" type="center" %}
+
+## Web
+
+{% include gallery id="web" type="center" %}
