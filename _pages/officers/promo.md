@@ -13,8 +13,8 @@ permalink: /officers/promo/
 # --- (this is a section break)
 ---
 
-## Promo
-{: .text-center}
+<!--## Promo
+{: .text-center}-->
 
 ![image-left]({{ "/assets/images/officers/small/rachelCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Rachel Joaquin

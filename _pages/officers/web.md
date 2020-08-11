@@ -12,8 +12,8 @@ permalink: /officers/web/
 # (another empty line)
 # --- (this is a section break)
 ---
-## Web
-{: .text-center}
+<!--## Web
+{: .text-center}-->
 
 ![image-left]({{ "/assets/images/officers/small/zachCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Zach Amados
