@@ -76,36 +76,36 @@ permalink: /officers/eboard/
 > *Speech-Language Pathologist because I would like to help people find their voice!*
 
 ---
+<div id="Nia"></div>
+![image-left]({{ "/assets/images/officers/small/niaCircle2019Small.PNG" | absolute_url }}){: .align-left}
+## Nia Corpuz
+<a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/nia_corpuz/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="mailto:njcorpuz@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
+<h3 style="margin-top: 0"><em>Secretary</em> | Senior</h3>
+**Psychology & Criminology**
 
-![image-left]({{ "/assets/images/officers/small/christaCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Christa Ventura
-<a href="https://www.instagram.com/itsaceventura/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/ChristaVentura" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="mailto:vchris14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
-<h3 style="margin-top: 0"><em>Secretary</em> | Junior</h3>
-**Clinical Neuroscience, Experimental Neuroscience, Psychology**
-
->Find me a better name than seCHRISTAry and I'll give you anything you want.
+>The smallest quarterback you'll ever see.
 
 ### **Where are you from?**
 
->*Chesapeake, VA*
+>*Fairfax, VA*
 
 ### **What are some of your favorite hobbies?**
 
-> *Binge watching Grey's Anatomy, drinking a lot of water, peeing as a result from drinking too much water, hours and hours and HOURS of ASMR*
+> *Working out, watching true crime shows and '80s & '90s movies, playing Animal Crossing, and online shopping!*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *Writing ListServs*
+> *"Kiss Me" by Sixpence None The Richer*
 
-### **What is your biggest pet peeve and why?**
+### **Dream Job (and why)?**
 
-> *Slow walkers because I got places to go and people to see*
+> *FBI behavioral analyst because I’d love to incorporate my psychology background into my passion for criminology and criminal investigation.*
 
-### **What is your life motto?**
+### **What is your favorite FASA memory?**
 
-> *Vienna waits for you. -Billy Joel*
+> *Leading FASA to victory at Winter Classic last year!*
 
 ---
 
@@ -139,37 +139,41 @@ permalink: /officers/eboard/
 > *Lifting, outdoor sports, hanging out with friends*
 
 ---
-
+<div id="Josh"></div>
 ![image-left]({{ "/assets/images/officers/small/shawnCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Shawn De Lopez
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shawn_delopez/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:shawnd7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Historian</em> | Senior</h3>
-**Creative Technology**
+## Josh Protacio
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/joshmprotacio/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="mailto:joshp28@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Historian</em> | Junior</h3>
+**Computer Science**
 
-> I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!
+> Yo, my name is Josh and I'm one of your historians this year. hmu for some photoshoots :)
+
+### **Where are you from?**
+> Richmond, VA
 
 ### **What are some of your favorite hobbies?**
 
-> *Videography, documentary photography, painting, and beatboxing.*
+> *taking pictures/videos, cooking, playing sports, video games*
 
-### **Favorite TV Show(s)? Movies?**
+### **What is your life motto?**
 
-> *I love watching nature documentaries (Planet Earth!) and I’m also a big Marvel guy.*
+> *do something today that your future self will thank you for*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What is your favorite FASA memory?**
 
-> *“HOME,” a Khmer-Korean fusion restaurant to pay hommage to my ethnicity and home-town!*
+> *yelling D-WHAT at every meeting*
 
-### **Do you believe in ghosts (and why)?**
+### **What is your favorite quarantine pastime?**
 
-> *No doubt I see dead people. There’s one behind you right now.*
+> *Valorant with the bois*
 
 ---
-
+<div id="Andrew"></div>
 ![image-left]({{ "/assets/images/officers/small/bryantCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Bryant Nguyen
-<a href="mailto:nguybr@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
+## Andrew Leavitt
+<a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
 **Computer Science**
 
@@ -180,17 +184,16 @@ permalink: /officers/eboard/
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating then regretting what I ate after vacuuming it all into my mouth, complaining about being in studio when I’m actually productive only 10% of the time, playing League of Legends then realizing how little value my life really has*
+> *Basketball, working out, playing bass, video games, photography*
 
-### **What is your taste in music? (Favorite genres, artists, song)**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *Around other people: EDM, alternative, acoustic, and lo-fi*
-> *By myself: KPOP and the occasional anime music— yikes i’m exposing myself don’t judge*
+> *Get You - Daniel Caesar or off da zoinkys by JID*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **Dream Job (and why)?**
 
-> *trick question— i never produce food only consume*
+> *Software Engineer at Open AI, I like artificial intelligence and they pay well.*
 
-### **What is your spirit animal?**
+### **What is your favorite food?**
 
-> *a gummy worm*
+> *Key Lime Pie*

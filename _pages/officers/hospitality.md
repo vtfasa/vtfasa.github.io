@@ -43,46 +43,46 @@ permalink: /officers/hospitality/
 > *Sexy, sexy, and sexy*
 
 ---
-
+<div id="Sam"></div>
 ![image-left]({{ "/assets/images/officers/small/hannahCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Hannah De Guzman
+## Sam San
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:hdeguzman3@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/sam.san/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:sksan@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Political Science**  
+**Biological Systems Engineering**  
 
 
-> hi I'm Hannah and I love my dog.
+> Hello! I'm Sam and I'll be one of your Hospitality Chairs this year! When I'm not studying you can find me watching movies or on twitter T_T
 
 ### **Where are you from?**
 > *Springfield, VA*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
+### **What is your favorite FASA memory?**
 
-> *sleep*
+> *Ate/Kuya Reveal because I got to meet my swanky family!!! s/o Kevin and Matias s/o exec*
 
-### **What fictional character do you relate with the most and why?**
+### **What is your favorite food?**
 
-> *Lena from The Sisterhood of the Travelling Pants because we're both pretty shy but love to try new things*
+> *I'm a big fan of soup*
 
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *1 horse sized duck because it's easier to run away from one thing than 100*
+> *SASAMI, Blood Orange, FKA Twigs, Kaytranada, Steve Lacy*
 
 ### **What are some of your favorite hobbies?**
 
-> *reading, sleeping, trying new foods, playing with my dog*
+> *cooking, doodling, reading, and doing stuff outdoors like hiking or longboarding!*
 
 ---
-
-![image-left]({{ "/assets/images/officers/small/justinCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Justin Nguyen
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/nguyening14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://www.linkedin.com/in/justin-nguyen-077150149/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-linkedin-square"></i></a>
-<a href="mailto:justnn14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Computer Engineering**  
+<div id="Diego"></div>
+![image-left]({{ "/assets/images/officers/small/diegoCircle2019Small.PNG" | absolute_url }}){: .align-left}
+## Diego Ignacio
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/diego.ignacio22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**Environmental Informatics** 
 
 > Yo what's up! Wow you actually want to read my bio that's lit! Too bad there's nothing going to be on it. If you wanna know me, come and talk to me. I don't bite, at least sometimes I don't.....
 

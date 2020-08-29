@@ -15,68 +15,65 @@ permalink: /officers/promo/
 
 <!--## Promo
 {: .text-center}-->
-
+<div id="Rachel"></div>
 ![image-left]({{ "/assets/images/officers/small/rachelCircle2019Small.PNG" | absolute_url }}){: .align-left}
 ## Rachel Joaquin
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/rachelgj22" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:rachelgj22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Junior</h3>
 **Graphic Design**
 
-> lover of fun fonts, chai tea, and cats
+> Pint-sized lover of beautiful fonts, chai tea, and cats
 
 ### **Where are you from?**
 > Portsmouth, VA
 
 ### **What are some of your favorite hobbies?**
 
-> *playing ukulele, shopping, sketching*
+> *Playing ukulele and piano, shopping, cooking, drawing, journaling*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **What is your favorite FASA memory?**
 
-> *Somewhere in Southern California. I love warm, sunny days at the beach.*
+> *Ate/Kuya reveal! Where I got paired with my amazing big Lexi, and my bonus big Shawn <3*
 
-### **Dream Job (and why)?**
+### **What is your favorite quarantine pastime?**
 
-> *I'd love to work for a graphic design firm or ad agency. I love the idea of having a stable job in a creative workplace.*
+> *Napping*
 
-### **What is your life motto?**
+### **My Chipotle Order:**
 
-> *I am a work in progress.*
+> *Burrito Bowl w/ steak, white rice, black beans, pico, guac, corn salsa, lettuce*
 
 ---
-
+<div id="Breanne"></div>
 ![image-left]({{ "/assets/images/officers/small/kevinCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Kevin Chan
+## Breanne De Vera
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://twitter.com/kevinchan16" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/kevinchan14/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:kevinc18@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Civil and Environmental Engineering**
+<a href="https://www.instagram.com/breannedv/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:breanne7@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+**Biology**
 
-> Hobbies: nap enthusiast, tennis, bullet journaling, eating, binge watching anime, kdramas, and basically anything on netflix
-p.s. lowkey have rbf, but I’m really nice I promise 🥺
+> Hobbies: I am so excited to express my creativity and love for FASA as one of your promo officers this year! If you ever need ANYTHING, don't be afraid to reach out <3
 
 ### **Where are you from?**
->*Springfield, VA*
+>*Centreville, VA*
 
-### **If your life was a movie what would it be called and who would play you?**
+### **What are some of your favorite hobbies?**
 
-> *Frozen and Alex Landi*
+> *Drawing/Painting, Crocheting, and Playing Animal Crossing*
 
-### **What is your life motto?**
+### **Favorite TV show(s)?**
 
-> *Always try your best regardless of the situation. Eat if you are hungry and sleep if you are tired.*
+> *Grey's Anatomy & 90 Day Fiance*
 
-### **What are three adjectives that describe you?**
+### **What is your favorite food?**
 
-> *sleepy, problematic, hangry*
+> *Sushi (especially things with white tuna)*
 
-### **What would your rapper name be?**
+### **What is your favorite FASA memory?**
 
-> *Kevin C like Cardi B*
+> *Performing freshmen dance the night of culture show after all of those weeks of practice*
 
 ---
 

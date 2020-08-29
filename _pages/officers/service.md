@@ -12,96 +12,96 @@ permalink: /officers/service/
 # (another empty line)
 # --- (this is a section break)
 ---
-
+<div id="Hannah"></div>
 ![image-left]({{ "/assets/images/officers/small/nicCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Nic Alfonso
+## Hannah De Guzman
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/nic_alfonso/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:nica14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-<h3 style="margin-top: 0">Business Information Technology</h3>
+<a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:hdeguzman3@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**Political Science**  
 
-> I love long walks on the drill field. In my free time I serve my country. AKA “Best Service Chair”. I like meeting new people :))
-Must love FASA
+> Hi FASA! I'm Hannah and I am 1/3rd of your Service chairs for this year. I'm one of the biggest fangirls you will ever meet and yes I know I look taller in pictures. 
 
 ### **Where are you from?**
-> Leesburg, VA
+> Springfield, VA
 
-### **What are some of your favorite hobbies?**
+### ** Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *Running, Lifting, Partying, Mario Kart, Singing, Baking, and Bullet Journaling*
+> *Anything by One Direction, Harry Styles, or Niall Horan*
 
 ### **What is your dream job and why?**
 
-> *To work as an Industrial and Systems Engineer for Disney World/Land because I love Disney LOL*
+> *My dream job would either be a Supreme Court Justice because I believe that position has the potential to make the most change that this country needs or I would love to work as a fashion stylist because I've always had a passion for fashion and trends.*
 
-### **If you could own a restaurant, what would it be named and what kind of food would it sell?**
+### **What is your biggest pet peeve and why?**
 
-> *“Get Thicky Quicky”, it would sell all deep fried foods and deserts. Oh, and bubble tea (can’t forget the bubble tea)*
-
-### **What is something that people flame you for?**
-
-> *Being the most extra human in the world LOLOL*
-
----
-
-![image-left]({{ "/assets/images/officers/small/angieCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Angie Nguyen
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/haeink97/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:angen0002@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Computer Science**
-
-> Howdy peeps!! My name’s angie and i love food :)
-
-### **Where are you from?**
-> *Fairfax, VA*
-
-### **What are some of your favorite hobbies?**
-
-> *Im super into soccer and the  Tottenham Hotspurs is my team. Also if you know who Son is I will love you forever :)*
-
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)**
-
-> *a horse sized duck because why not.*
+> *I cannot stand slow walkers or big groups who take up the WHOLE walkway. It drives me crazy! It doesn't hurt to be courteous and not take up the whole path and slow walkers are like slow drivers who drive under the speed limit to me.*
 
 ### **What is your life motto?**
 
-> *life’s hard*
-
-### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
-
-> *drake and josh because I aspired to be megan when i was younger haha.*
-
+> *Treat People with Kindness*
 
 ---
-
-![image-left]({{ "/assets/images/officers/small/isabelCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Isabel Jordan
+<div id="Katelyn"></div>
+![image-left]({{ "/assets/images/officers/small/angieCircle2019Small.PNG" | absolute_url }}){: .align-left}
+## Katelyn Catabay
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/_isabeljordan/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:isabelsjordan@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/k.r.c/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:katelynrc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Animal & Poultry Sciences**
+**Biological Sciences**
 
-> a binge watching, lacrosse-playing, disney-loving foodie who loves serving the community :P
+> I'll be at your service 6 feet apart! 
 
 ### **Where are you from?**
 > *Virginia Beach, VA*
 
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+### **What are some of your favorite hobbies?**
 
-> *hmmm Ariana Grande? no, doesn't ring a bell. definitely not listening to her while I answer this question..*
+> *Playing Minecraft, spending money, virtual interior designing, watching TikToks and documentaries*
 
-### **Favorite TV show(s)?**
+### **If you could live anywhere in the world where would it be and why?**
 
-> *Teen Wolf (Dylan O'Brien <3), The 100, Gossip Girl, The Vampire Diaries, and The Fosters*
+> *Canada because health care is free and I value my health or Japan because of their food/culture <3*
 
-### **What fictional character do you relate with the most and why?**
+### **What would your rapper name be?**
 
-> *Garfield because he's lazy, hates Mondays and exercise, sleeps a bunch, and loves eating lasagna :P*
+> *Lil Calaman$i*
 
 ### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
 
-> *Wizards of Waverly Place because that cast was everything. *
+> *H2O because it's one of my all time favorite shows and I love mermaids*
+
+
+---
+<div id="Sean"></div>
+![image-left]({{ "/assets/images/officers/small/isabelCircle2019Small.PNG" | absolute_url }}){: .align-left}
+## Sean Borromeo
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/seanyee.west/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/seanyee_west/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="mailto:seanborromeo@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**Marketing**
+
+> Hey everyone, I’m Sean (AKA Seanye, AKA Drip)!! I like basketball, working out, and I’m a barber! I’m pretty easy to get along with so feel free to reach out to me or say wassup to me if you see me in person 🤩
+
+### **Where are you from?**
+> *Chantilly, VA*
+
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+
+> *Rex Orange County & J Cole*
+
+### **What is your biggest pet peeve and why?**
+
+> *Feet, they’re gross and smell bad*
+
+### **What are some of your favorite hobbies?**
+
+> *Playing basketball, working out, playing guitar/ukulele, and cutting hair*
+
+### **Favorite saying?**
+
+> *uh haha*
