@@ -101,7 +101,7 @@ permalink: /officers/eboard/
 ## David Dong
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
-<div style="margin-top: 2em">
+<div style="margin-top: 2em"></div>
 ****
 
 > All about that $
@@ -141,7 +141,8 @@ permalink: /officers/eboard/
 <div id="Andrew"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/Andrew.png" | absolute_url }}){: .align-left}
 ## Andrew Leavitt
-<a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/leavitt.jpeg/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
 **Computer Science**
 
