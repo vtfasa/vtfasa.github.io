@@ -14,7 +14,7 @@ permalink: /officers/web/
 ---
 <!--## Web
 {: .text-center}-->
-
+<div id="Brian"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/Brian.png" | absolute_url }}){: .align-left}
 ## Brian Leavitt
 <a href="mailto:bleavitt24@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
