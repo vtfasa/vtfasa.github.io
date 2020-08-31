@@ -16,7 +16,7 @@ permalink: /officers/promo/
 <!--## Promo
 {: .text-center}-->
 <div id="Rachel"></div>
-![image-left]({{ "/assets/images/officers/small/rachelCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Rachel.PNG" | absolute_url }}){: .align-left}
 ## Rachel Joaquin
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/rachelgj22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:rachelgj22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -46,7 +46,7 @@ permalink: /officers/promo/
 
 ---
 <div id="Breanne"></div>
-![image-left]({{ "/assets/images/officers/small/kevinCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Breanne.PNG" | absolute_url }}){: .align-left}
 ## Breanne De Vera
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/breannedv/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>

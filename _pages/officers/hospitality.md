@@ -12,39 +12,39 @@ permalink: /officers/hospitality/
 # (another empty line)
 # --- (this is a section break)
 ---
+<div id="Betsa"></div>
+![image-left]({{ "/assets/images/officers/20-21/small/Betsa.PNG" | absolute_url }}){: .align-left}
+## Betsa Oropeza
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**International Relations and French**  
 
-![image-left]({{ "/assets/images/officers/small/jcCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## JC Cepillo
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/JC_Smiles" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Industrial and Systems Engineering**   
-
-> Is it hot in here or is it just you?
+>hi all! here is 1/3 o your hospitality chairs! I am a junior double majoring in International Relations and French. I was born and raised in Venezuela but moved to the states at age 13, so Spanish is basically my second language as I am still mastering French. I am super outgoing, dedicated and responsible in my studies, but I also like to go on adventures, the gym, or just talking until 3 am while making cookies or watching a movie. Additionally, I dance in my free time and I am currently part of bamboom dance crew, fun :,). I cannot wait for a new year full of EVENTS and memories, feel free to follow me on my social media and to get to know me anytime!
 
 ### **Where are you from?**
-> Bristow, VA
+> *Sterlling, VA*
 
-### **Complete the sentence: I got 99 problems but _______ ain't one?**
+### **What are some of your favorite hobbies?**
 
-> *Being sexy*
+> *i love dancing, a bit of video editing, going on adventures!!*
+
+### **Favorite artist?**
+
+> *favorite artists hands down are billie eilish, ariana grande, khalid, and one direction :(*
+
+### **Favorite TV show(s)?**
+
+> *the great british baking show, FRIENDS, the carrie diaries*
 
 ### **What is your life motto?**
 
-> *Love yourself first*
-
-### **What is your biggest pet peeve and why?**
-
-> *When people are mean to others, life is too short to not be kind ya feel*
-
-### **What are three adjectives that describe you?**
-
-> *Sexy, sexy, and sexy*
+> *"stay hungry, stay humble"*
 
 ---
 <div id="Sam"></div>
-![image-left]({{ "/assets/images/officers/small/hannahCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Sam.PNG" | absolute_url }}){: .align-left}
 ## Sam San
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/sam.san/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -76,31 +76,31 @@ permalink: /officers/hospitality/
 
 ---
 <div id="Diego"></div>
-![image-left]({{ "/assets/images/officers/small/diegoCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Diego.PNG" | absolute_url }}){: .align-left}
 ## Diego Ignacio
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/diego.ignacio22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Junior</h3>
 **Environmental Informatics** 
 
-> Yo what's up! Wow you actually want to read my bio that's lit! Too bad there's nothing going to be on it. If you wanna know me, come and talk to me. I don't bite, at least sometimes I don't.....
+> I play a lot of video games (PC) and eat Cookout.
 
 ### **Where are you from?**
-> Glen Allen, VA (Near Richmond)
+> *Annandale, VA*
 
-### **Dream Job (and why)?**
+### **What is your favorite food?**
 
-> *Amazon Web Services, cause I like to code.*
+> *Korean Fried Chicken*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **Favorite TV show(s)?**
 
-> *Seattle, cause it's nice and windy*
+> *New Girl , The Office*
 
-### **What is your biggest pet peeve and why?**
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
 
-> *People wasting my time, time is money*
+> *NIKI, Khalid, T Swift*
 
-### **What is your life motto?**
+### **What are some of your favorite hobbies?**
 
-> *Do it*
+> *Video games, Eating out, Food Reaction Videos*

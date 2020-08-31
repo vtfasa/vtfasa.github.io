@@ -15,30 +15,29 @@ permalink: /officers/web/
 <!--## Web
 {: .text-center}-->
 
-![image-left]({{ "/assets/images/officers/small/zachCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Zach Amados
-<a href="https://www.instagram.com/zach_amados/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:azach99@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
-<h3 style="margin-top: 0">Sophomore</h3>
+![image-left]({{ "/assets/images/officers/20-21/small/Brian.PNG" | absolute_url }}){: .align-left}
+## Brian Leavitt
+<a href="mailto:bleavitt24@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
+<h3 style="margin-top: 0">Junior</h3>
 **Computer Science**
 
->  What's up guys. I am so excited to be an officer for FASA this year. I am so excited to meet all of the new members that the 2019-2020 school year has to offer. Do not be afraid to hmu regarding any mystery that life may give you. Follow my instagram by clicking the icon above. I need followers :)
+>  How do computers work?
 
 ### **Where are you from?**
-> *Born in Fairfax, VA, raised in Woodbridge, VA. #nova>vb*
+> *Annandale, VA*
 
-### **Favorite TV Show(s)?**
+### **What are some of your favorite hobbies?**
 
-> *I am a huge fan of Big Brother, How to Get Away With Murder, and Black Mirror. I could go on for hours about how I love these TV Shows and more.*
+> *Saying "You know what time it is" and proceeding to eat an ice cream sandwich at 10pm every single night*
 
-### **Dream Job (and why)?**
+### **What is your favorite food?**
 
-> *I have always looked forward to being a Software Engineer at Buzzfeed Studios because Buzzfeed seems to offer a chill and welcoming environment towards all of its employees.*
+> *Swedish Fish*
 
-### **What is your life motto?**
+### **What would your rapper name be?**
 
-> *Considering the fact that I am in college working to achieve an education, my life motto is: Work every single day to achieve that $100,000 salary.*
+> *Two Race Blueface*
 
 ### **What is your biggest pet peeve and why?**
 
-> *My biggest pet peeve is when people throw away food. Why throw away a gift that was given to you that others would give to achieve?*
+> *People who use 'Customer is king' as an excuse to be rude to workers*

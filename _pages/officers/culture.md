@@ -13,7 +13,7 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 <div id="Nico"></div>
-![image-left]({{ "/assets/images/officers/small/diegoCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Nico.PNG" | absolute_url }}){: .align-left}
 ## Nico Palanca
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/culture/
 
 ---
 <div id="JohnRey"></div>
-![image-left]({{ "/assets/images/officers/small/aubreyCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/JR.PNG" | absolute_url }}){: .align-left}
 ## John Rey Tangaran
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/johnreyt413/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:johnreyt19@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>

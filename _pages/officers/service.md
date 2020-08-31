@@ -13,7 +13,7 @@ permalink: /officers/service/
 # --- (this is a section break)
 ---
 <div id="Hannah"></div>
-![image-left]({{ "/assets/images/officers/small/nicCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Hannah.PNG" | absolute_url }}){: .align-left}
 ## Hannah De Guzman
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/service/
 
 ---
 <div id="Katelyn"></div>
-![image-left]({{ "/assets/images/officers/small/angieCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Katelyn.PNG" | absolute_url }}){: .align-left}
 ## Katelyn Catabay
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/k.r.c/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -76,7 +76,7 @@ permalink: /officers/service/
 
 ---
 <div id="Sean"></div>
-![image-left]({{ "/assets/images/officers/small/isabelCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Sean.PNG" | absolute_url }}){: .align-left}
 ## Sean Borromeo
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/seanyee.west/" style="marg OPIKIK=0-==-IOP[[PKZCVBTGYUI  in: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>

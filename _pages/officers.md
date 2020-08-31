@@ -15,99 +15,99 @@ header:
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
   - url: /officers/eboard/#Jeyein
-    image_path: /assets/images/officers/alexcCircle2019.PNG
+    image_path: /assets/images/officers/20-21/JC.PNG
     alt: "Jeyein Cepillo, President"
   - url: /officers/eboard/#Joy
-    image_path: /assets/images/officers/lexiCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Joy.PNG
     alt: "Joy Villanueva, Vice President"
   - url: /officers/eboard/#Nia
-    image_path: /assets/images/officers/christaCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Nia.PNG
     alt: "Nia Corpuz, Secretary"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/#David
-    image_path: /assets/images/officers/davidCircle2019.PNG
+    image_path: /assets/images/officers/20-21/David.PNG
     alt: "David Dong, Treasurer"
   - url: /officers/eboard/#Josh
-    image_path: /assets/images/officers/shawnCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Josh.PNG
     alt: "Josh Protacio, Historian"
   - url: /officers/eboard/#Andrew
-    image_path: /assets/images/officers/bryantCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Andrew.PNG
     alt: "Andrew Leavitt, Historian"
 # d7
 d7:
   - url: /officers/d7/#Marciana
-    image_path: /assets/images/officers/graceCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Marciana.PNG
     alt: "Marciana Castillo"
   - url: /officers/d7/#Cayla
-    image_path: /assets/images/officers/joshCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Cayla.PNG
     alt: "Cayla Corbray"
 # culture
 culture:
   - url: /officers/culture/#Nico
-    image_path: /assets/images/officers/diegoCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Nico.PNG
     alt: "Nico Palanca"
   - url: /officers/culture/#JohnRey
-    image_path: /assets/images/officers/aubreyCircle2019.PNG
+    image_path: /assets/images/officers/20-21/JR.PNG
     alt: "John Rey Tangaran"
 # events
 events:
   - url: /officers/events/#Alejandro
-    image_path: /assets/images/officers/betsaCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Alejandro.PNG
     alt: "Alejandro Romulo"
   - url: /officers/events/#Mary
-    image_path: /assets/images/officers/jasmineCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Mary.PNG
     alt: "Mary Antonette Luyun"
 # fundraising
 fundraising:
   - url: /officers/fundraising/#Jasmin
-    image_path: /assets/images/officers/natalieCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Jasmin.PNG
     alt: "Jasmin Atienza"
   - url: /officers/fundraising/#Kelly
-    image_path: /assets/images/officers/kalistaCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Kelly.PNG
     alt: "Kelly Bui"
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Diego
-    image_path: /assets/images/officers/justinCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Diego.PNG
     alt: "Diego Ignacio"
   - url: /officers/hospitality/#Betsa
-    image_path: /assets/images/officers/hannahCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Betsa.PNG
     alt: "Betsabeth Oropeza"
   - url: /officers/hospitality/#Sam
-    image_path: /assets/images/officers/jcCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Sam.PNG
     alt: "Samantha San"
 # service
 service:
   - url: /officers/service/#Hannah
-    image_path: /assets/images/officers/nicCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Hannah.PNG
     alt: "Hannah De Guzman"
   - url: /officers/service/#Sean
-    image_path: /assets/images/officers/angieCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Sean.PNG
     alt: "Sean Borromeo"
   - url: /officers/service/#Katelyn
-    image_path: /assets/images/officers/isabelCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Katelyn.PNG
     alt: "Katelyn Catabay"
 # sports
 sports:
   - url: /officers/sports/#Shane
-    image_path: /assets/images/officers/alexrCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Shane.PNG
     alt: "Shane Lee"
   - url: /officers/sports/#Kyle
-    image_path: /assets/images/officers/niaCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Kyle.PNG
     alt: "Kyle Brown"
 # promo
 promo:
   - url: /officers/promo/#Rachel
-    image_path: /assets/images/officers/rachelCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Rachel.PNG
     alt: "Rachel Joaquin"
   - url: /officers/promo/#Breanne
-    image_path: /assets/images/officers/kevinCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Breanne.PNG
     alt: "Breanne De Vera"
 # web
 web:
   - url: /officers/web/#Brian
-    image_path: /assets/images/officers/zachCircle2019.PNG
+    image_path: /assets/images/officers/20-21/Brian.PNG
     alt: "Brian Leavitt"
 ---
 

@@ -15,69 +15,57 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/small/alexcCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Alex Chavez
+![image-left]({{ "/assets/images/officers/20-21/small/JC.PNG" | absolute_url }}){: .align-left}
+## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/lexionboard/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:alexc14@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
-**Human Nutrition, Foods, and Exercise**  
+**Industrial and Systems Engineering**  
 
-> whaddup ya'll!! it's alex, i LOVEEEE sports, shoes, being Filipino, and being surrounded by lotsa people!
+> Hey bbs, my name is JC! I'm super into music, food, learning others stories, and I'm known for my thicc, juicy, voluptuous, show stopping.... Personality 😉
 
 ### **Where are you from?**
-> *Alexandria, VA*
+> *Manassas, VA*
 
 ### **What are some of your favorite hobbies?**
 
-> *sports, FASA, looking at the next adidas or nike shoe drop, working out, traveling, hangin out with friends, eating a lot, watching NBA *
+> *I love running, lifting, cooking hella food, and jamming out to some vibes hehe*
 
-### **Dream Job (and why)?**
+### **What fictional character do you relate with the most and why?**
 
-> *Physical Therapist! I tore my ACL senior year of high school and I had to go to PT for awhile and it was there that I realized that I wanted to make the same impact on someone else's life and help them get better, just as my physical therapists did for me!**
+> *I'm a lot like Bolin from The Legend of Korra LOL**
 
 ### **What is your biggest pet peeve and why?**
 
-> *slow drivers in the left lane & uncleanliness. Slow drivers in the left lane bc if you're slow, you should be on the right. There's nothing wrong with being slow, but sometimes if I'm on a rush to get somewhere, pls help me get there and have the left lane open lol. Uncleanliness bc i'm a huge germaphobe :( *
+> *My biggest pet peeve is when people are quick to judge others without getting to know them, life is too short to not support one another!*
 
-### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
+### **Favorite TV show(s)?**
 
-> *iCarly, because that show was the bomb and it was the only thing keeping Nickelodeon alive, tbh lol. It was so funny and I would love for it to be back again.*
+> *Grey's Anatomy and Avatar the Last Airbender :D*
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/lexiCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Alexis Lapid
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/lexiilaine/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:alapid@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+![image-left]({{ "/assets/images/officers/20-21/small/Joy.PNG" | absolute_url }}){: .align-left}
+## Joy Villanueva
+<p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
-**Double Major in Cognitive and Behavioral Neuroscience & Psychology**
+**International Relations and History**
 
-> I have PERFECT VISION for Culture Show 2020!
+> Hey, my name is Joy Danielle Villanueva. I'm a senior, double majoring in International Relations and History. I love horror movies, fashion, and Frank Ocean.
 
 ### **Where are you from?**
 > *Virginia Beach, VA*
 
-### **What are some of your favorite hobbies?**
+### **What is your favorite FASA memory?**
+> *My most memorable FASA moment was my freshman D7 Olympics. It was at VCU and it was where I bonded with who I would later spend the rest of my college experience with. My entire day and night was filled with fun and spontaneity. Definitely a night I'll never forget.*
 
-> *Singing like I'm having my own concert, laughing at my own jokes, pulling flags during flag football, & pushing people around in basketball!*
-
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
-
-> *"No Scrubs" by TLC*
-
-### **Favorite TV show(s)?**
-
-> *Jane the Virgin*
-
-### **Dream Job (and why)?**
-
-> *Speech-Language Pathologist because I would like to help people find their voice!*
+### **What is your favorite aspect of the Filipino Culture?**
+> *My favorite aspect about Filipino culture is how Filipinos can look directly at diversity with a smile and are willing to endure hardship for the ones they love and care about the most. Despite the struggles of life, Filipinos are resilient and are always hopeful for a better tomorrow for their loved ones.*
 
 ---
 <div id="Nia"></div>
-![image-left]({{ "/assets/images/officers/small/niaCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Nia.PNG" | absolute_url }}){: .align-left}
 ## Nia Corpuz
 <a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/nia_corpuz/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -109,38 +97,17 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/small/davidCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/David.PNG" | absolute_url }}){: .align-left}
 ## David Brighton
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/elliotfi" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="https://www.instagram.com/davidbright0n/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:davidb@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Treasurer</em> | Junior</h3>
-**Statistics**
+<p style="margin-bottom: 0.45em; padding: 0"></p>
+<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
+****
 
-> Hey everyone my name is David Brighton and I  will be your Treasurer for this school year. I am a junior here at VT majoring in Statistics with a minor in Public Health. We have a lot planned this year for FASA so hopefully you come out! I'm super excited for this school year and I hope you are too!
-
-### **Where are you from?**
-> *Alexandria, VA
-
-### **What fictional character do you relate with the most and why?**
-
-> *Chuck from the Goonies. I eat, I’m teased and then dragged on stupid adventures by my loving friends*
-
-### **What is your life motto?**
-
-> *All that you can take with you is that which you’ve given away*
-
-### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
-
-> *Avatar the last air bender. Best show in the world. End of story*
-
-### **What are some of your favorite hobbies?**
-
-> *Lifting, outdoor sports, hanging out with friends*
+> All about that $
 
 ---
 <div id="Josh"></div>
-![image-left]({{ "/assets/images/officers/small/shawnCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Josh.PNG" | absolute_url }}){: .align-left}
 ## Josh Protacio
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/joshmprotacio/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -171,7 +138,7 @@ permalink: /officers/eboard/
 
 ---
 <div id="Andrew"></div>
-![image-left]({{ "/assets/images/officers/small/bryantCircle2019Small.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Andrew.PNG" | absolute_url }}){: .align-left}
 ## Andrew Leavitt
 <a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>

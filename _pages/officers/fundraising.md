@@ -12,63 +12,63 @@ permalink: /officers/fundraising/
 # (another empty line)
 # --- (this is a section break)
 ---
+<div id="Jasmin"></div>
+![image-left]({{ "/assets/images/officers/20-21/small/Jasmin.PNG" | absolute_url }}){: .align-left}
+## Jasmin Atienza
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/jasmin_net" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/jasminatienza_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:jasmina@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+**Marketing and Management**  
 
-![image-left]({{ "/assets/images/officers/small/kalistaCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Kalista Fon
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/kalistaafonn/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:kalistafon@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
-**Business Information Technology**
-
-> Hey! I'm Kalista and I love boba :) catch me putting the FUN in fundraising this year!!
+> Add me on League for a fun time PixiePoodle.
 
 ### **Where are you from?**
-> *Chantilly, VA*
+> *Lorton, VA (NOVA)*
 
 ### **What are some of your favorite hobbies?**
 
-> *Eating, sleeping, shopping, playing the piano, drinking boba, and listening to music*
-
-### **Favorite song? (If you have no favorite song, put some of your favorite artists) **
-
-> *I like all types of music but my end of the year Spotify rewind told me my favorite genre is dance pop?¿ not sure if that’s true but I really like Ed Sheeran, James Arthur, Niki, Ariana Grande, etc. and ofc BLACKPINK*
-
-### **If you could live anywhere in the world, where would it be and why?**
-
-> *Taiwan because most of my family is there :’)*
-
-### **What is your biggest pet peeve and why?**
-
-> *Lying because it’s bad*
-
----
-
-![image-left]({{ "/assets/images/officers/small/natalieCircle2019Small.PNG" | absolute_url }}){: .align-left}
-## Natalie Calizon
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/nawwtalie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:ncalizon00@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sohpomore</h3>
-**Business Information Technology**
-
-> Hey I'm Nat and I'm so excited to be 1/2 of your fundraising committee!!! Some of my hobbies include sleeping forever, eating chocolate, and watching disney movies (I promise I'm only half as lazy as I seem lol). Also, like everyone else, I'm addicted to boba, but I'm too scared to try anything other than taro :D
-
-### **Where are you from?**
-> *Chantilly, VA*
-
-### **If you could live anywhere in the world where would it be and why?**
-
-> *Peru, so I could happily live with all the alpacas*
-
-### **Would you rather fight 100 duck sized horses or 1 horse sized duck (and why)?**
-
-> *One horse sized duck because 100 little horses would overwhelm and easily topple me.*
-
-### **What would your rapper name be?**
-
-> *n@*
+> *Dancing, Field Hockey, Lacrosse, DIY's, League, Organizing, Making Powerpoints*
 
 ### **Dream Job (and why)?**
 
-> *I would want to be one of those people that have a show where they travel around the world eating all kinds of food. It's like you're getting paid to travel and eat. *
+> *Event Planner (specifically weddings hehe) because I love planning things and being able to be creative.*
+
+### **Complete the sentence: I got 99 problems but _______ ain't one.**
+
+> *reaching the bottom shelf*
+
+### **What would your rapper name be?**
+
+> *$hort$tack*
+
+---
+<div id="Kelly"></div>
+![image-left]({{ "/assets/images/officers/20-21/small/Kelly.PNG" | absolute_url }}){: .align-left}
+## Kelly Bui
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/kkbui11/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:kkbui11@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Junior</h3>
+**Business Information Technology (BIT)**
+
+> My name is Kelly and I'm one of the fundraising chairs! If you couldn't already tell, I love money and I would love to meet all of you <3
+
+### **Where are you from?**
+> *Springfield, VA*
+
+### **What is your favorite quarantine pastime?**
+
+> *My favorite quarantine pastime was binge watching kdramas one after the other.*
+
+### **What is your favorite FASA memory?**
+
+> *My favorite memory is going to the first FASA fundraiser with the officers at that time and getting to know them even after the GBM.*
+
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+
+> *My favorite artists are UMI, Harry Styles, Alina Baraz, and Bruno Mars.*
+
+### **What are some of your favorite hobbies?**
+
+> *My favorite hobbies are painting, napping, and finding new music.*
