@@ -13,7 +13,7 @@ permalink: /officers/hospitality/
 # --- (this is a section break)
 ---
 <div id="Betsa"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Betsa.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Betsa.png" | absolute_url }}){: .align-left}
 ## Betsa Oropeza
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/hospitality/
 
 ---
 <div id="Sam"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Sam.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Sam.png" | absolute_url }}){: .align-left}
 ## Sam San
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/sam.san/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -76,7 +76,7 @@ permalink: /officers/hospitality/
 
 ---
 <div id="Diego"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Diego.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Diego.png" | absolute_url }}){: .align-left}
 ## Diego Ignacio
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/diego.ignacio22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>

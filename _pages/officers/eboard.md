@@ -15,7 +15,7 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/20-21/small/JC.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/JC.png" | absolute_url }}){: .align-left}
 ## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -46,7 +46,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/20-21/small/Joy.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Joy.png" | absolute_url }}){: .align-left}
 ## Joy Villanueva
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
@@ -65,7 +65,7 @@ permalink: /officers/eboard/
 
 ---
 <div id="Nia"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Nia.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Nia.png" | absolute_url }}){: .align-left}
 ## Nia Corpuz
 <a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/nia_corpuz/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -97,7 +97,7 @@ permalink: /officers/eboard/
 
 ---
 
-![image-left]({{ "/assets/images/officers/20-21/small/David.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/David.png" | absolute_url }}){: .align-left}
 ## David Brighton
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
@@ -107,7 +107,7 @@ permalink: /officers/eboard/
 
 ---
 <div id="Josh"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Josh.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Josh.png" | absolute_url }}){: .align-left}
 ## Josh Protacio
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/joshmprotacio/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
@@ -138,7 +138,7 @@ permalink: /officers/eboard/
 
 ---
 <div id="Andrew"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Andrew.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Andrew.png" | absolute_url }}){: .align-left}
 ## Andrew Leavitt
 <a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>

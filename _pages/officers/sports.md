@@ -14,7 +14,7 @@ permalink: /officers/sports/
 # --- (this is a section break)
 ---
 
-![image-left]({{ "/assets/images/officers/20-21/small/Shane.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Shane.png" | absolute_url }}){: .align-left}
 ## Shane Lee
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/shanejlee_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:shanel22@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
@@ -44,7 +44,7 @@ permalink: /officers/sports/
 
 ---
 
-![image-left]({{ "/assets/images/officers/20-21/small/Kyle.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Kyle.png" | absolute_url }}){: .align-left}
 ## Kyle Brown
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0">Sophomore</h3>

@@ -14,7 +14,7 @@ permalink: /officers/events/
 # --- (this is a section break)
 ---
 <div id="Alejandro"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Alejandro.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Alejandro.png" | absolute_url }}){: .align-left}
 ## Alejandro Romulo
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0">Senior</h3>
@@ -24,7 +24,7 @@ permalink: /officers/events/
 
 ---
 <div id="Mary"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Mary.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Mary.png" | absolute_url }}){: .align-left}
 ## Mary Antonette Luyun
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0">Sophomore</h3>

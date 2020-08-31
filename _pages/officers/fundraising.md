@@ -13,7 +13,7 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 <div id="Jasmin"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Jasmin.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Jasmin.png" | absolute_url }}){: .align-left}
 ## Jasmin Atienza
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://twitter.com/jasmin_net" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="https://www.instagram.com/jasminatienza_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -44,7 +44,7 @@ permalink: /officers/fundraising/
 
 ---
 <div id="Kelly"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Kelly.PNG" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/20-21/small/Kelly.png" | absolute_url }}){: .align-left}
 ## Kelly Bui
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/kkbui11/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
