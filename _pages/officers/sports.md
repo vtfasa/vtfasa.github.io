@@ -48,6 +48,7 @@ permalink: /officers/sports/
 ## Kyle Brown
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0">Sophomore</h3>
+<div style="margin-top: 2em"></div>
 ****
 
 > Follow @fitxfasa on Instagram
