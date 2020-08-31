@@ -54,7 +54,7 @@ permalink: /officers/promo/
 <h3 style="margin-top: 0">Junior</h3>
 **Biology**
 
-> Hobbies: I am so excited to express my creativity and love for FASA as one of your promo officers this year! If you ever need ANYTHING, don't be afraid to reach out <3
+> I am so excited to express my creativity and love for FASA as one of your promo officers this year! If you ever need ANYTHING, don't be afraid to reach out <3
 
 ### **Where are you from?**
 >*Centreville, VA*
