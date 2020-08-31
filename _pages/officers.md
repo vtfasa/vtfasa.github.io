@@ -14,9 +14,9 @@ layout: single
 
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
-  - url: /officers/eboard/#Jeyein
+  - url: /officers/eboard/#JC
     image_path: /assets/images/officers/20-21/JC.png
-    alt: "Jeyein Cepillo, President"
+    alt: "JC Cepillo, President"
   - url: /officers/eboard/#Joy
     image_path: /assets/images/officers/20-21/Joy.png
     alt: "Joy Villanueva, Vice President"

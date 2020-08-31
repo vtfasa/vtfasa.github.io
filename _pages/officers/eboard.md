@@ -14,7 +14,7 @@ permalink: /officers/eboard/
 # (another empty line)
 # --- (this is a section break)
 ---
-
+<div id="JC"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/JC.png" | absolute_url }}){: .align-left}
 ## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0">
@@ -45,7 +45,7 @@ permalink: /officers/eboard/
 > *Grey's Anatomy and Avatar the Last Airbender :D*
 
 ---
-
+<div id="Joy"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/Joy.png" | absolute_url }}){: .align-left}
 ## Joy Villanueva
 <p style="margin-bottom: 0.45em; padding: 0"></p>
@@ -96,7 +96,7 @@ permalink: /officers/eboard/
 > *Leading FASA to victory at Winter Classic last year!*
 
 ---
-
+<div id="David"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/David.png" | absolute_url }}){: .align-left}
 ## David Dong
 <p style="margin-bottom: 0.45em; padding: 0"></p>
