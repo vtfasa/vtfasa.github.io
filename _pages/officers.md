@@ -9,8 +9,8 @@ permalink: /officers/
 layout: single
 
 # controls header
-header:
-  image: /assets/images/newOfficerPic.PNG
+#header:
+#  image: /assets/images/newOfficerPic.PNG
 
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
@@ -117,7 +117,7 @@ web:
 	layout!
   -->
 
-### 2019-20 School Year
+### 2020-21 School Year
 {: .text-center}
 
 ## Executive Board

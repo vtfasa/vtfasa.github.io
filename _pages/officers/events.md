@@ -18,7 +18,6 @@ permalink: /officers/events/
 ## Alejandro Romulo
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0">Senior</h3>
-<div style="margin-top: 2em"></div>
 ****  
 
 >I'm one of your events chairs!. Looking forward to see you virtually!

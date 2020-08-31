@@ -146,7 +146,7 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
 **Computer Science**
 
-> Hi! I’m Andrew, and I am Co-Historian for the upcoming school year.  I hope to make this a memorable year trough my pictures and videos!
+> My camera might snap but my phone doesn't have yours
 
 ### **Where are you from?**
 > Annandale, VA
