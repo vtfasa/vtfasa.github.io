@@ -98,9 +98,10 @@ permalink: /officers/eboard/
 ---
 
 ![image-left]({{ "/assets/images/officers/20-21/small/David.png" | absolute_url }}){: .align-left}
-## David Brighton
+## David Dong
 <p style="margin-bottom: 0.45em; padding: 0"></p>
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
+<div style="margin-top: 2em">
 ****
 
 > All about that $
@@ -144,7 +145,7 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
 **Computer Science**
 
-> Hi! I’m Bryant, and I am Co-Historian for the upcoming school year.  I hope to make this a memorable year trough my pictures and videos!
+> Hi! I’m Andrew, and I am Co-Historian for the upcoming school year.  I hope to make this a memorable year trough my pictures and videos!
 
 ### **Where are you from?**
 > Annandale, VA
