@@ -47,21 +47,30 @@ permalink: /officers/eboard/
 ---
 <div id="Joy"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/Joy.png" | absolute_url }}){: .align-left}
-## Joy Villanueva
-<p style="margin-bottom: 0.45em; padding: 0"></p>
+## Joy Danielle Villanueva
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/joyueva/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="https://twitter.com/joyueva/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="mailto:joydav20@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
 **International Relations and History**
 
 > Hey, my name is Joy Danielle Villanueva. I'm a senior, double majoring in International Relations and History. I love horror movies, fashion, and Frank Ocean.
 
 ### **Where are you from?**
-> *Virginia Beach, VA*
+> *Virginia Beach, VA and Yokosuka, Japan*
 
-### **What is your favorite FASA memory?**
-> *My most memorable FASA moment was my freshman D7 Olympics. It was at VCU and it was where I bonded with who I would later spend the rest of my college experience with. My entire day and night was filled with fun and spontaneity. Definitely a night I'll never forget.*
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+> *Pyramids - Frank Ocean, I Have Nothing - Whitney Houston, Remember the Time - Michael Jackson, Valerie - Amy Winehouse*
 
-### **What is your favorite aspect of the Filipino Culture?**
-> *My favorite aspect about Filipino culture is how Filipinos can look directly at diversity with a smile and are willing to endure hardship for the ones they love and care about the most. Despite the struggles of life, Filipinos are resilient and are always hopeful for a better tomorrow for their loved ones.*
+### **Dream Job (and why)?**
+> *My dream job would be the secretary general of the United Nations because I have always felt like I had the duty to help other people and because I believe that I always try to do the right thing rather than always believing that I'm right.*
+
+### **What fictional character do you relate with the most and why?**
+> *The fictional character I relate to the most is Indiana Jones, I relate to him a lot because I love history and adventure, and because he always tries to do the right thing when helping those in need.*
+
+### **What is your favorite quarantine pastime?**
+> *My favorite quarantine pastime is watching movies. This summer I got into The Matrix, Little Women, and My Own Private Idaho.*
 
 ---
 <div id="Nia"></div>
@@ -99,12 +108,34 @@ permalink: /officers/eboard/
 <div id="David"></div>
 ![image-left]({{ "/assets/images/officers/20-21/small/David.png" | absolute_url }}){: .align-left}
 ## David Dong
-<p style="margin-bottom: 0.45em; padding: 0"></p>
-<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/d_dong227/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:ddong227@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Treasurer</em> | Junior</h3>
 <div style="margin-top: 2em"></div>
-****
+**BIT: CMA;  MGT: MCA**
 
-> All about that $
+> Yerrrrrr!!! My name is David Dong and I'm your Treasurer this year.  I'm a Junior double majoring in BIT and Management.  I'm also a 3rd degree black belt in United States Black Cat Kenpo Karate .................So make sure to pay your dues!!!  
+
+### **Where are you from?**
+
+>*Howell, NJ*
+
+### **What are some of your favorite hobbies?**
+
+> *Karate, Basketball, Tennis, Fishing, NBA 2k, Guitar Hero (any). watching movies, BOOLIN with the BOYZzz*
+
+### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+
+> *Lil Wayne, Lil Baby, Snoop Dogg, The Notorious B.I.G.*
+
+### **What is your life motto?**
+
+> *"To hell with circumstances; I create opportunities." – Bruce Lee*
+
+### **What is a crazy summer adventure you had?**
+
+> *Hiking Mt. Tammany then swimming the Delaware River Gap from New Jersey to Pennsylvania and back (barely).*
 
 ---
 <div id="Josh"></div>
