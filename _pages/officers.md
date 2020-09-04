@@ -10,7 +10,7 @@ layout: single
 
 # controls header
 header:
-  image: /assets/images/officers/20-21/collagesmall.png
+  image: /assets/images/officers/20-21/collage.png
 
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
