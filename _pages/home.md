@@ -31,7 +31,7 @@ hoco_pictures:
   - image_path: /assets/images/misc/JChocoshirt.jpg
 
 hoco_statement:
-  - except: "Hey bbs! I’d like to formally announce my representation of the Filipino American Student Association on the Homecoming Court for the Fall Semester of 2020. My platform is “Project PUSO with JC”, where I aim to spread the Ideology of “Purposeful Unconditional Service to Others” throughout Blacksburg and surrounding areas. Similarly, the word “PUSO” means “Heart” in the Filipino Language of Tagalog, where I am trying to make a difference one heart at a time. Truthfully, I wouldn’t have been able to overcome all of the hardships throughout my life if it weren’t for my amazing friends and family providing me with unconditional love and support, and I have spent my life trying to inspire others to do the same. The PUSO Foundation pools together the many talents of our family to provide Covid Relief, Beirut Aid, and many more projects. I cannot wait to share more about my platform in these upcoming weeks, but let’s get started with my homecoming shirt! If you would like to purchase one, please follow the directions on the second picture. Love y’all, and thank you so much for your support! 
+  - excerpt: "Hey bbs! I’d like to formally announce my representation of the Filipino American Student Association on the Homecoming Court for the Fall Semester of 2020. My platform is “Project PUSO with JC”, where I aim to spread the Ideology of “Purposeful Unconditional Service to Others” throughout Blacksburg and surrounding areas. Similarly, the word “PUSO” means “Heart” in the Filipino Language of Tagalog, where I am trying to make a difference one heart at a time. Truthfully, I wouldn’t have been able to overcome all of the hardships throughout my life if it weren’t for my amazing friends and family providing me with unconditional love and support, and I have spent my life trying to inspire others to do the same. The PUSO Foundation pools together the many talents of our family to provide Covid Relief, Beirut Aid, and many more projects. I cannot wait to share more about my platform in these upcoming weeks, but let’s get started with my homecoming shirt! If you would like to purchase one, please follow the directions on the second picture. Love y’all, and thank you so much for your support! 
   
   -JC"
 
@@ -64,54 +64,55 @@ feature_row:
 
 # eboard header
 eboard_header:
-  - title: 'Executive Board 2019-20'
+  - title: 'Executive Board 2020-21'
 
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/officers/20-21/JC.png
+  - url: /officers/eboard/#JC
+    image_path: /assets/images/officers/20-21/JC.png
     alt: "JC Cepillo"
     title: "JC Cepillo"
     excerpt: "***President***" # -"I have sensitive eyes so catch me wearing my sunglasses even when it’s cloudy"
-    url: /officers/eboard/#JC
   # vice president
-  - image_path: /assets/images/officers/20-21/Joy.png
+  - url: /officers/eboard/#Joy
+    image_path: /assets/images/officers/20-21/Joy.png
     alt: "Joy Danielle Villanueva"
     title: "Joy Danielle Villanueva"
     excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
-    url: /officers/eboard/#Joy
   # secretary
-  - image_path: /assets/images/officers/20-21/Nia.png
+  - url: /officers/eboard/#Nia
+    image_path: /assets/images/officers/20-21/Nia.png
     alt: "Nia Corpuz"
     title: "Nia Corpuz"
     excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
-    url: /officers/eboard/#Nia
 
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/officers/20-21/David.png
+  - url: /officers/eboard/#David
+    image_path: /assets/images/officers/20-21/David.png
     alt: "David Dong"
     title: "David Dong"
     excerpt: "***Treasurer***" # - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
-    url: /officers/eboard/#David
   # historian 1
-  - image_path: /assets/images/officers/20-21/Josh.png
+  - url: /officers/eboard/#Josh
+    image_path: /assets/images/officers/20-21/Josh.png
     alt: "Josh Protacio"
     title: "Josh Protacio"
     excerpt: "***Historian***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
-    url: /officers/eboard/#Josh
   # historian 2
-  - image_path: /assets/images/officers/20-21/Andrew.png
+  - url: /officers/eboard/#Andrew
+    image_path: /assets/images/officers/20-21/Andrew.png
     alt: "Andrew Leavitt"
     title: "Andrew Leavitt"
     excerpt: "***Historian***" # - current mood: hungry"
-    url: /officers/eboard/#Andrew
+    
 ---
 
 {% include feature_row id="hoco_header" type="center" %}
 
-{% include feature_row id="hoco_pictures" type="center" %}
+{% include feature_row id="hoco_pictures" %}
 
 {% include feature_row id="hoco_statement" type="center" %}
 
