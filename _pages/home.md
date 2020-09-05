@@ -43,6 +43,8 @@ blm_statement:
   - excerpt: "Click here to visit our Linktree page and learn about the BLM Movement and take action"
     url: "https://linktr.ee/FASAatVT" 
 
+feature_header:
+  - title: "Explore More:"
 # pages
 feature_row:
   - image_path: /assets/images/home/events.jpg
@@ -114,6 +116,8 @@ e_board2:
 {% include feature_row id="blm_header" type="center" %}
 
 {% include feature_row id="blm_statement" %}
+
+{% include feature_row id="feature_header" type="center" %}
 
 {% include feature_row %}
 
