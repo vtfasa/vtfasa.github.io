@@ -107,10 +107,6 @@ e_board2:
 
 {% include feature_row id="intro" type="center" %}
 
-
-<button class="button bannerContent__subscribeButton" data-dojo-attach-point="bannerClose" show>Subscribe to the FASA Newsletter</button>
-    
-
 {% include feature_row id="hoco_header" type="center" %}
 
 {% include feature_row id="hoco_pictures" type="center" %}
