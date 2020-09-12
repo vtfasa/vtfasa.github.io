@@ -124,10 +124,13 @@ e_board2:
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group input-group">
-    <strong>Culture Show Invites </strong>
-    <ul><li><input type="checkbox" value="1" name="group[6255][1]" id="mce-group[6255]-6255-0"><label for="mce-group[6255]-6255-0">2020</label></li>
-</ul>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
