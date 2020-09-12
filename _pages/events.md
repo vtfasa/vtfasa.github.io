@@ -8,20 +8,10 @@ permalink: /events/
 
 
 
-## 2019-2020 Events
+## 2020-2021 Events
 
-## 12/01-12/07
-### Christmas General Body meeting
-*December 4, 2019 |
+### First General Body Meeting
+*September 14, 2020 |
 7PM - 9PM |
-TBD*
+Zoom*
 
-### Culture Show Script Auditions
-*December 5, 2019 |
-6PM - 7PM |
-McBryde 126*
-
-### Culture Show Script Auditions
-*December 6, 2019 |
-6PM - 7PM |
-McBryde 126*
