@@ -23,16 +23,7 @@ header:
 intro:
   - excerpt: 'Founded in 1988, The Filipino American Student Association (FASA) is an organization formed to enhance interactions between Filipinos and other students, faculty, and staff of the Virginia Polytechnic Institute and State University through cultural, educational, and social activities.'
 
-hoco_header:
-  - title: Support Our President, JC Cepillo, Running for Homecoming Court!
 
-hoco_pictures: 
-  - image_path: /assets/images/misc/hococombo.jpg
-
-hoco_statement:
-  - excerpt: "Hey bbs! I’d like to formally announce my representation of the Filipino American Student Association on the Homecoming Court for the Fall Semester of 2020. My platform is “Project PUSO with JC”, where I aim to spread the Ideology of “Purposeful Unconditional Service to Others” throughout Blacksburg and surrounding areas. Similarly, the word “PUSO” means “Heart” in the Filipino Language of Tagalog, where I am trying to make a difference one heart at a time. Truthfully, I wouldn’t have been able to overcome all of the hardships throughout my life if it weren’t for my amazing friends and family providing me with unconditional love and support, and I have spent my life trying to inspire others to do the same. The PUSO Foundation pools together the many talents of our family to provide Covid Relief, Beirut Aid, and many more projects. I cannot wait to share more about my platform in these upcoming weeks, but let’s get started with my homecoming shirt! If you would like to purchase one, please follow the directions on the second picture. Love y’all, and thank you so much for your support! 
-  
-  -JC"
 
 blm_header: 
   - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
@@ -144,11 +135,6 @@ e_board2:
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-{% include feature_row id="hoco_header" type="center" %}
-
-{% include feature_row id="hoco_pictures" type="center" %}
-
-{% include feature_row id="hoco_statement" type="center" %}
 
 {% include feature_row id="blm_header" type="center" %}
 

@@ -47,9 +47,6 @@ culture:
   - url: /officers/culture/#Nico
     image_path: /assets/images/officers/20-21/Nico.png
     alt: "Nico Palanca"
-  - url: /officers/culture/#JohnRey
-    image_path: /assets/images/officers/20-21/JR.png
-    alt: "John Rey Tangaran"
 # events
 events:
   - url: /officers/events/#Alejandro
