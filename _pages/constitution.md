@@ -73,7 +73,7 @@ c. Should there be a vacancy in any office during the year, open nominations sha
 
 ### SECTION 1. EXECUTIVE COUNCIL
 
-a. This council shall consist of the President, Vice President, Treasurer, Secretary, Historian(s), and all standing committee chairpersons.  
+a. This council shall consist of the President, External Vice President, Internal Vice President, Treasurer, Secretary, and all standing committee chairpersons.  
 
 b. The duties and responsibilities of the council shall be outlined in the By Laws of this constitution.
 
@@ -86,9 +86,7 @@ a. There shall be the following standing committees:
  * Fundraising Committee  
  * Hospitality Committee  
  * Promotions Committee   
- * Service Committee  
- * Sports Committee  
- * Website Committee
+ * Service Committee    
 
 b. Special committees may be formed for any special events and tasks that the organization will be undertaking.
 
@@ -200,7 +198,7 @@ The duties and powers of the President shall be:
 
 a. To preside at all meetings.  
 b. To be responsible for the University Relations aspect of the organization.  
-c. To serve, along with the Vice President, as the official representative of the organization.  
+c. To serve, along with the Internal and External Vice Presidents, as the official representative of the organization.  
 d. To serve as a representative on the Asian American Student Union Council.  
 e. To assist the Vice President in the coordination of the Culture Night Committees.  
 f. To appoint special committees as necessary and proper to the well-being of this organization.  
@@ -211,13 +209,25 @@ j. To make sure all officer are on task.
 k. To inform the office of the Student Organizations on any changes in the Constitution at their discretion.
 l. To update the Executive Council of their progress.  
 
-**SECTION 2. VICE PRESIDENT**
+**SECTION 2. EXTERNAL VICE PRESIDENT**
 
-The powers and duties of the Vice President shall be:
+The powers and duties of the External Vice President shall be:
+
+a. To take on the above responsibilities in the absence of the President.
+b. To serve, along with the President and Internal Vice President, as the official representative of the organization.
+c. To serve as the prime representative on the Asian American Student Union Council.
+d. To be the representative for FASA at VT among other D7 Presidents and Vice Presidents, rather than solely the President.
+e. To work alongside the two Hospitality Chairs, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.
+f. To update the Executive Council of their progress.
+
+
+**SECTION 3. INTERNAL VICE PRESIDENT**
+
+The powers and duties of the Internal Vice President shall be:
 
 a. To take on the above responsibilities in the absence of the President.  
-b. To serve, along with the President, as the official representative of the organization.  
-c. To serve as the Culture Night coordinator and create the Culture Night committees.  
+b. To serve, along with the President and External Vice President, as the official representative of the organization.  
+c. To serve as the Culture Night coordinator and create the Culture Night committees along with the one Culture Chair.  
 Culture Night Committees include:  
     * STAGE DESIGN  
     * SCRIPT  
@@ -233,7 +243,7 @@ d. To make sure all standing and special committees are on task.
 e. To update the President on the progress of the Cultural Night committee.  
 f. To update the Executive Council of their progress.  
 
-**SECTION 3. SECRETARY**
+**SECTION 4. SECRETARY**
 
 The powers and duties of the Secretary shall be:
 
@@ -247,7 +257,7 @@ g. To update the President on the progress of their assigned committees.
 h. To maintain a master copy of the calendar for the year of events and the most recently updated Constitution.  
 
 
-**SECTION 4. TREASURER**
+**SECTION 5. TREASURER**
 
 The powers and duties of the Treasurer shall be:
 
@@ -263,20 +273,7 @@ i. To prepare, submit, and present an annual budget request to the appropriate f
 j. To hold a cash manager position with Lane Stadium during Virginia Tech Football Concessions.  
 k. To update the President on the progress of their assigned committees.  
 
-
-**SECTION 5. HISTORIANS**
-
-The powers and duties of the Historians shall be:
-
-a. To keep records of the activities and events of the organization on social media (Facebook albums and Youtube).  
-b. To take pictures at all the organization’s affairs.  
-c. To maintain and create a display about the organization during:  
-    - GOBBLERFEST  
-    - FILIPINO AMERICAN HISTORY MONTH  
-    - THE ANNUAL CULTURAL NIGHT  
-    - ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
-d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
-e. To update the President of the progress of their assigned committees.  
+  
 
 ## ARTICLE XI *(THE EXECUTIVE COUNCIL AND STANDING COMMITTEES)*
 
@@ -288,7 +285,21 @@ b. It shall determine and carry out the goals of the organization.
 c. It shall plan and coordinate all activities of the organization.  
 d. It shall make any decisions concerning replacement of officers and committee chairpersons, progressing with impeachment procedures, and consider all matters of vital importance concerning the organization.  
 
-**SECTION 2. D7 REPRESENTATIVE**
+**SECTION 2. HISTORIAN**
+
+The powers and duties of the Historian shall be:
+
+a. To keep records of the activities and events of the organization on social media (Facebook albums and Youtube).  
+b. To take pictures at all the organization’s affairs.  
+c. To maintain and create a display about the organization during:  
+    - GOBBLERFEST  
+    - FILIPINO AMERICAN HISTORY MONTH  
+    - THE ANNUAL CULTURAL NIGHT  
+    - ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
+d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
+e. To update the President of the progress of their assigned committees.
+
+**SECTION 3. D7 REPRESENTATIVE**
 
 The powers and duties of the D7 Representative shall be:  
 a. To gather necessary information about upcoming conferences and conventions and to organize attendance.  
@@ -296,29 +307,32 @@ b. To organize transportation, lodging, and registration fees for intercollegiat
 c. To work out financial details with the Treasurer.  
 d. To update the overseeing Executive Board member of the committee’s progress.    
 f. To inform the Promotions Chairperson if publicity is needed.  
+g. The D7 Chair and the Sports Chair will work as co-chairs as the D7 Committee.
 
 
-**SECTION 3. CULTURE COMMITTEE**
+**SECTION 4. CULTURE CHAIR**
 
 The powers and duties of the Culture shall be:  
 a. To hold programs pertinent to the education of the members of FASA and the Virginia Tech community.  
 b. To organize and make culturally relevant the itinerary and goings of the Pig Event.  
 c. To organize food distribution (Kamayan) at Fun Day.  
-d. To be held responsible for selecting the honorary candidate of the FASA scholarship and setting the standards of the scholarship through the Rhonyll Seballos Scholarship Board. * See Article VII of the FASA Constitution.  
-e. To work out financial details with the Treasurer.  
-f. To update the overseeing Executive Board member of the committee’s progress.    
-g. To inform the Promotions Chairperson if publicity is needed.  
+d. To be held responsible for selecting the honorary candidate of the FASA scholarship and setting the standards of the scholarship through the Rhonyll Seballos Scholarship Board. * See Article VII of the FASA Constitution.
+e. To work alongside the Internal Vice President in the planning and execution of Culture Show.  
+f. To work out financial details with the Treasurer.  
+g. To update the overseeing Executive Board member of the committee’s progress.    
+h. To inform the Promotions Chairperson if publicity is needed.  
 
 
-**SECTION 4. EVENTS COMMITTEE**
+**SECTION 5. EVENTS COMMITTEE**
 
 The duties and powers of the coordinator shall be:  
 a. To plan all major events within the organization and between other organizations within Virginia Tech.  
-b. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each event.  
-c. To work out financial details with the Treasurer.  
-d. To inform the Promotions Chairperson if publicity is needed.  
-e. To update the overseeing Executive Board member of the committee’s progress.  
-f. To update the officer board on all projects and activities.  
+b. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each event. 
+c. To preside over the @fasa_eats Instagram account. 
+d. To work out financial details with the Treasurer.  
+e. To inform the Promotions Chairperson if publicity is needed.  
+f. To update the overseeing Executive Board member of the committee’s progress.  
+g. To update the officer board on all projects and activities.  
 The major events include (but are not limited to):  
     - FALL PICNIC  
     - THANKSGIVING DINNER  
@@ -328,7 +342,7 @@ The major events include (but are not limited to):
     - ROAD TRIP  
 
 
-**SECTION 5. FUNDRAISING COMMITTEE**
+**SECTION 6. FUNDRAISING COMMITTEE**
 
 a. To organize and control fundraisers. They include (but are not limited to):  
     - KINGS DOMINION  
@@ -336,15 +350,16 @@ a. To organize and control fundraisers. They include (but are not limited to):
     - INTERNATIONAL STREET FAIR  
     - CHANGE WARS  
 b. To report back, give earnings and any other financial dealings to the Treasurer.  
-c. To seek out new fundraising opportunities for the organization.  
-d. To work with the treasurer in understanding the organizations financial needs.  
-e. To update the overseeing Executive Board member of the committee’s progress.  
-f. To do reports and evaluations of all projects and activities.  
-g. To inform the Promotions Chairperson if publicity is needed.  
-h. To hold an inventory manager position with Lane Stadium during Virginia Tech Football Concessions.  
+c. To seek out new fundraising opportunities for the organization. 
+d. To preside over the @fasathrifts Instagram Account. 
+e. To work with the treasurer in understanding the organizations financial needs.  
+f. To update the overseeing Executive Board member of the committee’s progress.  
+g. To do reports and evaluations of all projects and activities.  
+h. To inform the Promotions Chairperson if publicity is needed.  
+i. To hold an inventory manager position with Lane Stadium during Virginia Tech Football Concessions.  
 
 
-**SECTION 6. HOSPITALITY COMMITTEE**
+**SECTION 7. HOSPITALITY COMMITTEE**
 
 The Hospitality Committee will be arranged as a team as each committee member heads and organizes specific tasks pertaining to their strengths.  
 General duties include (but are not limited to):  
@@ -361,11 +376,12 @@ e. To update the overseeing Executive Board member of the committee’s progress
 f. To do reports and evaluations of all projects and activities.  
 g. To unite old and new FASA members both.  
 h. To coordinate and organize the Culture Night Brunch and hotel reservations.  
-i. To inform the Promotions Chairperson if publicity is needed.  
-j. To appoint family heads.
+i. To work alongside the External Vice President, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.
+j. To inform the Promotions Chairperson if publicity is needed.  
+k. To appoint family heads.
 
 
-**SECTION 7. PROMOTIONS COMMITTEE**
+**SECTION 8. PROMOTIONS COMMITTEE**
 
 The powers and duties of the Promotions Committee shall be:  
 a. To inform the community about all of the organization’s activities through whatever means necessary. (i.e. information distribution, events advertising)  
@@ -378,7 +394,7 @@ g. To create and organize the Culture Night program.
 h. To handle all FASA merchandise and apparel, including the designing, ordering, and managing of the FASA shirt-design contest.
 
 
-**SECTION 8. SERVICE COMMITTEE**
+**SECTION 9. SERVICE COMMITTEE**
 
 The powers and duties of the Service Committee shall be:  
 a. To organize already known major service events for the organization, which include (but are not limited to):  
@@ -387,17 +403,18 @@ a. To organize already known major service events for the organization, which in
     - CHARITY BALL  
     - VALENTINE'S DAY FUNDRAISER  
     - THRIFT SHOP  
-b. To organize and find community service opportunities for the members of the club to sponsor or participate in.  
-c. To keep a record of events and hours in which the members of the organization worked.  
-d. To relay any information to the general body of any progress.  
-e. To update the overseeing Executive Board member of the committee’s progress.  
-f. To work out financial details with the Treasurer.  
-g. To inform the Promotions Chairperson if publicity is needed.  
-h. To keep relations with philanthropy.
+b. To organize and find community service opportunities for the members of the club to sponsor or participate in. 
+c. To preside over the @fasathrifts Instagram Account. 
+d. To keep a record of events and hours in which the members of the organization worked.  
+e. To relay any information to the general body of any progress.  
+f. To update the overseeing Executive Board member of the committee’s progress.  
+g. To work out financial details with the Treasurer.  
+h. To inform the Promotions Chairperson if publicity is needed.  
+i. To keep relations with philanthropy.
 
 
 
-**SECTION 9. SPORTS COMMITTEE**
+**SECTION 10. SPORTS CHAIR**
 
 The powers and duties of the Sports Committee shall be:  
 a. To organize all sporting events.  
@@ -411,15 +428,8 @@ h. To organize the collection and distribution of tickets for Virginia Tech foot
 i. To organize and plan out FASA Fun Day.  
 j. To organize all pertinent logistics of Winter Classic in collaboration with the University of Virginia [(OYFA - Organization of Young Filipino Americans)](http://www.oyfaatuva.com).  
 k. To inform the Promotions Chairperson if publicity is needed.  
+l. To preside over the @fitxfasa Instagram account.
+m. The Sports Chair and the D7 Chair will work as co-chairs as the D7 Committee.
+    NOTE: The Sports Chair will select two non-officer members of FASA to serve as the Offense and Defense Captains for Winter Classic and VT Intramural Football.
 
-
-**SECTION 10. WEBSITE COMMITTEE**
-
-The powers and duties of the Website Committee shall be:  
-a. To send out related information to all FASA members through the FASA website.  
-b. To work closely with all committees to ensure proper distribution of information pertaining to the organization and its members.  
-c. To maintain and update the FASA website.  
-d. To maintain and update the FASA Facebook page in collaboration with the Promotions Committee.  
-d. To update the overseeing Executive Board member of the committee’s progress.  
-e. To do reports and evaluations of all projects and activities.  
-f. To update GobblerConnect page with all of FASA’s events, activities, and roster.  
+  
