@@ -252,7 +252,7 @@ b. To maintain and update the FASA listserv and social media outlets as needed.
 c. To be responsible for informing all members of meetings or events through the FASA listserv and social media outlets.  
 d. To be responsible for any correspondence with outside relations and mailings.  
 e. To maintain a file of all committee reports, projects, and evaluations.  
-f. To update the Executive Council of their progress.
+f. To update the Executive Council of their progress.  
 g. To update the President on the progress of their assigned committees.  
 h. To maintain a master copy of the calendar for the year of events and the most recently updated Constitution.  
 
@@ -303,8 +303,8 @@ e. To update the President of the progress of their assigned committees.
 
 The powers and duties of the D7 Representative shall be:  
 a. To gather necessary information about upcoming conferences and conventions and to organize attendance.  
-b. To organize transportation, lodging, and registration fees for intercollegiate events including but not limited to (D7 Olympics, FIND Inc. Dialogue, and attending other Culture Shows).
-c. To work alongside the President regarding Alumni Relations (ex: Alumni Panels).
+b. To organize transportation, lodging, and registration fees for intercollegiate events including but not limited to (D7 Olympics, FIND Inc. Dialogue, and attending other Culture Shows).  
+c. To work alongside the President regarding Alumni Relations (ex: Alumni Panels).  
 d. To work out financial details with the Treasurer.  
 e. To update the overseeing Executive Board member of the committee’s progress.    
 f. To inform the Promotions Chairperson if publicity is needed.  
@@ -328,8 +328,8 @@ h. To inform the Promotions Chairperson if publicity is needed.
 
 The duties and powers of the coordinator shall be:  
 a. To plan all major events within the organization and between other organizations within Virginia Tech.  
-b. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each event. 
-c. To preside over the @fasa_eats Instagram account. 
+b. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each event.  
+c. To preside over the @fasa_eats Instagram account.  
 d. To work out financial details with the Treasurer.  
 e. To inform the Promotions Chairperson if publicity is needed.  
 f. To update the overseeing Executive Board member of the committee’s progress.  
@@ -351,8 +351,8 @@ a. To organize and control fundraisers. They include (but are not limited to):
     - INTERNATIONAL STREET FAIR  
     - CHANGE WARS  
 b. To report back, give earnings and any other financial dealings to the Treasurer.  
-c. To seek out new fundraising opportunities for the organization. 
-d. To preside over the @fasathrifts Instagram Account. 
+c. To seek out new fundraising opportunities for the organization.  
+d. To preside over the @fasathrifts Instagram Account.  
 e. To work with the treasurer in understanding the organizations financial needs.  
 f. To update the overseeing Executive Board member of the committee’s progress.  
 g. To do reports and evaluations of all projects and activities.  
@@ -377,7 +377,7 @@ e. To update the overseeing Executive Board member of the committee’s progress
 f. To do reports and evaluations of all projects and activities.  
 g. To unite old and new FASA members both.  
 h. To coordinate and organize the Culture Night Brunch and hotel reservations.  
-i. To work alongside the External Vice President, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.
+i. To work alongside the External Vice President, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.  
 j. To inform the Promotions Chairperson if publicity is needed.  
 k. To appoint family heads.
 
@@ -404,8 +404,8 @@ a. To organize already known major service events for the organization, which in
     - CHARITY BALL  
     - VALENTINE'S DAY FUNDRAISER  
     - THRIFT SHOP  
-b. To organize and find community service opportunities for the members of the club to sponsor or participate in. 
-c. To preside over the @fasathrifts Instagram Account. 
+b. To organize and find community service opportunities for the members of the club to sponsor or participate in.  
+c. To preside over the @fasathrifts Instagram Account.  
 d. To keep a record of events and hours in which the members of the organization worked.  
 e. To relay any information to the general body of any progress.  
 f. To update the overseeing Executive Board member of the committee’s progress.  
@@ -430,7 +430,7 @@ i. To organize and plan out FASA Fun Day.
 j. To organize all pertinent logistics of Winter Classic in collaboration with the University of Virginia [(OYFA - Organization of Young Filipino Americans)](http://www.oyfaatuva.com).  
 k. To inform the Promotions Chairperson if publicity is needed.  
 l. To preside over the @fitxfasa Instagram account.
-m. The Sports Chair and the D7 Chair will work as co-chairs as the D7 Committee.
+m. The Sports Chair and the D7 Chair will work as co-chairs as the D7 Committee.  
     NOTE: The Sports Chair will select two non-officer members of FASA to serve as the Offense and Defense Captains for Winter Classic and VT Intramural Football.
 
   
