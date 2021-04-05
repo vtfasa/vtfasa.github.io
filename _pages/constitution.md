@@ -229,18 +229,16 @@ a. To take on the above responsibilities in the absence of the President.
 b. To serve, along with the President and External Vice President, as the official representative of the organization.  
 c. To serve as the Culture Night coordinator and create the Culture Night committees along with the one Culture Chair.  
 Culture Night Committees include:  
-
-    * STAGE DESIGN  
-    * SCRIPT  
-    * PROMOTIONS  
-    * COSTUMES  
-    * MUSIC  
-    * FASHION SHOW  
-    * CHOREOGRAPHY (TRADITIONAL & MODERN)  
-    * TECHNICAL PROGRAM  
-    * HOSPITALITY (BRUNCH AND HOTEL RESERVATIONS)  
-    * AFTER PARTY  
-    
+* STAGE DESIGN  
+* SCRIPT  
+* PROMOTIONS  
+* COSTUMES  
+* MUSIC  
+* FASHION SHOW  
+* CHOREOGRAPHY (TRADITIONAL & MODERN)  
+* TECHNICAL PROGRAM  
+* HOSPITALITY (BRUNCH AND HOTEL RESERVATIONS)  
+* AFTER PARTY  
 d. To make sure all standing and special committees are on task.   
 e. To update the President on the progress of the Cultural Night committee.  
 f. To update the Executive Council of their progress.  
@@ -294,10 +292,10 @@ The powers and duties of the Historian shall be:
 a. To keep records of the activities and events of the organization on social media (Facebook albums and Youtube).  
 b. To take pictures at all the organization’s affairs.  
 c. To maintain and create a display about the organization during:  
-    - GOBBLERFEST  
-    - FILIPINO AMERICAN HISTORY MONTH  
-    - THE ANNUAL CULTURAL NIGHT  
-    - ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
+- GOBBLERFEST  
+- FILIPINO AMERICAN HISTORY MONTH  
+- THE ANNUAL CULTURAL NIGHT  
+- ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
 d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
 e. To update the President of the progress of their assigned committees.
 
@@ -337,21 +335,21 @@ e. To inform the Promotions Chairperson if publicity is needed.
 f. To update the overseeing Executive Board member of the committee’s progress.  
 g. To update the officer board on all projects and activities.  
 The major events include (but are not limited to):  
-    - FALL PICNIC  
-    - THANKSGIVING DINNER  
-    - FUN DAY  
-    - TAILGATE  
-    - MR. FASA  
-    - ROAD TRIP  
+- FALL PICNIC  
+- THANKSGIVING DINNER  
+- FUN DAY  
+- TAILGATE  
+- MR. FASA  
+- ROAD TRIP  
 
 
 **SECTION 6. FUNDRAISING COMMITTEE**
 
 a. To organize and control fundraisers. They include (but are not limited to):  
-    - KINGS DOMINION  
-    - LUMPIA SALE  
-    - INTERNATIONAL STREET FAIR  
-    - CHANGE WARS  
+- KINGS DOMINION  
+- LUMPIA SALE  
+- INTERNATIONAL STREET FAIR  
+- CHANGE WARS  
 b. To report back, give earnings and any other financial dealings to the Treasurer.  
 c. To seek out new fundraising opportunities for the organization.  
 d. To preside over the @fasathrifts Instagram Account.  
@@ -369,11 +367,11 @@ General duties include (but are not limited to):
 a. To introduce and continue relations with new members of FASA. This would include freshman, transfer students.  
 b. To introduce and enthusiastically support the Kuya/Ate program within FASA throughout the year.  
 c. To help develop and strengthen fellowship among members through various activities. Specific activities include:  
-    - RECRUITMENT  
-    - SOCIALS  
-    - CHRISTMAS GIFT EXCHANGE  
-    - BIG/LITTLE SELFIE CHALLENGE  
-    - SENIOR BANQUET  
+- RECRUITMENT  
+- SOCIALS  
+- CHRISTMAS GIFT EXCHANGE  
+- BIG/LITTLE SELFIE CHALLENGE  
+- SENIOR BANQUET  
 d. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each events.  
 e. To update the overseeing Executive Board member of the committee’s progress.  
 f. To do reports and evaluations of all projects and activities.  
@@ -401,11 +399,11 @@ h. To handle all FASA merchandise and apparel, including the designing, ordering
 
 The powers and duties of the Service Committee shall be:  
 a. To organize already known major service events for the organization, which include (but are not limited to):  
-    - RELAY FOR LIFE  
-    - THE BIG EVENT  
-    - CHARITY BALL  
-    - VALENTINE'S DAY FUNDRAISER  
-    - THRIFT SHOP  
+- RELAY FOR LIFE  
+- THE BIG EVENT  
+- CHARITY BALL  
+- VALENTINE'S DAY FUNDRAISER  
+- THRIFT SHOP  
 b. To organize and find community service opportunities for the members of the club to sponsor or participate in.  
 c. To preside over the @fasathrifts Instagram Account.  
 d. To keep a record of events and hours in which the members of the organization worked.  
