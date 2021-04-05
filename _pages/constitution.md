@@ -44,7 +44,7 @@ An amount for dues shall be proposed by the officers at the beginning of the aca
 
 ### SECTION 1. EXECUTIVE BOARD OFFICERS
 
-The officers of this organization shall include: president, vice president, treasurer, secretary, and historian(s).  
+The officers of this organization shall include: president, extrenal vice president, internal vice president, treasurer, and secretary.  
 
 The specific powers and duties of each officer are outlined in the By Laws of this constitution.
 
@@ -213,12 +213,12 @@ l. To update the Executive Council of their progress.
 
 The powers and duties of the External Vice President shall be:
 
-a. To take on the above responsibilities in the absence of the President.
-b. To serve, along with the President and Internal Vice President, as the official representative of the organization.
-c. To serve as the prime representative on the Asian American Student Union Council.
-d. To be the representative for FASA at VT among other D7 Presidents and Vice Presidents, rather than solely the President.
-e. To work alongside the two Hospitality Chairs, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.
-f. To update the Executive Council of their progress.
+a. To take on the above responsibilities in the absence of the President.  
+b. To serve, along with the President and Internal Vice President, as the official representative of the organization.  
+c. To serve as the prime representative on the Asian American Student Union Council.  
+d. To be the representative for FASA at VT among other D7 Presidents and Vice Presidents, rather than solely the President.  
+e. To work alongside the two Hospitality Chairs, all three officers (the External Vice President and the two Hospitality Chairs) will serve as the Hospitality committee.  
+f. To update the Executive Council of their progress.  
 
 
 **SECTION 3. INTERNAL VICE PRESIDENT**
@@ -303,9 +303,10 @@ e. To update the President of the progress of their assigned committees.
 
 The powers and duties of the D7 Representative shall be:  
 a. To gather necessary information about upcoming conferences and conventions and to organize attendance.  
-b. To organize transportation, lodging, and registration fees for intercollegiate events including but not limited to (D7 Olympics, FIND Inc. Dialogue, and attending other Culture Shows).  
-c. To work out financial details with the Treasurer.  
-d. To update the overseeing Executive Board member of the committee’s progress.    
+b. To organize transportation, lodging, and registration fees for intercollegiate events including but not limited to (D7 Olympics, FIND Inc. Dialogue, and attending other Culture Shows).
+c. To work alongside the President regarding Alumni Relations (ex: Alumni Panels).
+d. To work out financial details with the Treasurer.  
+e. To update the overseeing Executive Board member of the committee’s progress.    
 f. To inform the Promotions Chairperson if publicity is needed.  
 g. The D7 Chair and the Sports Chair will work as co-chairs as the D7 Committee.
 
@@ -316,7 +317,7 @@ The powers and duties of the Culture shall be:
 a. To hold programs pertinent to the education of the members of FASA and the Virginia Tech community.  
 b. To organize and make culturally relevant the itinerary and goings of the Pig Event.  
 c. To organize food distribution (Kamayan) at Fun Day.  
-d. To be held responsible for selecting the honorary candidate of the FASA scholarship and setting the standards of the scholarship through the Rhonyll Seballos Scholarship Board. * See Article VII of the FASA Constitution.
+d. To be held responsible for selecting the honorary candidate of the FASA scholarship and setting the standards of the scholarship through the Rhonyll Seballos Scholarship Board. * See Article VII of the FASA Constitution.  
 e. To work alongside the Internal Vice President in the planning and execution of Culture Show.  
 f. To work out financial details with the Treasurer.  
 g. To update the overseeing Executive Board member of the committee’s progress.    
