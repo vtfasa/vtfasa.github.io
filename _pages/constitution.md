@@ -229,6 +229,7 @@ a. To take on the above responsibilities in the absence of the President.
 b. To serve, along with the President and External Vice President, as the official representative of the organization.  
 c. To serve as the Culture Night coordinator and create the Culture Night committees along with the one Culture Chair.  
 Culture Night Committees include:  
+
     * STAGE DESIGN  
     * SCRIPT  
     * PROMOTIONS  
@@ -239,6 +240,7 @@ Culture Night Committees include:
     * TECHNICAL PROGRAM  
     * HOSPITALITY (BRUNCH AND HOTEL RESERVATIONS)  
     * AFTER PARTY  
+    
 d. To make sure all standing and special committees are on task.   
 e. To update the President on the progress of the Cultural Night committee.  
 f. To update the Executive Council of their progress.  
