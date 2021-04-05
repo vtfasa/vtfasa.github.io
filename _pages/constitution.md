@@ -239,6 +239,7 @@ Culture Night Committees include:
 * TECHNICAL PROGRAM  
 * HOSPITALITY (BRUNCH AND HOTEL RESERVATIONS)  
 * AFTER PARTY  
+
 d. To make sure all standing and special committees are on task.   
 e. To update the President on the progress of the Cultural Night committee.  
 f. To update the Executive Council of their progress.  
@@ -296,6 +297,7 @@ c. To maintain and create a display about the organization during:
 - FILIPINO AMERICAN HISTORY MONTH  
 - THE ANNUAL CULTURAL NIGHT  
 - ANY EVENT NOT MENTIONED ABOVE WHERE A DISPLAY CASE OR BOARD IS NEEDED  
+
 d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
 e. To update the President of the progress of their assigned committees.
 
@@ -350,6 +352,7 @@ a. To organize and control fundraisers. They include (but are not limited to):
 - LUMPIA SALE  
 - INTERNATIONAL STREET FAIR  
 - CHANGE WARS  
+
 b. To report back, give earnings and any other financial dealings to the Treasurer.  
 c. To seek out new fundraising opportunities for the organization.  
 d. To preside over the @fasathrifts Instagram Account.  
@@ -372,6 +375,7 @@ c. To help develop and strengthen fellowship among members through various activ
 - CHRISTMAS GIFT EXCHANGE  
 - BIG/LITTLE SELFIE CHALLENGE  
 - SENIOR BANQUET  
+
 d. To reserve appropriate facilities and equipment in addition to providing adequate staffing for each events.  
 e. To update the overseeing Executive Board member of the committee’s progress.  
 f. To do reports and evaluations of all projects and activities.  
@@ -404,6 +408,7 @@ a. To organize already known major service events for the organization, which in
 - CHARITY BALL  
 - VALENTINE'S DAY FUNDRAISER  
 - THRIFT SHOP  
+
 b. To organize and find community service opportunities for the members of the club to sponsor or participate in.  
 c. To preside over the @fasathrifts Instagram Account.  
 d. To keep a record of events and hours in which the members of the organization worked.  
