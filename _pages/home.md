@@ -69,12 +69,12 @@ e_board1:
   - image_path: /assets/images/officers/Circles 2021-2022/Mary.png
     alt: "Mary Luyun"
     title: "Mary Luyun"
-    excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
-  # secretary
-  - image_path: /assets/images/officers/20-21/Nia.png
-    alt: "Nia Corpuz"
-    title: "Nia Corpuz"
-    excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
+    excerpt: "***External Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
+  # Internal Vice President
+  - image_path: /assets/images/officers/Circles 2021-2022/Nico.png
+    alt: "Nico Palanca"
+    title: "Nico Palanca"
+    excerpt: "***Internal Vice President***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
 
 # eboard part 2: treasurer and historians
 e_board2:
