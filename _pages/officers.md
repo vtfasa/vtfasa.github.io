@@ -15,14 +15,14 @@ header:
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
   - url: /officers/eboard/#JC
-    image_path: /assets/images/officers/20-21/JC.png
-    alt: "JC Cepillo, President"
+    image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
+    alt: "Betsa Oropeza, President"
   - url: /officers/eboard/#Joy
-    image_path: /assets/images/officers/20-21/Joy.png
-    alt: "Joy Villanueva, Vice President"
+    image_path: /assets/images/officers/Circles 2021-2022/Mary.png
+    alt: "Mary Luyun, External Vice President"
   - url: /officers/eboard/#Nia
-    image_path: /assets/images/officers/20-21/Nia.png
-    alt: "Nia Corpuz, Secretary"
+    image_path: /assets/images/officers/Circles 2021-2022/Nico.png
+    alt: "Nico Palanca, Internal Vice President"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/#David
