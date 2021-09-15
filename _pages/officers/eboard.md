@@ -32,36 +32,27 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
 
 ---
-<div id="Nia"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Nia.png" | absolute_url }}){: .align-left}
-## Nia Corpuz
-<a href="https://www.instagram.com/niacorpuz/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/nia_corpuz/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="mailto:njcorpuz@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
+<div id="Nico"></div>
+![image-left]({{ "/assets/images/officers/20-21/output/Nico.png" | absolute_url }}){: .align-left}
+## Nico Palanca
+<a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
 <h3 style="margin-top: 0"><em>Secretary</em> | Senior</h3>
-**Psychology & Criminology**
+**Interntional Relations**
 
->The smallest quarterback you'll ever see.
+>Mr. Worldwide.
 
 ### **Where are you from?**
 
->*Fairfax, VA*
+>*Makati, Philippines*
 
-### **What are some of your favorite hobbies?**
+### **Song recommendation**
 
-> *Working out, watching true crime shows and '80s & '90s movies, playing Animal Crossing, and online shopping!*
-
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
-
-> *"Kiss Me" by Sixpence None The Richer*
-
-### **Dream Job (and why)?**
-
-> *FBI behavioral analyst because I’d love to incorporate my psychology background into my passion for criminology and criminal investigation.*
+> *Every Summertime By NIKI*
 
 ### **What is your favorite FASA memory?**
 
-> *Leading FASA to victory at Winter Classic last year!*
+> *Tug of War at Fun Day ;)*
 
 ---
 <div id="David"></div>
