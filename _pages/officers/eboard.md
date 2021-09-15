@@ -23,32 +23,13 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
 
 ---
-<div id="Joy"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Joy.png" | absolute_url }}){: .align-left}
-## Joy Danielle Villanueva
+<div id="Mary"></div>
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Mary.png" | absolute_url }}){: .align-left}
+## Mary Luyun
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/joyueva/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/joyueva/" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="mailto:joydav20@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/mary_antonette_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="maryluyun@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
-**International Relations and History**
-
-> Hey, my name is Joy Danielle Villanueva. I'm a senior, double majoring in International Relations and History. I love horror movies, fashion, and Frank Ocean.
-
-### **Where are you from?**
-> *Virginia Beach, VA and Yokosuka, Japan*
-
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
-> *Pyramids - Frank Ocean, I Have Nothing - Whitney Houston, Remember the Time - Michael Jackson, Valerie - Amy Winehouse*
-
-### **Dream Job (and why)?**
-> *My dream job would be the secretary general of the United Nations because I have always felt like I had the duty to help other people and because I believe that I always try to do the right thing rather than always believing that I'm right.*
-
-### **What fictional character do you relate with the most and why?**
-> *The fictional character I relate to the most is Indiana Jones, I relate to him a lot because I love history and adventure, and because he always tries to do the right thing when helping those in need.*
-
-### **What is your favorite quarantine pastime?**
-> *My favorite quarantine pastime is watching movies. This summer I got into The Matrix, Little Women, and My Own Private Idaho.*
 
 ---
 <div id="Nia"></div>
