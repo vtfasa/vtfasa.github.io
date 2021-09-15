@@ -14,6 +14,7 @@ permalink: /officers/eboard/
 # (another empty line)
 # --- (this is a section break)
 ---
+
 <div id="Betsa"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Betsa.png" | absolute_url }}){: .align-left}
 
@@ -24,6 +25,7 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
 
 ---
+
 <div id="Mary"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Mary.png" | absolute_url }}){: .align-left}
 ## Mary Luyun
@@ -33,6 +35,7 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>External Vice President</em> | Junior</h3>
 
 ---
+
 <div id="Nico"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Nico.png" | absolute_url }}){: .align-left}
 
@@ -57,6 +60,7 @@ permalink: /officers/eboard/
 > *Tug of War at Fun Day ;)*
 
 ---
+
 <div id="Marciana"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Marciana.png" | absolute_url }}){: .align-left}
 ## Marciana Castillo
@@ -90,6 +94,7 @@ permalink: /officers/eboard/
 > *Hiking Mt. Tammany then swimming the Delaware River Gap from New Jersey to Pennsylvania and back (barely).*
 
 ---
+
 <div id="Matt"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Matt.png" | absolute_url }}){: .align-left}
 ## Matthew Miranda
