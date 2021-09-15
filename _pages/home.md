@@ -58,7 +58,7 @@ feature_row:
 eboard_header:
   - title: 'Executive Board 2021-22'
 
-# eboard part 1: president, vice, and secretary
+# eboard part 1: president, and vice presidents
 e_board1:
   # president
   - image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
