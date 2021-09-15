@@ -78,14 +78,14 @@ hospitality:
 # service
 service:
   - url: /officers/service/#Hannah
-    image_path: /assets/images/officers/20-21/Hannah.png
-    alt: "Hannah De Guzman"
+    image_path: /assets/images/officers/Circles 2021-2022/Tony.png
+    alt: "Tony Samson"
   - url: /officers/service/#Sean
-    image_path: /assets/images/officers/20-21/Sean.png
+    image_path: /assets/images/officers/Circles 2021-2022/Sean.png
     alt: "Sean Borromeo"
   - url: /officers/service/#Katelyn
-    image_path: /assets/images/officers/20-21/Katelyn.png
-    alt: "Katelyn Catabay"
+    image_path: /assets/images/officers/Circles 2021-2022/Kass.png
+    alt: "Kass Leoncio"
 # sports
 sports:
   - url: /officers/sports/#Shane
