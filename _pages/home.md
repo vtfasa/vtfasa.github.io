@@ -61,9 +61,9 @@ eboard_header:
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/officers/20-21/JC.png
-    alt: "JC Cepillo"
-    title: "JC Cepillo"
+  - image_path: /assets/images/officers/20-21/Betsa.png
+    alt: "Betsa Oropeza"
+    title: "Betsa Oropeza"
     excerpt: "***President***" # -"I have sensitive eyes so catch me wearing my sunglasses even when it’s cloudy"
   # vice president
   - image_path: /assets/images/officers/20-21/Joy.png
