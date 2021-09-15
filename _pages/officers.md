@@ -89,11 +89,11 @@ service:
 # sports
 sports:
   - url: /officers/sports/#Shane
-    image_path: /assets/images/officers/20-21/Shane.png
-    alt: "Shane Lee"
+    image_path: /assets/images/officers/Circles 2021-2022/Gamber.png
+    alt: "David Gamber"
   - url: /officers/sports/#Kyle
-    image_path: /assets/images/officers/20-21/Kyle.png
-    alt: "Kyle Brown"
+    image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
+    alt: "Tisha Cajes"
 # promo
 promo:
   - url: /officers/promo/#Rachel
