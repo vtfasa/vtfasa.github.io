@@ -26,14 +26,12 @@ e_board1:
 # eboard gallery 2 (treasurer and historians)
 e_board2:
   - url: /officers/eboard/#David
-    image_path: /assets/images/officers/20-21/David.png
-    alt: "David Dong, Treasurer"
+    image_path: /assets/images/officers/Circles 2021-2022/Marciana.png
+    alt: "Marciana Castillo, Secretary"
   - url: /officers/eboard/#Josh
-    image_path: /assets/images/officers/20-21/Josh.png
-    alt: "Josh Protacio, Historian"
-  - url: /officers/eboard/#Andrew
-    image_path: /assets/images/officers/20-21/Andrew.png
-    alt: "Andrew Leavitt, Historian"
+    image_path: /assets/images/officers/Circles 2021-2022/Matt.png
+    alt: "Matthew Miranda, Treasurer"
+
 # d7
 d7:
   - url: /officers/d7/#Marciana
