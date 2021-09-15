@@ -11,6 +11,6 @@ permalink: /events/
 ## 2020-2021 Events
 
 ### First General Body Meeting
-*September 14, 2020 |
+*September 16, 2020 |
 7PM - 9PM |
-Zoom*
+Surge 104b
