@@ -67,14 +67,14 @@ fundraising:
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Diego
-    image_path: /assets/images/officers/20-21/Diego.png
-    alt: "Diego Ignacio"
+    image_path: /assets/images/officers/Circles 2021-2022/Pat.png
+    alt: "Patrick Cajayon"
   - url: /officers/hospitality/#Betsa
-    image_path: /assets/images/officers/20-21/Betsa.png
-    alt: "Betsabeth Oropeza"
+    image_path: /assets/images/officers/Circles 2021-2022/Katelyn.png
+    alt: "Katelyn Catabay"
   - url: /officers/hospitality/#Sam
-    image_path: /assets/images/officers/20-21/Sam.png
-    alt: "Samantha San"
+    image_path: /assets/images/officers/Circles 2021-2022/Mary.png
+    alt: "Mary Luyun"
 # service
 service:
   - url: /officers/service/#Hannah
