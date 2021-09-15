@@ -15,7 +15,7 @@ layout: splash
 permalink: /
 
 # controls header
-header: 
+header:
   image: /assets/images/everybody2020.jpg
   caption:
 
@@ -25,14 +25,14 @@ intro:
 
 
 
-blm_header: 
+blm_header:
   - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
 
 blm_statement:
   - image_path: /assets/images/misc/blmstatement1.png
   - image_path: /assets/images/misc/blmstatement2.png
   - excerpt: "Click here to visit our Linktree page and learn about the BLM Movement and take action"
-    url: "https://linktr.ee/FASAatVT" 
+    url: "https://linktr.ee/FASAatVT"
 
 feature_header:
   - title: "Explore More:"
@@ -56,44 +56,44 @@ feature_row:
 
 # eboard header
 eboard_header:
-  - title: 'Executive Board 2020-21'
+  - title: 'Executive Board 2021-22'
 
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/officers/20-21/JC.png
+  - image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
     alt: "JC Cepillo"
     title: "JC Cepillo"
     excerpt: "***President***" # -"I have sensitive eyes so catch me wearing my sunglasses even when it’s cloudy"
-  # vice president
-  - image_path: /assets/images/officers/20-21/Joy.png
+  # External vice president
+  - image_path: /assets/images/officers/Circles 2021-2022/Mary.png
     alt: "Joy Danielle Villanueva"
     title: "Joy Danielle Villanueva"
     excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
+  # Internal vice president
+    - image_path: /assets/images/officers/Circles 2021-2022/Nico.png
+      alt: "Joy Danielle Villanueva"
+      title: "Joy Danielle Villanueva"
+      excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
   # secretary
-  - image_path: /assets/images/officers/20-21/Nia.png
+  - image_path: /assets/images/officers/20-21/Marciana.png
     alt: "Nia Corpuz"
     title: "Nia Corpuz"
     excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
 
 # eboard part 2: treasurer and historians
 e_board2:
-  # treasurer
-  - image_path: /assets/images/officers/20-21/David.png
+# secretary
+- image_path: /assets/images/officers/20-21/Marciana.png
+  alt: "Nia Corpuz"
+  title: "Nia Corpuz"
+  excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
+# treasurer
+  - image_path: /assets/images/officers/20-21/Matt.png
     alt: "David Dong"
     title: "David Dong"
     excerpt: "***Treasurer***" # - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
-  # historian 1
-  - image_path: /assets/images/officers/20-21/Josh.png
-    alt: "Josh Protacio"
-    title: "Josh Protacio"
-    excerpt: "***Historian***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
-  # historian 2
-  - image_path: /assets/images/officers/20-21/Andrew.png
-    alt: "Andrew Leavitt"
-    title: "Andrew Leavitt"
-    excerpt: "***Historian***" # - current mood: hungry"
-    
+
 ---
 
 {% include feature_row id="intro" type="center" %}
