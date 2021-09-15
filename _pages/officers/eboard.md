@@ -37,7 +37,7 @@ permalink: /officers/eboard/
 ## Nico Palanca
 <a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
-<h3 style="margin-top: 0"><em>Secretary</em> | Senior</h3>
+<h3 style="margin-top: 0"><em>Interal Vice President</em> | Junior</h3>
 **Interntional Relations**
 
 >Mr. Worldwide.
