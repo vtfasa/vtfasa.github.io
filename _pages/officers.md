@@ -62,7 +62,7 @@ fundraising:
     image_path: /assets/images/officers/Circles 2021-2022/Elaina.png
     alt: "Elaina Sprague"
   - url: /officers/fundraising/#Kelly
-    image_path: /assets/images/officers/Circles 2021-2022/Kalista.png
+    image_path: /assets/images/officers/Circles 2021-2022/Kalitsa.png
     alt: "Kalista Fon"
 # hospitality
 hospitality:
