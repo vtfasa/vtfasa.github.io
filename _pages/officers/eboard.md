@@ -55,15 +55,15 @@ permalink: /officers/eboard/
 > *Tug of War at Fun Day ;)*
 
 ---
-<div id="David"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/David.png" | absolute_url }}){: .align-left}
-## David Dong
+<div id="Marciana"></div>
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Marciana.png" | absolute_url }}){: .align-left}
+## Marciana Castillo
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/d_dong227/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:ddong227@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Treasurer</em> | Junior</h3>
+<a href="https://www.instagram.com/mg.castle/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:marcianacastillo@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Secretary</em> | Junior</h3>
 <div style="margin-top: 2em"></div>
-**BIT: CMA;  MGT: MCA**
+**HNFE: Pre Dental**
 
 > Yerrrrrr!!! My name is David Dong and I'm your Treasurer this year.  I'm a Junior double majoring in BIT and Management.  I'm also a 3rd degree black belt in United States Black Cat Kenpo Karate .................So make sure to pay your dues!!!  
 
