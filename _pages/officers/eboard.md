@@ -18,8 +18,8 @@ permalink: /officers/eboard/
 ![image-left]({{ "/assets/images/officers/Circles/output/Betsa.png" | absolute_url }}){: .align-left}
 ## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
 
 ---
