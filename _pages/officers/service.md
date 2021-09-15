@@ -12,35 +12,26 @@ permalink: /officers/service/
 # (another empty line)
 # --- (this is a section break)
 ---
-<div id="Hannah"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Hannah.png" | absolute_url }}){: .align-left}
-## Hannah De Guzman
+<div id="Tony"></div>
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Tony.png" | absolute_url }}){: .align-left}
+## Tony Samson
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/haaannie/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:hdeguzman3@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/tsamson172/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:Tonys02@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Political Science**  
+**Biology**  
 
-> Hi FASA! I'm Hannah and I am 1/3rd of your Service chairs for this year. I'm one of the biggest fangirls you will ever meet and yes I know I look taller in pictures. 
 
 ### **Where are you from?**
-> Springfield, VA
+> Richmond, VA
 
-### ** Favorite song? (If you have no favorite song, put some of your favorite artists)**
+### **Song Recommendation**
 
-> *Anything by One Direction, Harry Styles, or Niall Horan*
+> *Vi Yeu Cu Dam Dau - MIN*  
 
-### **What is your dream job and why?**
+### **Favorite FASA Memory?**
 
-> *My dream job would either be a Supreme Court Justice because I believe that position has the potential to make the most change that this country needs or I would love to work as a fashion stylist because I've always had a passion for fashion and trends.*
-
-### **What is your biggest pet peeve and why?**
-
-> *I cannot stand slow walkers or big groups who take up the WHOLE walkway. It drives me crazy! It doesn't hurt to be courteous and not take up the whole path and slow walkers are like slow drivers who drive under the speed limit to me.*
-
-### **What is your life motto?**
-
-> *Treat People with Kindness*
+> *Meeting my fellow freshies in person at Fun Day for the first time.*  
 
 ---
 <div id="Katelyn"></div>
@@ -52,7 +43,7 @@ permalink: /officers/service/
 <h3 style="margin-top: 0">Sophomore</h3>
 **Biological Sciences**
 
-> I'll be at your service 6 feet apart! 
+> I'll be at your service 6 feet apart!
 
 ### **Where are you from?**
 > *Virginia Beach, VA*
