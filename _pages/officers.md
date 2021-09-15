@@ -59,11 +59,11 @@ events:
 # fundraising
 fundraising:
   - url: /officers/fundraising/#Jasmin
-    image_path: /assets/images/officers/20-21/Jasmin.png
-    alt: "Jasmin Atienza"
+    image_path: /assets/images/officers/Circles 2021-2022/Elaina.png
+    alt: "Elaina Sprague"
   - url: /officers/fundraising/#Kelly
-    image_path: /assets/images/officers/20-21/Kelly.png
-    alt: "Kelly Bui"
+    image_path: /assets/images/officers/Circles 2021-2022/Kalista.png
+    alt: "Kalista Fon"
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Diego
