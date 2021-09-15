@@ -33,7 +33,7 @@ permalink: /officers/eboard/
 
 ---
 <div id="Nico"></div>
-![image-left]({{ "/assets/images/officers/20-21/output/Nico.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Nico.png" | absolute_url }}){: .align-left}
 ## Nico Palanca
 <a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
