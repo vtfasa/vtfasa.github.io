@@ -75,24 +75,19 @@ e_board1:
       alt: "Joy Danielle Villanueva"
       title: "Joy Danielle Villanueva"
       excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
-  # secretary
-  - image_path: /assets/images/officers/20-21/Marciana.png
-    alt: "Nia Corpuz"
-    title: "Nia Corpuz"
-    excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
 
 # eboard part 2: treasurer and historians
 e_board2:
-# secretary
+ # secretary
 - image_path: /assets/images/officers/20-21/Marciana.png
   alt: "Nia Corpuz"
   title: "Nia Corpuz"
   excerpt: "***Secretary***" # - Mabuhay! My name is Christa Ventura, and I am the Secretary. I hope my passion for FASA is translated in the work that I do! I cannot wait to see what this year brings!"
-# treasurer
-  - image_path: /assets/images/officers/20-21/Matt.png
-    alt: "David Dong"
-    title: "David Dong"
-    excerpt: "***Treasurer***" # - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
+ # treasurer
+ - image_path: /assets/images/officers/20-21/Matt.png
+   alt: "David Dong"
+   title: "David Dong"
+   excerpt: "***Treasurer***" # - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
 
 ---
 
