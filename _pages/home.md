@@ -15,7 +15,7 @@ layout: splash
 permalink: /
 
 # controls header
-header: 
+header:
   image: /assets/images/everybody2020.jpg
   caption:
 
@@ -25,14 +25,14 @@ intro:
 
 
 
-blm_header: 
+blm_header:
   - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
 
 blm_statement:
   - image_path: /assets/images/misc/blmstatement1.png
   - image_path: /assets/images/misc/blmstatement2.png
   - excerpt: "Click here to visit our Linktree page and learn about the BLM Movement and take action"
-    url: "https://linktr.ee/FASAatVT" 
+    url: "https://linktr.ee/FASAatVT"
 
 feature_header:
   - title: "Explore More:"
@@ -93,7 +93,7 @@ e_board2:
     alt: "Andrew Leavitt"
     title: "Andrew Leavitt"
     excerpt: "***Historian***" # - current mood: hungry"
-    
+
 ---
 
 {% include feature_row id="intro" type="center" %}
