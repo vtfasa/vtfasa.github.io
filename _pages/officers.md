@@ -97,11 +97,11 @@ sports:
 # promo
 promo:
   - url: /officers/promo/#Rachel
-    image_path: /assets/images/officers/20-21/Rachel.png
-    alt: "Rachel Joaquin"
+    image_path: /assets/images/officers/Circles 2021-2022/Abby.png
+    alt: "Abigail Lim"
   - url: /officers/promo/#Breanne
-    image_path: /assets/images/officers/20-21/Breanne.png
-    alt: "Breanne De Vera"
+    image_path: /assets/images/officers/Circles 2021-2022/Elyisa.png
+    alt: "Elyisa Calderon"
 # web
 web:
   - url: /officers/web/#Brian
