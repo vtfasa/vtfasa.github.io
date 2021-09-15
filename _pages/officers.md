@@ -4,7 +4,7 @@
 # The controls/settings for the galleries of the committees
 # are all in this `settings` block...
 
-title: "Officers"
+title: "The Officer Board"
 permalink: /officers/
 layout: single
 
