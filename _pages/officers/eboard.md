@@ -29,7 +29,7 @@ permalink: /officers/eboard/
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/mary_antonette_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="maryluyun@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Vice President</em> | Senior</h3>
+<h3 style="margin-top: 0"><em>External Vice President</em> | Junior</h3>
 
 ---
 <div id="Nico"></div>
