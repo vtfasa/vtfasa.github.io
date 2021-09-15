@@ -35,16 +35,16 @@ e_board2:
 # d7
 d7:
   - url: /officers/d7/#Marciana
-    image_path: /assets/images/officers/20-21/Marciana.png
-    alt: "Marciana Castillo"
+    image_path: /assets/images/officers/Circles 2021-2022/jasmin.png
+    alt: "Jasmin Atienza"
   - url: /officers/d7/#Cayla
-    image_path: /assets/images/officers/20-21/Cayla.png
-    alt: "Cayla Corbray"
+    image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
+    alt: "Tisha Cajes"
 # culture
 culture:
   - url: /officers/culture/#Nico
-    image_path: /assets/images/officers/20-21/Nico.png
-    alt: "Nico Palanca"
+    image_path: /assets/images/officers/Circles 2021-2022/Alexa.png
+    alt: "Alexa Marticio"
 # events
 events:
   - url: /officers/events/#Alejandro
