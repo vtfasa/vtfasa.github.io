@@ -42,7 +42,7 @@ d7:
     alt: "Tisha Cajes"
 # culture
 culture:
-  - url: /officers/culture/#Nico
+  - url: /officers/culture/#Alexa
     image_path: /assets/images/officers/Circles 2021-2022/output/Alexa.png
     alt: "Alexa Marticio"
 # events
