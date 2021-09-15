@@ -35,23 +35,24 @@ permalink: /officers/eboard/
 ---
 <div id="Nico"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Nico.png" | absolute_url }}){: .align-left}
-## Nico Palanca
-<a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
-<h3 style="margin-top: 0"><em>Interal Vice President</em> | Junior</h3>
-**Interntional Relations**
+
+## Nico Palanca  
+<a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>  
+<a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>  
+<h3 style="margin-top: 0"><em>Interal Vice President</em> | Junior</h3>  
+**Interntional Relations**  
 
 >Mr. Worldwide.
 
-### **Where are you from?**
+### **Where are you from?**  
 
 >*Makati, Philippines*
 
-### **Song recommendation**
+### **Song recommendation**  
 
 > *Every Summertime By NIKI*
 
-### **What is your favorite FASA memory?**
+### **What is your favorite FASA memory?**  
 
 > *Tug of War at Fun Day ;)*
 
