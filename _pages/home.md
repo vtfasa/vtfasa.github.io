@@ -79,20 +79,16 @@ e_board1:
 # eboard part 2: treasurer and historians
 e_board2:
   # treasurer
-  - image_path: /assets/images/officers/20-21/David.png
-    alt: "David Dong"
-    title: "David Dong"
+  - image_path: /assets/images/officers/Circles 2021-2022/Matt.png
+    alt: "Matthew Miranda"
+    title: "Matthew Miranda"
     excerpt: "***Treasurer***" # - Hey everyone my name is David Brighton and I will be your Treasurer this year!!! I look forward to meeting you all and having a great year!"
-  # historian 1
-  - image_path: /assets/images/officers/20-21/Josh.png
-    alt: "Josh Protacio"
-    title: "Josh Protacio"
-    excerpt: "***Historian***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
-  # historian 2
-  - image_path: /assets/images/officers/20-21/Andrew.png
-    alt: "Andrew Leavitt"
-    title: "Andrew Leavitt"
-    excerpt: "***Historian***" # - current mood: hungry"
+  # Secretary
+  - image_path: /assets/images/officers/Circles 2021-2022/Marciana.png
+    alt: "Marciana Castillo"
+    title: "Marciana Castillo"
+    excerpt: "***Secretary***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
+
 
 ---
 
