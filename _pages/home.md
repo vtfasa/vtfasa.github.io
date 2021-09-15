@@ -61,14 +61,14 @@ eboard_header:
 # eboard part 1: president, vice, and secretary
 e_board1:
   # president
-  - image_path: /assets/images/officers/20-21/Betsa.png
+  - image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
     alt: "Betsa Oropeza"
     title: "Betsa Oropeza"
     excerpt: "***President***" # -"I have sensitive eyes so catch me wearing my sunglasses even when it’s cloudy"
-  # vice president
-  - image_path: /assets/images/officers/20-21/Joy.png
-    alt: "Joy Danielle Villanueva"
-    title: "Joy Danielle Villanueva"
+  # External vice president
+  - image_path: /assets/images/officers/Circles 2021-2022/Mary.png
+    alt: "Mary Luyun"
+    title: "Mary Luyun"
     excerpt: "***Vice President***" # - I quote FRIENDS and and Harry Potter a lot"
   # secretary
   - image_path: /assets/images/officers/20-21/Nia.png
