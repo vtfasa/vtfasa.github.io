@@ -34,35 +34,27 @@ permalink: /officers/service/
 > *Meeting my fellow freshies in person at Fun Day for the first time.*  
 
 ---
-<div id="Katelyn"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Katelyn.png" | absolute_url }}){: .align-left}
-## Katelyn Catabay
+<div id="Kass"></div>
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Kass.png" | absolute_url }}){: .align-left}
+## Kassandra Leoncio
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/k.r.c/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:katelynrc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/kassandrabillie_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:kassandrab07@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
-**Biological Sciences**
+**HNFE | Minor in Disabilities Studies**
 
-> I'll be at your service 6 feet apart!
+>
 
 ### **Where are you from?**
-> *Virginia Beach, VA*
+> *Lorton, VA (NOVA!)*
 
-### **What are some of your favorite hobbies?**
+### **Song Recommendation**
 
-> *Playing Minecraft, spending money, virtual interior designing, watching TikToks and documentaries*
+> *Habits (Stay High) Hippie Sabotage Remix - Tove Lo*
 
-### **If you could live anywhere in the world where would it be and why?**
+### **Favorite FASA Memory?**
 
-> *Canada because health care is free and I value my health or Japan because of their food/culture <3*
-
-### **What would your rapper name be?**
-
-> *Lil Calaman$i*
-
-### **If you could bring back one Disney Channel or Nickelodeon Television Show, what would it be and why?**
-
-> *H2O because it's one of my all time favorite shows and I love mermaids*
+> *Culture Show! It allowed us to get closer with other people :D*
 
 
 ---
