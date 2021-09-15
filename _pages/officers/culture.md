@@ -14,7 +14,7 @@ permalink: /officers/culture/
 ---
 <div id="Nico"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/Alexa.png" | absolute_url }}){: .align-left}
-## Nico Palanca
+## Alexa Marticio
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:nicolaspalanca@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
