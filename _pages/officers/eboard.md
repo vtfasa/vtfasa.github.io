@@ -88,13 +88,13 @@ permalink: /officers/eboard/
 > *Hiking Mt. Tammany then swimming the Delaware River Gap from New Jersey to Pennsylvania and back (barely).*
 
 ---
-<div id="Josh"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Josh.png" | absolute_url }}){: .align-left}
-## Josh Protacio
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/joshmprotacio/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<div id="Matt"></div>
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Matt.png" | absolute_url }}){: .align-left}
+## Matthew Miranda
+<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/maphew.miranda/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
-<a href="mailto:joshp28@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Historian</em> | Junior</h3>
+<a href="mailto:mmira02@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
 **Computer Science**
 
 > Yo, my name is Josh and I'm one of your historians this year. hmu for some photoshoots :)
@@ -119,31 +119,3 @@ permalink: /officers/eboard/
 > *Valorant with the bois*
 
 ---
-<div id="Andrew"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Andrew.png" | absolute_url }}){: .align-left}
-## Andrew Leavitt
-<p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/leavitt.jpeg/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:ajleavitt@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0"><em>Historian</em> | Sophomore</h3>
-**Computer Science**
-
-> My camera might snap but my phone doesn't have yours
-
-### **Where are you from?**
-> Annandale, VA
-
-### **What are some of your favorite hobbies?**
-
-> *Basketball, working out, playing bass, video games, photography*
-
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
-
-> *Get You - Daniel Caesar or off da zoinkys by JID*
-
-### **Dream Job (and why)?**
-
-> *Software Engineer at Open AI, I like artificial intelligence and they pay well.*
-
-### **What is your favorite food?**
-
-> *Key Lime Pie*
