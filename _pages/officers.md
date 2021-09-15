@@ -48,13 +48,13 @@ culture:
 # events
 events:
   - url: /officers/events/#Alejandro
-    image_path: /assets/images/officers/Circles 2021-2022/output/Alejandro.png
+    image_path: /assets/images/officers/Circles 2021-2022/Alejandro.png
     alt: "Alejandro Romulo"
   - url: /officers/events/#Mary
-    image_path: /assets/images/officers/Circles 2021-2022/output/Isabel.png
+    image_path: /assets/images/officers/Circles 2021-2022/Isabel.png
     alt: "Isabel Jordan"
   - url: /officers/events/#Mary
-    image_path: /assets/images/officers/Circles 2021-2022/output/Cayla.png
+    image_path: /assets/images/officers/Circles 2021-2022/Cayla.png
     alt: "Cayla Corbay"
 # fundraising
 fundraising:
