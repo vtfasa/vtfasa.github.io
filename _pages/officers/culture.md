@@ -12,7 +12,7 @@ permalink: /officers/culture/
 # (another empty line)
 # --- (this is a section break)
 ---
-<div id="Nico"></div>
+<div id="Alexa"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Alexa.png" | absolute_url }}){: .align-left}
 ## Alexa Marticio
 <p style="margin-bottom: 0.45em; padding: 0">
