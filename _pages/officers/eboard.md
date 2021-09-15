@@ -15,8 +15,8 @@ permalink: /officers/eboard/
 # --- (this is a section break)
 ---
 <div id="Betsa"></div>
-![image-left]({{ "/assets/images/officers/Circles/output/Betsa.png" | absolute_url }}){: .align-left}
-## JC Cepillo
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Betsa.png" | absolute_url }}){: .align-left}
+## Betsa Oropeza
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
