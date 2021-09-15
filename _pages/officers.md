@@ -43,7 +43,7 @@ d7:
 # culture
 culture:
   - url: /officers/culture/#Nico
-    image_path: /assets/images/officers/Circles 2021-2022/Alexa.png
+    image_path: /assets/images/officers/Circles 2021-2022/output/Alexa.png
     alt: "Alexa Marticio"
 # events
 events:
