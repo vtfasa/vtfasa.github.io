@@ -14,35 +14,13 @@ permalink: /officers/eboard/
 # (another empty line)
 # --- (this is a section break)
 ---
-<div id="JC"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/JC.png" | absolute_url }}){: .align-left}
+<div id="Betsa"></div>
+![image-left]({{ "/assets/images/officers/Circles/output/Betsa.png" | absolute_url }}){: .align-left}
 ## JC Cepillo
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/thatfunnyasianguy/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:jeyeinc@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
-**Industrial and Systems Engineering**  
-
-> Hey bbs, my name is JC! I'm super into music, food, learning others stories, and I'm known for my thicc, juicy, voluptuous, show stopping.... Personality 😉
-
-### **Where are you from?**
-> *Manassas, VA*
-
-### **What are some of your favorite hobbies?**
-
-> *I love running, lifting, cooking hella food, and jamming out to some vibes hehe*
-
-### **What fictional character do you relate with the most and why?**
-
-> *I'm a lot like Bolin from The Legend of Korra LOL**
-
-### **What is your biggest pet peeve and why?**
-
-> *My biggest pet peeve is when people are quick to judge others without getting to know them, life is too short to not support one another!*
-
-### **Favorite TV show(s)?**
-
-> *Grey's Anatomy and Avatar the Last Airbender :D*
 
 ---
 <div id="Joy"></div>
