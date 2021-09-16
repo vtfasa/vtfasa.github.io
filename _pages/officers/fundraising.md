@@ -15,6 +15,7 @@ permalink: /officers/fundraising/
 <div id="Elaina"></div>
 ![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Elaina.png" | absolute_url }}){: .align-left}
 ## Elaina Spraque
+<p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/laina560/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:laina560@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
