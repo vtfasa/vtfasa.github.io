@@ -13,7 +13,7 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 <div id="Elaina"></div>
-![image-left]({{ "/assets/images/officers/circles 2021-2022/output/elaina.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/elaina.png" | absolute_url }}){: .align-left}
 ## Elaina Spraque
 <a href="https://www.instagram.com/laina560/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:laina560@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
