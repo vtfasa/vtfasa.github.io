@@ -43,7 +43,7 @@ permalink: /officers/service/
 <h3 style="margin-top: 0">Sophomore</h3>
 **HNFE | Minor in Disabilities Studies**
 
->
+>Kass Kass Kass Kass Kass Kass Kass Kass Kass Kass Kass Kass
 
 ### **Where are you from?**
 > *Lorton, VA (NOVA!)*
