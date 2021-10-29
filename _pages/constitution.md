@@ -87,7 +87,8 @@ a. There shall be the following standing committees:
  * Fundraising Committee  
  * Hospitality Committee  
  * Promotions Committee   
- * Service Committee    
+ * Service Committee
+ * Sports Committee    
 
 b. Special committees may be formed for any special events and tasks that the organization will be undertaking.
 
@@ -275,7 +276,7 @@ i. To prepare, submit, and present an annual budget request to the appropriate f
 j. To hold a cash manager position with Lane Stadium during Virginia Tech Football Concessions.  
 k. To update the President on the progress of their assigned committees.  
 
-  
+
 
 ## ARTICLE XI *(THE EXECUTIVE COUNCIL AND STANDING COMMITTEES)*
 
@@ -438,5 +439,3 @@ k. To inform the Promotions Chairperson if publicity is needed.
 l. To preside over the @fitxfasa Instagram account.
 m. The Sports Chair and the D7 Chair will work as co-chairs as the D7 Committee.  
     NOTE: The Sports Chair will select two non-officer members of FASA to serve as the Offense and Defense Captains for Winter Classic and VT Intramural Football.
-
-  
