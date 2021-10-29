@@ -13,7 +13,7 @@ permalink: /officers/culture/
 # --- (this is a section break)
 ---
 <div id="Alexa"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Alexa.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Circles 2021-2022/Small officer photos/Alexa.png" | absolute_url }}){: .align-left}
 ## Alexa Marticio
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/alexa.marticio/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
