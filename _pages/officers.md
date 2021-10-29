@@ -14,30 +14,30 @@ header:
 
 # eboard gallery 1 (pres, vp, and secretary)
 e_board1:
-  - url: /officers/eboard/#JC
+  - url: /officers/eboard/#Betsa
     image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
     alt: "Betsa Oropeza, President"
-  - url: /officers/eboard/#Joy
+  - url: /officers/eboard/#Mary
     image_path: /assets/images/officers/Circles 2021-2022/Mary.png
     alt: "Mary Luyun, External Vice President"
-  - url: /officers/eboard/#Nia
+  - url: /officers/eboard/#Nico
     image_path: /assets/images/officers/Circles 2021-2022/Nico.png
     alt: "Nico Palanca, Internal Vice President"
 # eboard gallery 2 (treasurer and historians)
 e_board2:
-  - url: /officers/eboard/#David
+  - url: /officers/eboard/#Marciana
     image_path: /assets/images/officers/Circles 2021-2022/Marciana.png
     alt: "Marciana Castillo, Secretary"
-  - url: /officers/eboard/#Josh
+  - url: /officers/eboard/#Matthew
     image_path: /assets/images/officers/Circles 2021-2022/Matt.png
     alt: "Matthew Miranda, Treasurer"
 
 # d7
 d7:
-  - url: /officers/d7/#Marciana
+  - url: /officers/d7/#Jasmin
     image_path: /assets/images/officers/Circles 2021-2022/jasmin.png
     alt: "Jasmin Atienza"
-  - url: /officers/d7/#Cayla
+  - url: /officers/d7/#Tisha
     image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
     alt: "Tisha Cajes"
 # culture
@@ -50,59 +50,63 @@ events:
   - url: /officers/events/#Alejandro
     image_path: /assets/images/officers/Circles 2021-2022/Alejandro.png
     alt: "Alejandro Romulo"
-  - url: /officers/events/#Mary
+  - url: /officers/events/#Isabel
     image_path: /assets/images/officers/Circles 2021-2022/Isabel.png
     alt: "Isabel Jordan"
-  - url: /officers/events/#Mary
+  - url: /officers/events/#Cayla
     image_path: /assets/images/officers/Circles 2021-2022/Cayla.png
     alt: "Cayla Corbay"
 # fundraising
 fundraising:
-  - url: /officers/fundraising/#Jasmin
+  - url: /officers/fundraising/#Elaina
     image_path: /assets/images/officers/Circles 2021-2022/Elaina.png
     alt: "Elaina Sprague"
-  - url: /officers/fundraising/#Kelly
+  - url: /officers/fundraising/#Kalista
     image_path: /assets/images/officers/Circles 2021-2022/Kalitsa.png
     alt: "Kalista Fon"
 # hospitality
 hospitality:
-  - url: /officers/hospitality/#Diego
+  - url: /officers/hospitality/#Patrick
     image_path: /assets/images/officers/Circles 2021-2022/Pat.png
     alt: "Patrick Cajayon"
-  - url: /officers/hospitality/#Betsa
+  - url: /officers/hospitality/#Katelyn
     image_path: /assets/images/officers/Circles 2021-2022/Katelyn.png
     alt: "Katelyn Catabay"
-  - url: /officers/hospitality/#Sam
+  - url: /officers/hospitality/#Mary
     image_path: /assets/images/officers/Circles 2021-2022/Mary.png
     alt: "Mary Luyun"
 # service
 service:
-  - url: /officers/service/#Hannah
+  - url: /officers/service/#Tony
     image_path: /assets/images/officers/Circles 2021-2022/Tony.png
     alt: "Tony Samson"
   - url: /officers/service/#Sean
     image_path: /assets/images/officers/Circles 2021-2022/Sean.png
     alt: "Sean Borromeo"
-  - url: /officers/service/#Katelyn
+  - url: /officers/service/#Kassandra
     image_path: /assets/images/officers/Circles 2021-2022/Kass.png
     alt: "Kass Leoncio"
 # sports
 sports:
-  - url: /officers/sports/#Shane
+  - url: /officers/sports/#Gamber
     image_path: /assets/images/officers/Circles 2021-2022/Gamber.png
     alt: "David Gamber"
-  - url: /officers/sports/#Kyle
+  - url: /officers/sports/#Tisha
     image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
     alt: "Tisha Cajes"
 # promo
 promo:
-  - url: /officers/promo/#Rachel
+  - url: /officers/promo/#Abigail
     image_path: /assets/images/officers/Circles 2021-2022/Abby.png
     alt: "Abigail Lim"
-  - url: /officers/promo/#Breanne
+  - url: /officers/promo/#Elysia
     image_path: /assets/images/officers/Circles 2021-2022/Elyisa.png
-    alt: "Elyisa Calderon"
-
+    alt: "Elysia Calderon"
+# Web
+Historian:
+  - url: /officers/Historian/#Natalie
+    image_path: /assets/images/officers/Circles 2021-2022/Natalie.png
+    alt: "Natalie Nguyen"
 ---
 
 <!--
@@ -152,6 +156,6 @@ promo:
 
 {% include gallery id="promo" type="center" %}
 
-## Web
+## Historian
 
 {% include gallery id="web" type="center" %}
