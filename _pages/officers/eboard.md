@@ -16,7 +16,7 @@ permalink: /officers/eboard/
 ---
 
 <div id="Betsa"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Betsa.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Betsa.png" | absolute_url }}){: .align-left}
 
 ## Betsa Oropeza  
 <p style="margin-bottom: 0.45em; padding: 0">  
@@ -27,7 +27,7 @@ permalink: /officers/eboard/
 ---
 
 <div id="Mary"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Mary.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Mary.png" | absolute_url }}){: .align-left}
 ## Mary Luyun
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/mary_antonette_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -37,7 +37,7 @@ permalink: /officers/eboard/
 ---
 
 <div id="Nico"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Nico.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Nico.png" | absolute_url }}){: .align-left}
 
 ## Nico Palanca  
 <a href="https://www.instagram.com/nicopalanca/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>  
@@ -62,7 +62,7 @@ permalink: /officers/eboard/
 ---
 
 <div id="Marciana"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Marciana.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Marciana.png" | absolute_url }}){: .align-left}
 ## Marciana Castillo
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/mg.castle/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
@@ -96,7 +96,7 @@ permalink: /officers/eboard/
 ---
 
 <div id="Matt"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Matt.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Matt.png" | absolute_url }}){: .align-left}
 ## Matthew Miranda
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/maphew.miranda/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
