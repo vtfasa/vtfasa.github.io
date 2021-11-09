@@ -71,27 +71,23 @@ permalink: /officers/eboard/
 <div style="margin-top: 2em"></div>
 **HNFE: Pre Dental**
 
-> Yerrrrrr!!! My name is David Dong and I'm your Treasurer this year.  I'm a Junior double majoring in BIT and Management.  I'm also a 3rd degree black belt in United States Black Cat Kenpo Karate .................So make sure to pay your dues!!!  
 
 ### **Where are you from?**
 
->*Howell, NJ*
+>*Norfolk, VA*
 
-### **What are some of your favorite hobbies?**
+### **What is your favorite FASA memory?**
 
-> *Karate, Basketball, Tennis, Fishing, NBA 2k, Guitar Hero (any). watching movies, BOOLIN with the BOYZzz*
+> *Seeing my vision for traditional waltz for last year’s culture show come to life *
 
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+### **Favorite song ATM?**
 
-> *Lil Wayne, Lil Baby, Snoop Dogg, The Notorious B.I.G.*
+> *Maniac by Conan Gray*
 
-### **What is your life motto?**
+### **Go to Boba order?**
 
-> *"To hell with circumstances; I create opportunities." – Bruce Lee*
+> *MATCHA*
 
-### **What is a crazy summer adventure you had?**
-
-> *Hiking Mt. Tammany then swimming the Delaware River Gap from New Jersey to Pennsylvania and back (barely).*
 
 ---
 
