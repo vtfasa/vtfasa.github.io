@@ -45,19 +45,21 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>Interal Vice President</em> | Junior</h3>  
 **Interntional Relations**  
 
->Mr. Worldwide.
+### **Where are you from?**
 
-### **Where are you from?**  
+>*Manila, Philippines*
 
->*Makati, Philippines*
+### **What is your favorite FASA memory?**
 
-### **Song recommendation**  
+> *Tug of War at Fun Day or Helping Joy create the 33rd Culture Show*
 
-> *Every Summertime By NIKI*
+### **Favorite song ATM?**
 
-### **What is your favorite FASA memory?**  
+> *Kiss (Never Let Me Go) by Thyro and Yumi*
 
-> *Tug of War at Fun Day ;)*
+### **Go to Boba order?**
+
+> *Taroooo, 100% sugar*
 
 ---
 
