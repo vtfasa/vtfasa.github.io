@@ -80,7 +80,7 @@ permalink: /officers/eboard/
 
 ### **What is your favorite FASA memory?**
 
-> *Seeing my vision for traditional waltz for last year’s culture show come to life *
+> *Seeing my vision for traditional waltz for last year’s culture show come to life*
 
 ### **Favorite song ATM?**
 
