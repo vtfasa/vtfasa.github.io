@@ -23,6 +23,23 @@ permalink: /officers/eboard/
 <a href="https://www.instagram.com/betsabeeeth/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:betsabethoropeza@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>President</em> | Senior</h3>
+**international relations; minors: french/ diversity & community engagement**
+
+### **Where are you from?**
+
+>*Sterling, VA*
+
+### **What is your favorite FASA memory?**
+
+> *bonfire 2019!!! eating smores and singing by the fire <3 *
+
+### **Favorite song ATM?**
+
+> *malibu nights by LANY*
+
+### **Go to Boba order?**
+
+> *taro slush with a lot of boba*
 
 ---
 
@@ -33,6 +50,19 @@ permalink: /officers/eboard/
 <a href="https://www.instagram.com/mary_antonette_/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="maryluyun@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>External Vice President</em> | Junior</h3>
+**Political Science Pre-Law**
+
+### **Where are you from?**
+
+>*Falls Church, VA*
+
+### **What is your favorite FASA memory?**
+
+> *Freshman Year Bonfire*
+
+### **Go to Boba order?**
+
+> *Wintermelon Milk Tea*
 
 ---
 
@@ -100,27 +130,19 @@ permalink: /officers/eboard/
 <a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
 <a href="mailto:mmira02@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
-**Computer Science**
+**Business Undecided**
 
 > Yo, my name is Josh and I'm one of your historians this year. hmu for some photoshoots :)
 
 ### **Where are you from?**
-> Richmond, VA
+> Alexandria, VA
 
-### **What are some of your favorite hobbies?**
+### **Favorite song ATM?**
 
-> *taking pictures/videos, cooking, playing sports, video games*
+> *august-taylor swift *
 
-### **What is your life motto?**
+### **Go to Boba order?**
 
-> *do something today that your future self will thank you for*
-
-### **What is your favorite FASA memory?**
-
-> *yelling D-WHAT at every meeting*
-
-### **What is your favorite quarantine pastime?**
-
-> *Valorant with the bois*
+> *brown sugar milk tea*
 
 ---
