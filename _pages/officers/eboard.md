@@ -138,7 +138,7 @@ permalink: /officers/eboard/
 
 ### **Favorite song ATM?**
 
-> *august-taylor swift *
+> *august-Taylor Swift*
 
 ### **Go to Boba order?**
 
