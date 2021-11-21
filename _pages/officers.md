@@ -59,7 +59,7 @@ events:
 # fundraising
 fundraising:
   - url: /officers/fundraising/#Elaina
-    image_path: /assets/images/officers/Small officer photos/Elaina.png
+    image_path: assets/images/officers/Circles 2021-2022/output/Elaina.png
     alt: "Elaina Sprague"
   - url: /officers/fundraising/#Kalista
     image_path: /assets/images/officers/Small officer photos/Kalitsa.png
