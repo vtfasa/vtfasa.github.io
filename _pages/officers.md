@@ -15,98 +15,98 @@ header:
 # eboard gallery 1 (pres, evp, and ivp)
 e_board1:
   - url: /officers/eboard/#Betsa
-    image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
+    image_path: /assets/images/officers/Small officer photos/Betsa.png
     alt: "Betsa Oropeza, President"
   - url: /officers/eboard/#Mary
-    image_path: /assets/images/officers/Circles 2021-2022/Mary.png
+    image_path: /assets/images/officers/Small officer photos/Mary.png
     alt: "Mary Luyun, External Vice President"
   - url: /officers/eboard/#Nico
-    image_path: /assets/images/officers/Circles 2021-2022/Nico.png
+    image_path: /assets/images/officers/Small officer photos/Nico.png
     alt: "Nico Palanca, Internal Vice President"
 # eboard gallery 2 (treasurer and Secretary)
 e_board2:
   - url: /officers/eboard/#Marciana
-    image_path: /assets/images/officers/Circles 2021-2022/Marciana.png
+    image_path: /assets/images/officers/Small officer photos/Marciana.png
     alt: "Marciana Castillo, Secretary"
   - url: /officers/eboard/#Matt
-    image_path: /assets/images/officers/Circles 2021-2022/Matt.png
+    image_path: /assets/images/officers/Small officer photos/Matt.png
     alt: "Matthew Miranda, Treasurer"
 
 # d7
 d7:
   - url: /officers/d7/#Jasmin
-    image_path: /assets/images/officers/Circles 2021-2022/jasmin.png
+    image_path: /assets/images/officers/Small officer photos/jasmin.png
     alt: "Jasmin Atienza"
   - url: /officers/d7/#Tisha
-    image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
+    image_path: /assets/images/officers/Small officer photos/Tisha.png
     alt: "Tisha Cajes"
 # culture
 culture:
   - url: /officers/culture/#Alexa
-    image_path: /assets/images/officers/Circles 2021-2022/output/Alexa.png
+    image_path: /assets/images/officers/Small officer photos/Alexa.png
     alt: "Alexa Marticio"
 # events
 events:
   - url: /officers/events/#Alejandro
-    image_path: /assets/images/officers/Circles 2021-2022/Alejandro.png
+    image_path: /assets/images/officers/Small officer photos/Alejandro.png
     alt: "Alejandro Romulo"
   - url: /officers/events/#Isabel
-    image_path: /assets/images/officers/Circles 2021-2022/Isabel.png
+    image_path: /assets/images/officers/Small officer photos/Isabel.png
     alt: "Isabel Jordan"
   - url: /officers/events/#Cayla
-    image_path: /assets/images/officers/Circles 2021-2022/Cayla.png
+    image_path: /assets/images/officers/Small officer photos/Cayla.png
     alt: "Cayla Corbay"
 # fundraising
 fundraising:
   - url: /officers/fundraising/#Elaina
-    image_path: /assets/images/officers/Circles 2021-2022/Elaina.png
+    image_path: /assets/images/officers/Small officer photos/Elaina.png
     alt: "Elaina Sprague"
   - url: /officers/fundraising/#Kalista
-    image_path: /assets/images/officers/Circles 2021-2022/Kalitsa.png
+    image_path: /assets/images/officers/Small officer photos/Kalista.png
     alt: "Kalista Fon"
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Patrick
-    image_path: /assets/images/officers/Circles 2021-2022/Pat.png
+    image_path: /assets/images/officers/Small officer photos/Patrick.png
     alt: "Patrick Cajayon"
   - url: /officers/hospitality/#Katelyn
-    image_path: /assets/images/officers/Circles 2021-2022/Katelyn.png
+    image_path: /assets/images/officers/Small officer photos/Katelyn.png
     alt: "Katelyn Catabay"
   - url: /officers/hospitality/#Mary
-    image_path: /assets/images/officers/Circles 2021-2022/Mary.png
+    image_path: /assets/images/officers/Small officer photos/Mary.png
     alt: "Mary Luyun"
 # service
 service:
   - url: /officers/service/#Tony
-    image_path: /assets/images/officers/Circles 2021-2022/Tony.png
+    image_path: /assets/images/officers/Small officer photos/Tony.png
     alt: "Tony Samson"
   - url: /officers/service/#Sean
-    image_path: /assets/images/officers/Circles 2021-2022/Sean.png
+    image_path: /assets/images/officers/Small officer photos/Sean.png
     alt: "Sean Borromeo"
   - url: /officers/service/#Kassandra
-    image_path: /assets/images/officers/Circles 2021-2022/Kass.png
+    image_path: /assets/images/officers/Small officer photos/Kass.png
     alt: "Kass Leoncio"
 # sports
 sports:
   - url: /officers/sports/#Gamber
-    image_path: /assets/images/officers/Circles 2021-2022/Gamber.png
+    image_path: /assets/images/officers/Small officer photos/Gamber.png
     alt: "David Gamber"
   - url: /officers/sports/#Tisha
-    image_path: /assets/images/officers/Circles 2021-2022/Tisha.png
+    image_path: /assets/images/officers/Small officer photos/Tisha.png
     alt: "Tisha Cajes"
 # promo
 promo:
   - url: /officers/promo/#Abigail
-    image_path: /assets/images/officers/Circles 2021-2022/Abby.png
+    image_path: /assets/images/officers/Small officer photos/Abby.png
     alt: "Abigail Lim"
   - url: /officers/promo/#Elysia
-    image_path: /assets/images/officers/Circles 2021-2022/Elyisa.png
+    image_path: /assets/images/officers/Small officer photos/Elyisa.png
     alt: "Elysia Calderon"
 
 # Historian
 Historian:
   - url: /officers/Historian/#Natalie
-    image_path: /assets/images/officers/Circles 2021-2022/Natalie.png
+    image_path: /assets/images/officers/Small officer photos/Natalie.png
     alt: "Natalie Nguyen"
 
 
