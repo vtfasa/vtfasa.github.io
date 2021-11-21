@@ -67,7 +67,7 @@ permalink: /officers/hospitality/
 
 ---
 <div id="Patrick"></div>
-![image-left]({{ "/assets/images/officers/Small officer photos/Patrick.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Pat.png" | absolute_url }}){: .align-left}
 ## Patrick Cajayon
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/swerve1924/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>

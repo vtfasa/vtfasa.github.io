@@ -67,7 +67,7 @@ fundraising:
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Patrick
-    image_path: /assets/images/officers/Small officer photos/Patrick.png
+    image_path: /assets/images/officers/Small officer photos/Pat.png
     alt: "Patrick Cajayon"
   - url: /officers/hospitality/#Katelyn
     image_path: /assets/images/officers/Small officer photos/Katelyn.png
