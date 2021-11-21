@@ -109,7 +109,7 @@ Historian:
     image_path: assets\images\officers\Circles 2021-2022\Natalie.png
     alt: "Natalie Nguyen"
 
-    
+
 ---
 
 <!--
@@ -161,4 +161,4 @@ Historian:
 
 ## Historian
 
-{% include gallery id="web" type="center" %}
+{% include gallery id="Historian" type="center" %}
