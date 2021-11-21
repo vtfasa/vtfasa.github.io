@@ -12,7 +12,7 @@ layout: single
 header:
   image: /assets/images/officers/Circles 2021-2022/Circles complete.png
 
-# eboard gallery 1 (pres, vp, and secretary)
+# eboard gallery 1 (pres, evp, and ivp)
 e_board1:
   - url: /officers/eboard/#Betsa
     image_path: /assets/images/officers/Circles 2021-2022/Betsa.png
@@ -23,7 +23,7 @@ e_board1:
   - url: /officers/eboard/#Nico
     image_path: /assets/images/officers/Circles 2021-2022/Nico.png
     alt: "Nico Palanca, Internal Vice President"
-# eboard gallery 2 (treasurer and historians)
+# eboard gallery 2 (treasurer and Secretary)
 e_board2:
   - url: /officers/eboard/#Marciana
     image_path: /assets/images/officers/Circles 2021-2022/Marciana.png
