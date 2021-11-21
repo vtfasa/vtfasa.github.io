@@ -13,62 +13,55 @@ permalink: /officers/fundraising/
 # --- (this is a section break)
 ---
 <div id="Elaina"></div>
-![image-left]({{ "/assets/images/officers/Circles 2021-2022/output/Elaina.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Elaina.png" | absolute_url }}){: .align-left}
 ## Elaina Spraque
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/laina560/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:laina560@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
-**Marketing and Management**  
+**BIT-Cyber**  
 
-> Add me on League for a fun time PixiePoodle.
-
-### **Where are you from?**
-> *Lorton, VA (NOVA)*
-
-### **What are some of your favorite hobbies?**
-
-> *Dancing, Field Hockey, Lacrosse, DIY's, League, Organizing, Making Powerpoints*
-
-### **Dream Job (and why)?**
-
-> *Event Planner (specifically weddings hehe) because I love planning things and being able to be creative.*
-
-### **Complete the sentence: I got 99 problems but _______ ain't one.**
-
-> *reaching the bottom shelf*
-
-### **What would your rapper name be?**
-
-> *$hort$tack*
-
----
-<div id="Kelly"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Kelly.png" | absolute_url }}){: .align-left}
-## Kelly Bui
-<p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/kkbui11/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:kkbui11@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Junior</h3>
-**Business Information Technology (BIT)**
-
-> My name is Kelly and I'm one of the fundraising chairs! If you couldn't already tell, I love money and I would love to meet all of you <3
 
 ### **Where are you from?**
-> *Springfield, VA*
 
-### **What is your favorite quarantine pastime?**
-
-> *My favorite quarantine pastime was binge watching kdramas one after the other.*
+> Vienna, VA
 
 ### **What is your favorite FASA memory?**
 
-> *My favorite memory is going to the first FASA fundraiser with the officers at that time and getting to know them even after the GBM.*
+>Going to Pig Event my Freshman year and watching the performances and eating good Filipino food
 
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+### **Go-To Boba Order?**
 
-> *My favorite artists are UMI, Harry Styles, Alina Baraz, and Bruno Mars.*
+>i like to switch things up.. but mango green tea w/ aloe vera jelly<3
 
-### **What are some of your favorite hobbies?**
+### **Current song on repeat?**
 
-> *My favorite hobbies are painting, napping, and finding new music.*
+> You by Don Toliver (ft. Travis Scott)
+
+
+---
+<div id="Kelly"></div>
+![image-left]({{ "/assets/images/officers/Small officer photos/Kalitsa.png" | absolute_url }}){: .align-left}
+## Kalista Fon
+<p style="margin-bottom: 0.45em; padding: 0">
+<a href="https://www.instagram.com/kalistaafonn/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:kalistafon@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Senior</h3>
+**BIT-Cyber**
+
+
+### **Where are you from?**
+
+>Chantilly, VA
+
+### **What is your favorite FASA memory?**
+
+>Freshman year culture show!!
+
+### **Go-To Boba Order?**
+
+>Hello Kitty
+
+### **Current song on repeat?**
+
+> Free Love by HONNE
