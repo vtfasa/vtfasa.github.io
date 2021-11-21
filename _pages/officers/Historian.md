@@ -1,6 +1,6 @@
 ---
 title: Herstorian
-permalink: /officers/Historian/
+permalink: /officers/Web/
 
 # FORMAT AS FOLLOWS
 # ![image-left]({{ "/assets/images/officers/small/<OFFICER NAME>.png" | absolute_url }}){: .align-left}
@@ -36,4 +36,4 @@ permalink: /officers/Historian/
 
 ### **Current song on repeat?**
 
->IMY2 by drake 
+>IMY2 by drake

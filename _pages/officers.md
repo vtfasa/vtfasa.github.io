@@ -102,9 +102,10 @@ promo:
   - url: /officers/promo/#Elysia
     image_path: /assets/images/officers/Circles 2021-2022/Elyisa.png
     alt: "Elysia Calderon"
+
 # Historian
 Historian:
-  - url: /officers/Historian/#Natalie
+  - url: /officers/web/#Natalie
     image_path: /assets/images/officers/Circles 2021-2022/Natalie.png
     alt: "Natalie Nguyen"
 ---
