@@ -20,5 +20,24 @@ permalink: /officers/culture/
 <a href="mailto:Alexam@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Sophomore</h3>
 
+**Psychology and Human Development**  
+
+
+### **Where are you from?**
+
+> Fairfax, VA
+
+### **What is your favorite FASA memory?**
+
+> *Big/Little Reveal my freshman year*
+
+### **Go-To Boba Order?**
+
+> *Thai Tea!*
+
+### **Current song on repeat?**
+
+> *Something Special by Pop Smoke*
+
 
 ---
