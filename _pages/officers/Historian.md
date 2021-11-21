@@ -1,6 +1,6 @@
 ---
-title: Webmaster
-permalink: /officers/web/
+title: Herstorian
+permalink: /officers/Historian/
 
 # FORMAT AS FOLLOWS
 # ![image-left]({{ "/assets/images/officers/small/<OFFICER NAME>.png" | absolute_url }}){: .align-left}
