@@ -127,7 +127,7 @@ permalink: /officers/eboard/
 ![image-left]({{ "/assets/images/officers/Small officer photos/Matt.png" | absolute_url }}){: .align-left}
 ## Matthew Miranda
 <p style="margin-bottom: 0.45em; padding: 0"><a href="https://www.instagram.com/maphew.miranda/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="https://twitter.com/joshmprotacio" style="color: #494e48"><i class="fa fa-2x fa-fw fa-twitter"></i></a>
+<a href="https://www.instagram.com/maphew.miranda/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:mmira02@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
 **Business Undecided**
