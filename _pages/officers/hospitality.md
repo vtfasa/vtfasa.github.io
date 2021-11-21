@@ -35,7 +35,7 @@ permalink: /officers/hospitality/
 
 ### **Current song on repeat?**
 
->Anything on Cayla’s Sexy Kitten Playlist 
+>Anything on Cayla’s Sexy Kitten Playlist
 
 ---
 
@@ -66,32 +66,27 @@ permalink: /officers/hospitality/
 >Broken Clocks - SZA
 
 ---
-<div id="Diego"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Diego.png" | absolute_url }}){: .align-left}
-## Diego Ignacio
+<div id="Patrick"></div>
+![image-left]({{ "/assets/images/officers/Small officer photos/Patrick.png" | absolute_url }}){: .align-left}
+## Patrick Cajayon
 <p style="margin-bottom: 0.45em; padding: 0">
-<a href="https://www.instagram.com/diego.ignacio22/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
-<a href="mailto:diegoi@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<a href="https://www.instagram.com/swerve1924/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:patrickc19@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
-**Environmental Informatics**
-
-> I play a lot of video games (PC) and eat Cookout.
+**BIT (CS minor)**
 
 ### **Where are you from?**
-> *Annandale, VA*
 
-### **What is your favorite food?**
+>Reston, VA
 
-> *Korean Fried Chicken*
+### **What is your favorite FASA memory?**
 
-### **Favorite TV show(s)?**
+>Ballin out in IM sports uh ha ha
 
-> *New Girl , The Office*
+### **Go to Boba order?**
 
-### **Favorite song? (If you have no favorite song, put some of your favorite artists)**
+> Passionfruit Green Tea with Mango Jellies
 
-> *NIKI, Khalid, T Swift*
+### **Current song on repeat?**
 
-### **What are some of your favorite hobbies?**
-
-> *Video games, Eating out, Food Reaction Videos*
+>That's a loaded question, I'll give you 3: The Feels - TWICE, Off the Grid - Kanye West,  Ya Dig - Lil Wayne
