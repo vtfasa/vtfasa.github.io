@@ -1,6 +1,6 @@
 ---
 title: Herstorian
-permalink: /officers/Web/
+permalink: /officers/Historian/
 
 # FORMAT AS FOLLOWS
 # ![image-left]({{ "/assets/images/officers/small/<OFFICER NAME>.png" | absolute_url }}){: .align-left}
@@ -12,7 +12,7 @@ permalink: /officers/Web/
 # (another empty line)
 # --- (this is a section break)
 ---
-<!--## Web
+<!--## Historian
 {: .text-center}-->
 <div id="Natalie"></div>
 ![image-left]({{ "/assets/images/officers/Small officer photos/Natalie.png" | absolute_url }}){: .align-left}
