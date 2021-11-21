@@ -26,19 +26,19 @@ e_board1:
 # eboard gallery 2 (treasurer and Secretary)
 e_board2:
   - url: /officers/eboard/#Marciana
-    image_path: /assets/images/officers/Small officer photos/Marciana.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Marciana.png
     alt: "Marciana Castillo, Secretary"
   - url: /officers/eboard/#Matt
-    image_path: /assets/images/officers/Small officer photos/Matt.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Matt.png
     alt: "Matthew Miranda, Treasurer"
 
 # d7
 d7:
   - url: /officers/d7/#Jasmin
-    image_path: /assets/images/officers/Small officer photos/jasmin.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/jasmin.png
     alt: "Jasmin Atienza"
   - url: /officers/d7/#Tisha
-    image_path: /assets/images/officers/Small officer photos/Tisha.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Tisha.png
     alt: "Tisha Cajes"
 # culture
 culture:
@@ -62,7 +62,7 @@ fundraising:
     image_path: assets/images/officers/Circles 2021-2022/output/Elaina.png
     alt: "Elaina Sprague"
   - url: /officers/fundraising/#Kalista
-    image_path: /assets/images/officers/Small officer photos/Kalitsa.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Kalitsa.png
     alt: "Kalista Fon"
 
 # Historian
@@ -104,10 +104,10 @@ sports:
 # promo
 promo:
   - url: /officers/promo/#Abigail
-    image_path: /assets/images/officers/Small officer photos/Abby.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Abby.png
     alt: "Abigail Lim"
   - url: /officers/promo/#Elysia
-    image_path: /assets/images/officers/Small officer photos/Elyisa.png
+    image_path:  assets/images/officers/Circles 2021-2022/output/Elyisa.png
     alt: "Elysia Calderon"
 
 
