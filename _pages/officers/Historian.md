@@ -14,30 +14,26 @@ permalink: /officers/Historian/
 ---
 <!--## Web
 {: .text-center}-->
-<div id="Brian"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Brian.png" | absolute_url }}){: .align-left}
-## Brian Leavitt
-<a href="mailto:bleavitt24@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a>
-<h3 style="margin-top: 0">Junior</h3>
-**Computer Science**
-
->  How do computers work?
+<div id="Natalie"></div>
+![image-left]({{ "/assets/images/officers/Small officer photos/Natalie.png" | absolute_url }}){: .align-left}
+## Natalie Nguyen
+<a href="https://www.instagram.com/natlnguyen/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
+<a href="mailto:natlnguyen@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
+<h3 style="margin-top: 0">Sophomore</h3>
+**HNFE**
 
 ### **Where are you from?**
-> *Annandale, VA*
 
-### **What are some of your favorite hobbies?**
+> Dumfries, VA
 
-> *Saying "You know what time it is" and proceeding to eat an ice cream sandwich at 10pm every single night*
+### **What is your favorite FASA memory?**
 
-### **What is your favorite food?**
+> making officers video with Nico
 
-> *Swedish Fish*
+### **Go-To Boba Order?**
 
-### **What would your rapper name be?**
+>black milk tea with boba
 
-> *Two Race Blueface*
+### **Current song on repeat?**
 
-### **What is your biggest pet peeve and why?**
-
-> *People who use 'Customer is king' as an excuse to be rude to workers*
+>IMY2 by drake 
