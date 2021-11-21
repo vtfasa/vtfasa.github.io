@@ -132,7 +132,6 @@ permalink: /officers/eboard/
 <h3 style="margin-top: 0"><em>Treasurer</em> | Sophomore</h3>
 **Business Undecided**
 
-> Yo, my name is Josh and I'm one of your historians this year. hmu for some photoshoots :)
 
 ### **Where are you from?**
 > Alexandria, VA
