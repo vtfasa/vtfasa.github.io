@@ -40,7 +40,7 @@ permalink: /officers/fundraising/
 
 
 ---
-<div id="Kelly"></div>
+<div id="Kalista"></div>
 ![image-left]({{ "/assets/images/officers/Small officer photos/Kalitsa.png" | absolute_url }}){: .align-left}
 ## Kalista Fon
 <p style="margin-bottom: 0.45em; padding: 0">
