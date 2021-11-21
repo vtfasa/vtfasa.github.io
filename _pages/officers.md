@@ -96,7 +96,7 @@ sports:
     alt: "Tisha Cajes"
 # promo
 promo:
-  - url: /officers/promos/#Abigail
+  - url: /officers/promo/#Abigail
     image_path: /assets/images/officers/Circles 2021-2022/Abby.png
     alt: "Abigail Lim"
   - url: /officers/promo/#Elysia
