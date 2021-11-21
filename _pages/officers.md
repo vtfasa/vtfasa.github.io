@@ -106,7 +106,7 @@ promo:
 # Historian
 Historian:
   - url: /officers/Historian/#Natalie
-    image_path: /assets/images/officers/Circles 2021-2022/Natalie.png
+    image_path: assets\images\officers\Circles 2021-2022\Natalie.png
     alt: "Natalie Nguyen"
 ---
 
