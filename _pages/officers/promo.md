@@ -42,7 +42,7 @@ permalink: /officers/promo/
 
 ---
 <div id="Elysia"></div>
-![image-left]({{ "/assets/images/officers/20-21/small/Breanne.png" | absolute_url }}){: .align-left}
+![image-left]({{ "/assets/images/officers/Small officer photos/Elysia.png" | absolute_url }}){: .align-left}
 ## Elyisa Calderon
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/daisielliee/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
