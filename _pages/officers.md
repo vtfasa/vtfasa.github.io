@@ -102,7 +102,7 @@ promo:
   - url: /officers/promo/#Elysia
     image_path: /assets/images/officers/Circles 2021-2022/Elyisa.png
     alt: "Elysia Calderon"
-# Web
+# Historian
 Historian:
   - url: /officers/Historian/#Natalie
     image_path: /assets/images/officers/Circles 2021-2022/Natalie.png
