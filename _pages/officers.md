@@ -65,6 +65,12 @@ fundraising:
     image_path:  assets/images/officers/Circles 2021-2022/output/Kalitsa.png
     alt: "Kalista Fon"
 
+# Historian
+Historian:
+  - url: /officers/Historian/#Natalie
+    image_path: /assets/images/officers/Small officer photos/Natalie.png
+    alt: "Natalie Nguyen"
+
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Patrick
@@ -104,13 +110,6 @@ promo:
     image_path:  assets/images/officers/Circles 2021-2022/output/Elyisa.png
     alt: "Elysia Calderon"
 
-
-# Historian
-Historian:
-  - url: /officers/Historian/#Natalie
-    image_path: /assets/images/officers/Small officer photos/Natalie.png
-    alt: "Natalie Nguyen"
-
 ---
 
 <!--
@@ -144,6 +143,10 @@ Historian:
 
 {% include gallery id="fundraising" type="center" %}
 
+## Historian
+
+{% include gallery id="Historian" type="center" %}
+
 ## Hospitality
 
 {% include gallery id="hospitality" type="center" %}
@@ -159,7 +162,3 @@ Historian:
 ## Promo
 
 {% include gallery id="promo" type="center" %}
-
-## Historian
-
-{% include gallery id="Historian" type="center" %}
