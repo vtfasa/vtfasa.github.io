@@ -64,6 +64,13 @@ fundraising:
   - url: /officers/fundraising/#Kalista
     image_path: /assets/images/officers/Small officer photos/Kalitsa.png
     alt: "Kalista Fon"
+
+# Historian
+    Historian:
+    - url: /officers/Historian/#Natalie
+      image_path: /assets/images/officers/Small officer photos/Natalie.png
+      alt: "Natalie Nguyen"
+
 # hospitality
 hospitality:
   - url: /officers/hospitality/#Patrick
@@ -89,10 +96,10 @@ service:
 # sports
 sports:
   - url: /officers/sports/#Gamber
-    image_path: /assets/images/officers/Small officer photos/Gamber.png
+    image_path: assets/images/officers/Circles 2021-2022/output/Gamber.png
     alt: "David Gamber"
   - url: /officers/sports/#Tisha
-    image_path: /assets/images/officers/Small officer photos/Tisha.png
+    image_path: assets/images/officers/Circles 2021-2022/output/Tisha.png
     alt: "Tisha Cajes"
 # promo
 promo:
@@ -102,12 +109,6 @@ promo:
   - url: /officers/promo/#Elysia
     image_path: /assets/images/officers/Small officer photos/Elyisa.png
     alt: "Elysia Calderon"
-
-# Historian
-Historian:
-  - url: /officers/Historian/#Natalie
-    image_path: /assets/images/officers/Small officer photos/Natalie.png
-    alt: "Natalie Nguyen"
 
 
 ---
