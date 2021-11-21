@@ -16,7 +16,7 @@ permalink: /officers/events/
 <div id="Alejandro"></div>
 ![image-left]({{ "/assets/images/officers/Small officer photos/Alejandro.png" | absolute_url }}){: .align-left}
 ## Alejandro Romulo
-<p style="margin-bottom: 0.45em; padding: 0"></p>
+<p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/fasa_eats/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:alejandror@vt.edu " style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Senior</h3>
@@ -47,7 +47,7 @@ permalink: /officers/events/
 <div id="Cayla"></div>
 ![image-left]({{ "/assets/images/officers/Small officer photos/Cayla.png" | absolute_url }}){: .align-left}
 ## Cayla Corbray
-<p style="margin-bottom: 0.45em; padding: 0"></p>
+<p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/ccorbray618/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:caylacorbray@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
 <h3 style="margin-top: 0">Junior</h3>
@@ -75,13 +75,13 @@ permalink: /officers/events/
 ****  
 
 
-<div id="Alexa"></div>
+<div id="Isabel"></div>
 ![image-left]({{ "/assets/images/officers/Small officer photos/Isabel.png" | absolute_url }}){: .align-left}
 ## Isabel Jordan
 <p style="margin-bottom: 0.45em; padding: 0">
 <a href="https://www.instagram.com/_isabeljordan/" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-instagram" style="color: #494e48"></i></a>
 <a href="mailto:isabelsjordan@vt.edu" style="margin: 0; padding: 0"><i class="fa fa-2x fa-fw fa-envelope" style="color: #494e48"></i></a></p>
-<h3 style="margin-top: 0">Sophomore</h3>
+<h3 style="margin-top: 0">Senior</h3>
 
 **Animal & Poultry Sciences**  
 
