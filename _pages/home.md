@@ -90,6 +90,7 @@ e_board2:
     excerpt: "***Secretary***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
 
     # resources header
+feature_header:
     resources_header:
       - title: 'Resources'
 
