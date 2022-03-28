@@ -89,30 +89,40 @@ e_board2:
     title: "Marciana Castillo"
     excerpt: "***Secretary***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
 
-Feature Header:
+feature_header:
 - title: Resources for Sexual Assault  
 
 excerpt: RAINN (Rape, Abuse, & Incest National Network)
-RAINN has a free and confidential hotline available to survivors online or by phone. National Sexual Assault Hotline
+RAINN has a free and confidential hotline available to survivors online or by phone.
+
+National Sexual Assault Hotline
 800-656-HOPE (800-656-4673)
 This number automatically routes you to your nearest sexual assault service provider
+
+
 Find Your Local Center
 By RAINN (Rape, Abuse, & Incest National Network)
 https://centers.rainn.org/
+
 National Street Harassment Hotline
 855-897-5910 or chat online via https://hotline.rainn.org/ssh-en
+
 National Organization for Victim Assistance
 800-TRY-NOVA (800-879-6682)
+
 National Center for Victims of Crime
 https://victimsofcrime.org/
+
 Sexual Assault Survivor Resources
 https://greatist.com/live/sexual-assault-survivor-resources
+
 National Sexual Violence Resource Center (NSVRC)
 https://www.nsvrc.org/
 For Male Survivors
-1 in 6: https://1in6.org/
+1 in 6:https://1in6.org/
 LGBTQ Survivors of Color
-National Queer and Trans Therapists of Color Network: https://www.nqttcn.com/
+
+National Queer and Trans Therapists of Color Network:https://www.nqttcn.com/
 
 ---
 
