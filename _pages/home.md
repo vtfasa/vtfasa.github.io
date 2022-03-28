@@ -89,16 +89,6 @@ e_board2:
     title: "Marciana Castillo"
     excerpt: "***Secretary***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
 
-    # resources header
-feature_header:
-    resources_header:
-      - title: 'Resources'
-RAINN (Rape, Abuse, & Incest National Network) RAINN has a free and confidential
-hotline available to survivors online or by phone. National Sexual Assault Hotline
-800-656-HOPE (800-656-4673) This number automatically routes you to your nearest
-sexual assault service provider Find Your Local Center By RAINN (Rape, Abuse, &
-Incest National Network) 
-
 
 ---
 
