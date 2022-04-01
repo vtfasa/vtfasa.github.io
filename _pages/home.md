@@ -89,8 +89,6 @@ e_board2:
     title: "Marciana Castillo"
     excerpt: "***Secretary***" # - I have a passion for creativity and I can’t wait to use it through my position on the FASA officer board!"
 
-saresources_header:
-    - title: "SA Resources"
 
 ---
 
@@ -147,5 +145,3 @@ saresources_header:
 {% include feature_row id="e_board1" %}
 
 {% include feature_row id="e_board2" %}
-
-{% include feature_row id="saresources_header" type="center" %}
