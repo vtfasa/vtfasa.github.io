@@ -28,6 +28,9 @@ intro:
 blm_header:
   - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
 
+blm_header:
+  - title: "FASA's statement on the Black Lives Matter Movement and Systemic Racism in America"
+
 blm_statement:
   - image_path: /assets/images/misc/blmstatement1.png
   - image_path: /assets/images/misc/blmstatement2.png
