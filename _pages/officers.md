@@ -43,7 +43,7 @@ d7:
 # culture
 culture:
   - url: /officers/culture/#Alexa
-    image_path: assets/images/officers/Circles 2021-2022/output/Alexa.png
+    image_path: /assets/images/officers/Small officer photos/Alexa.png
     alt: "Alexa Marticio"
 # events
 events:
@@ -68,7 +68,7 @@ fundraising:
 # Historian
 Historian:
   - url: /officers/Historian/#Natalie
-    image_path: assets/images/officers/Circles 2021-2022/output/Natalie.png
+    image_path: /assets/images/officers/Small officer photos/Natalie.png
     alt: "Natalie Nguyen"
 
 # hospitality
