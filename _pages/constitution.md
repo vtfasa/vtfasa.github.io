@@ -306,7 +306,7 @@ b. It shall determine and carry out the goals of the organization.
 c. It shall plan and coordinate all activities of the organization.  
 d. It shall make any decisions concerning replacement of officers and committee chairpersons, progressing with impeachment procedures, and consider all matters of vital importance concerning the organization.  
 
-**SECTION 2. HISTORIAN**
+**SECTION 2. HISTORIAN/S**
 
 The powers and duties of the Historian shall be:
 
