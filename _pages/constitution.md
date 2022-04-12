@@ -93,8 +93,8 @@ b. The duties and responsibilities of the council shall be outlined in the By La
 ### SECTION 2. COMMITTEES
 
 a. There shall be the following standing committees:  
- * Historian
- * D7 Representative  
+ * Historian/s
+ * D7 Representatives  
  * Culture Committee  
  * Events Committee  
  * Fundraising Committee  
