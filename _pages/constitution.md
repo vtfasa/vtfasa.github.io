@@ -212,7 +212,7 @@ This version of the constitution is dated April 17, 2018 and ratified by the Fil
 **THE BY LAWS OF THE FILIPINO AMERICAN STUDENT ASSOCIATION ARTICLE I POWERS AND DUTIES OF OFFICERS**
 
 
-**SECTION 1. PRESIDENT**
+**SECTION 1. PRESIDENT (Matthew)**
 
 The duties and powers of the President shall be:
 
