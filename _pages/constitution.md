@@ -14,10 +14,11 @@ The name of this organization shall be formally known as the Filipino American S
 ### SECTION 2. PURPOSE
 
 This organization shall have several purposes:
-a. To enhance interaction between Filipinos and other students, faculty, and staff of the Virginia Polytechnic Institute and State University  
-b. To promote the Filipinos through cultural, educational, and social activities.  
-c. To foster asense of unity and pride within the organization.  
+a. To enhance interaction between Filipinos and other students, faculty, and staff of the Virginia Polytechnic Institute and State University
+b. To promote the Filipinos through cultural, educational, and social activities.
+c. To foster a sense of unity and pride within the organization.
 d. To encourage the growth of the talents and intellect of Filipino Americans.
+
 
 ## ARTICLE II
 
