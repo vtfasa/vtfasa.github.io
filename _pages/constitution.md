@@ -181,13 +181,11 @@ a. The scholarship board will evaluate and decide on the winner of the scholarsh
 > A VIRGINIA TECH/FASA ALUMNI  
 > FASA FACULTY SPONSOR
 
-b. The scholarship board will meet the day of Culture Night at 10:00 am and decide on the winning candidate by 1:00 pm on the day of Culture Night.  
+b. Applicant must sign a pledge to use the scholarship funds for educational purposes (tuition, room and board, books, etc.)  
 
-c. Applicant must sign a pledge to use the scholarship funds for educational purposes (tuition, room and board, books, etc.)  
+c. FASA will recognize the awardee with a plaque at Cultural Night.  
 
-d. FASA will recognize the awardee with a plaque at Cultural Night.  
-
-e. The University will issue the money to the student’s university account at the beginning of the following Fall semester.
+d. The University will issue the money to the student’s university account at the beginning of the following Fall semester.
 
 ## ARTICLE VIII
 
