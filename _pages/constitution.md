@@ -225,8 +225,11 @@ f. To appoint special committees as necessary and proper to the well-being of th
 g. To serve as a liaison between FASA and FASA’s alumni.  
 h. To update the Faculty Advisor of the organization’s progress and scheduled events.  
 i. To call special meetings at their discretion.  
+
 j. To make sure all officer are on task and abiding by the VT Student Code of Conduct
+
 k. To inform the office of the Student Organizations on any changes in the Constitution at their discretion.
+
 l. To update the Executive Council of their progress.  
 
 **SECTION 2. EXTERNAL VICE PRESIDENT**
