@@ -136,8 +136,15 @@ Under the call of any officer, a council meeting may be organized at a convenien
 
 ### SECTION 1. GROUNDS FOR IMPEACHMENT
 
-a. Any elected officer may be removed from office for failure to fulfill their duties and obligations outlined in the By Laws of this constitution.  
+a. Any elected officer may be removed from office for failure to fulfill their duties and obligations outlined in the By Laws of this constitution. Additionally, if any person holding an officer position has been found not following the VT Student Code of Conduct (linked below) and/or not providing a space for inclusion and diversity, then this member may be subject to impeachment.
+
 b. Charges against any officer must be brought up in writing to the Executive Council. If the Council finds the charges reasonable for dismissal, it shall proceed with impeachment procedures.
+
+c. Allegations of an elected officer not fulfilling the duties and obligations of their position as outlined in this constitution may be brought up to the Executive Board. If sufficient evidence exists supporting the allegations brought against the officer, (subject to the Executive Board’s discretion on a case-by-case basis), then and only then may a motion be made for an impeachment hearing.
+
+d. The person in question shall be given the opportunity to resign from the office. If he or she declines, then impeachment hearings shall proceed as scheduled.
+
+e. In the case of sexual assault and/or harassment, if the accused officer chooses to step down, they are still subject to Section 2C, which outlines the process for removing a member for violating the VT Student Code of Conduct, and may be removed from the club through a majority vote from the Executive Board.
 
 ### SECTION 2. IMPEACHMENT PROCEDURES
 
