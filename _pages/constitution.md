@@ -308,7 +308,7 @@ d. It shall make any decisions concerning replacement of officers and committee 
 
 **SECTION 2. HISTORIAN/S**
 
-The powers and duties of the Historian shall be:
+The powers and duties of the Historian/s shall be:
 
 a. To keep records of the activities and events of the organization on social media (Facebook albums and Youtube).  
 b. To take pictures at all the organization’s affairs.  
