@@ -33,11 +33,23 @@ All students, faculty, and staff of Virginia Tech who are regular members, curre
 c. Associate Members  
 Those not involved with the Virginia Tech system such as students, faculty, staff of different universities, citizens of the Blacksburg area, or area in the near vicinity current with dues and has voting rights. If members have been with the group for a one-year academic term, they may hold office.
 
-### SECTION 2. NON-DISCRIMINATORY STATEMENT
+### SECTION 2. MEMBERSHIP EXPECTATIONS
+a. Any person who holds membership or that is eligible to attend affiliated events may be removed from the Organization if found not abiding to the VT Student Code of Conduct after a formal investigation by the University.
+
+B. In the event of a guilty verdict of a Virginia Tech school trial for sexual assault or harassment the Executive Board reserves the right to hold a vote subject to majority rule to remove the member from the club.
+
+c. ZERO-TOLERANCE POLICY
+The Filipino-American Student Association does not condone sexual assault or harassment. As an organization, we have a duty to foster a safe space for our members and officer board, while abiding by the Virginia Tech Student Code of Conduct and our Constitution. We will no longer have any affiliation with past offenders or impeached officers under any offenses defined by the University Policy 1025: Policy on Harassment, Discrimination, and Sexual Assault, and any attempt to re-join the Filipino-American Student Association will be denied by the Executive board.  
+
+In the instance that you experience any sexual assault and/or harassment refer to Virginia Tech faculty under the Title IX act and/or use the resources linked on our official website.
+
+
+
+### SECTION 3. NON-DISCRIMINATORY STATEMENT
 
 Membership to this organization shall not be discriminatory towards any person on the basis of race, sex, age, handicap, national origin, sexual orientation, religion, or political affiliation.
 
-### SECTION 3. MEMBERSHIP DUES
+### SECTION 4. MEMBERSHIP DUES
 
 An amount for dues shall be proposed by the officers at the beginning of the academic year. Dates for the collection of dues and payments shall be set by the treasurer.
 
