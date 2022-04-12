@@ -225,7 +225,7 @@ f. To appoint special committees as necessary and proper to the well-being of th
 g. To serve as a liaison between FASA and FASA’s alumni.  
 h. To update the Faculty Advisor of the organization’s progress and scheduled events.  
 i. To call special meetings at their discretion.  
-j. To make sure all officer are on task.  
+j. To make sure all officer are on task and abiding by the VT Student Code of Conduct
 k. To inform the office of the Student Organizations on any changes in the Constitution at their discretion.
 l. To update the Executive Council of their progress.  
 
@@ -247,7 +247,7 @@ The powers and duties of the Internal Vice President shall be:
 
 a. To take on the above responsibilities in the absence of the President.  
 b. To serve, along with the President and External Vice President, as the official representative of the organization.  
-c. To serve as the Culture Night coordinator and create the Culture Night committees along with the one Culture Chair.  
+c. To serve as the Culture Night Director and create the Culture Night committees along with the Culture Committee.  
 Culture Night Committees include:  
 * STAGE DESIGN  
 * SCRIPT  
