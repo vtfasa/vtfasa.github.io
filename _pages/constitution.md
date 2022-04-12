@@ -321,17 +321,15 @@ c. To maintain and create a display about the organization during:
 d. To present a slideshow of the year’s events at Cultural Night and at any other special events, where it is deemed appropriate.  
 e. To update the President of the progress of their assigned committees.
 
-**SECTION 3. D7 REPRESENTATIVE**
+**SECTION 3. D7 REPRESENTATIVES**
 
-The powers and duties of the D7 Representative shall be:  
+The powers and duties of the D7 Representatives shall be:  
 a. To gather necessary information about upcoming conferences and conventions and to organize attendance.  
 b. To organize transportation, lodging, and registration fees for intercollegiate events including but not limited to (D7 Olympics, FIND Inc. Dialogue, and attending other Culture Shows).  
 c. To work alongside the President regarding Alumni Relations (ex: Alumni Panels).  
 d. To work out financial details with the Treasurer.  
 e. To update the overseeing Executive Board member of the committee’s progress.    
 f. To inform the Promotions Chairperson if publicity is needed.  
-g. The D7 Chair and the Sports Chair will work as co-chairs as the D7 Committee.
-
 
 **SECTION 4. CULTURE CHAIR**
 
